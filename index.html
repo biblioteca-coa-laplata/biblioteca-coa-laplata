@@ -1,0 +1,497 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Biblioteca Virtual COA La Plata</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f9f9f9;
+            color: #333;
+        }
+        header {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            padding: 15px 30px;
+            background-color: #ffffff;
+            border-bottom: 3px solid #2e7d32;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+        }
+        .logos-container {
+            display: flex;
+            align-items: center;
+            gap: 25px;
+        }
+        .logo-coa {
+            height: 85px !important;
+            width: auto;
+            object-fit: contain;
+        }
+        .logo-aves {
+            height: 55px !important;
+            width: auto;
+            object-fit: contain;
+        }
+        header h1 {
+            margin: 0;
+            font-size: 24px;
+            color: #2e7d32;
+        }
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        .search-box {
+            display: flex;
+            gap: 10px;
+            margin-bottom: 20px;
+        }
+        #searchBar {
+            flex: 1;
+            padding: 12px 15px;
+            font-size: 16px;
+            border: 2px solid #ccc;
+            border-radius: 4px;
+            outline: none;
+        }
+        #searchBar:focus {
+            border-color: #2e7d32;
+        }
+        #filtroTipo, #filtroGeo {
+            padding: 12px;
+            font-size: 15px;
+            border: 2px solid #ccc;
+            border-radius: 4px;
+            background-color: white;
+            outline: none;
+            cursor: pointer;
+        }
+        #filtroTipo:focus, #filtroGeo:focus {
+            border-color: #2e7d32;
+        }
+        #btnBuscar {
+            padding: 12px 25px;
+            background-color: #2e7d32;
+            color: white;
+            border: none;
+            font-size: 16px;
+            font-weight: bold;
+            border-radius: 4px;
+            cursor: pointer;
+            transition: background 0.2s;
+        }
+        #btnBuscar:hover {
+            background-color: #1b5e20;
+        }
+        #btnLimpiar {
+            padding: 12px 15px;
+            background-color: #e0e0e0;
+            color: #333;
+            border: none;
+            font-size: 16px;
+            border-radius: 4px;
+            cursor: pointer;
+            transition: background 0.2s;
+        }
+        #btnLimpiar:hover {
+            background-color: #d5d5d5;
+        }
+        .panel-externo {
+            background-color: #e8f5e9;
+            border: 1px solid #c8e6c9;
+            padding: 15px;
+            border-radius: 6px;
+            margin-bottom: 25px;
+        }
+        .panel-externo h3 {
+            margin-top: 0;
+            margin-bottom: 12px;
+            color: #1b5e20;
+            font-size: 16px;
+        }
+        .categorias-exploracion {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 8px;
+            margin-top: 10px;
+        }
+        .btn-categoria {
+            padding: 8px 12px;
+            background-color: white;
+            border: 1px solid #c8e6c9;
+            border-radius: 20px;
+            cursor: pointer;
+            font-size: 14px;
+            transition: all 0.2s;
+        }
+        .btn-categoria:hover {
+            background-color: #2e7d32;
+            color: white;
+            border-color: #2e7d32;
+        }
+        .links-group {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 10px;
+        }
+        .btn-link {
+            padding: 8px 15px;
+            color: white;
+            text-decoration: none;
+            font-size: 14px;
+            font-weight: 500;
+            border-radius: 4px;
+            transition: opacity 0.2s;
+            cursor: pointer;
+        }
+        .btn-link:hover {
+            opacity: 0.9;
+        }
+        .bg-ebird { background-color: #2b579a; }
+        .bg-aves { background-color: #555555; }
+
+        #infoCount {
+            font-weight: bold;
+            margin-bottom: 15px;
+            color: #666;
+        }
+        .item-row {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            background: white;
+            padding: 15px 20px;
+            margin-bottom: 10px;
+            border-radius: 4px;
+            border-left: 5px solid #ccc;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.05);
+        }
+        .item-row.tag-local { border-left-color: #2e7d32; }
+        .item-row.tag-externo { border-left-color: #0288d1; }
+
+        .item-main {
+            display: flex;
+            align-items: center;
+            gap: 15px;
+        }
+        .item-details h3 {
+            margin: 0 0 5px 0;
+            font-size: 16px;
+        }
+        .item-meta {
+            font-size: 13px;
+            color: #666;
+            display: flex;
+            gap: 15px;
+            flex-wrap: wrap;
+        }
+        .meta-badge {
+            padding: 2px 6px;
+            border-radius: 3px;
+            font-size: 11px;
+            font-weight: bold;
+            color: white;
+        }
+        .badge-local { background-color: #2e7d32; }
+        .badge-externo { background-color: #0288d1; }
+
+        .btn-action {
+            padding: 8px 15px;
+            text-decoration: none;
+            font-size: 13px;
+            font-weight: bold;
+            border-radius: 4px;
+            color: white;
+        }
+        .btn-local { background-color: #2e7d32; }
+        .btn-web { background-color: #0288d1; }
+    </style>
+</head>
+<body>
+
+<header>
+    <div class="logos-container">
+        <img src="logo_aves.png" alt="Aves Argentinas" class="logo-aves">
+        <img src="logo_coa.png" alt="COA La Plata" class="logo-coa">
+    </div>
+    <h1>Biblioteca Virtual COA La Plata</h1>
+</header>
+
+<div class="container">
+    <div class="search-box">
+        <input
+            type="text"
+            id="searchBar"
+            placeholder="Buscar por ave, autor, tema, tipo documental o palabra clave..."
+        >
+
+        <select id="filtroTipo">
+            <option value="">Todos los tipos</option>
+        </select>
+
+        <select id="filtroGeo">
+            <option value="">Todos los alcances</option>
+        </select>
+
+        <button id="btnBuscar">Buscar</button>
+        <button id="btnLimpiar" title="Restablecer biblioteca">🔄</button>
+    </div>
+
+    <div class="panel-externo">
+        <div style="margin-bottom:20px;">
+            <strong style="color:#2e7d32;">¿Qué podés encontrar en esta biblioteca?</strong>
+            <div class="categorias-exploracion">
+                <button class="btn-categoria" onclick="buscarCategoria('aves')">🐦 Aves</button>
+                <button class="btn-categoria" onclick="buscarCategoria('plantas')">🌱 Plantas nativas</button>
+                <button class="btn-categoria" onclick="buscarCategoria('entomología')">🦋 Entomología</button>
+                <button class="btn-categoria" onclick="buscarCategoria('herpetología')">🐸 Herpetología</button>
+                <button class="btn-categoria" onclick="buscarCategoria('mamíferos')">🦊 Mamíferos</button>
+                <button class="btn-categoria" onclick="buscarCategoria('hongos')">🍄 Funga / Hongos</button>
+                <button class="btn-categoria" onclick="buscarCategoria('material didáctico')">🎒 Material didáctico</button>
+                <button class="btn-categoria" onclick="buscarCategoria('revista')">📚 Revistas y artículos</button>
+            </div>
+        </div>
+        <h3>Consultas y Repositorios Externos</h3>
+        <div class="links-group">
+            <button id="btnEbird" class="btn-link bg-ebird" style="border:none;">🔎 Buscar registros en eBird</button>
+            <button id="btnHornero" class="btn-link bg-aves" style="border:none;">Revista El Hornero (Buscar)</button>
+            <button id="btnNuestrasAves" class="btn-link bg-aves" style="border:none;">Revista Nuestras Aves (Buscar)</button>
+        </div>
+    </div>
+
+    <div id="infoCount">Cargando biblioteca...</div>
+    <div id="catalogoList"></div>
+</div>
+
+<script>
+    // Variables globales que manejan los datos
+    let bibliotecaCompleta = [];
+    let tiposUnicos = new Set();
+    let alcancesUnicos = new Set();
+
+    // Diccionario de equivalencias idéntico al de tu script de Python
+    const ALCANCE_GEOGRAFICO = {
+        "LOC": "Local / Regional",
+        "SAM": "Sudamérica",
+        "ARG": "Argentina",
+        "BSAS": "Buenos Aires",
+        "MUN": "Mundial"
+    };
+
+    // Elementos del DOM
+    const listElement = document.getElementById('catalogoList');
+    const infoCount = document.getElementById('infoCount');
+    const searchBar = document.getElementById('searchBar');
+    const filtroTipo = document.getElementById('filtroTipo');
+    const filtroGeo = document.getElementById('filtroGeo');
+    const btnBuscar = document.getElementById('btnBuscar');
+    const btnLimpiar = document.getElementById('btnLimpiar');
+
+    // Elementos de Repositorios Externos
+    const btnEbird = document.getElementById('btnEbird');
+    const btnHornero = document.getElementById('btnHornero');
+    const btnNuestrasAves = document.getElementById('btnNuestrasAves');
+
+    // Cargar la biblioteca al iniciar la página apuntando a catalogo_v2.json
+    document.addEventListener("DOMContentLoaded", () => {
+        fetch('catalogo_v2.json')
+            .then(response => {
+                if (!response.ok) throw new Error("No se pudo encontrar catalogo_v2.json");
+                return response.json();
+            })
+            .then(data => {
+                bibliotecaCompleta = data;
+                
+                // Extraer valores únicos para los desplegables
+                bibliotecaCompleta.forEach(item => {
+                    if (item.tipo) tiposUnicos.add(item.tipo);
+                    
+                    // Buscamos la sigla en el JSON
+                    const siglaGeo = item.alcance_geografico_decodificado || item.alcance_geografico || item.alcance;
+                    if (siglaGeo && ALCANCE_GEOGRAFICO[siglaGeo]) {
+                        alcancesUnicos.add(siglaGeo); // Guardamos la sigla para filtrar de forma estricta
+                    }
+                });
+
+                // Inicializar la interfaz
+                poblarDesplegables();
+                renderBiblioteca(bibliotecaCompleta);
+                asignarEventos();
+            })
+            .catch(error => {
+                console.error("Error al cargar la biblioteca:", error);
+                infoCount.innerHTML = `<span style="color:red;">⚠️ Error real al cargar JSON: ${error.message}</span>`;
+            });
+    });
+
+    // Escuchar interacciones del usuario
+    function asignarEventos() {
+        btnBuscar.addEventListener('click', ejecutarBusqueda);
+        btnLimpiar.addEventListener('click', limpiarBusqueda);
+        
+        filtroTipo.addEventListener('change', ejecutarBusqueda);
+        filtroGeo.addEventListener('change', ejecutarBusqueda);
+
+        searchBar.addEventListener('keyup', (e) => {
+            if (e.key === 'Enter') ejecutarBusqueda();
+        });
+
+        // Evento para eBird: Busca en Google para saltear el inicio de sesión
+        btnEbird.addEventListener('click', () => {
+            const t = searchBar.value.trim();
+            // Si hay algo escrito en la barra (ej: "chingolo"), busca en Google agregando los modificadores
+            // Si la barra está vacía, te manda a la portada general de eBird Argentina
+            const url = t ? `https://www.google.com/search?q=${encodeURIComponent(t)}+ebird+argentina` : 'https://ebird.org/argentina/home';
+            window.open(url, '_blank');
+        });
+
+        btnHornero.addEventListener('click', () => {
+            const t = searchBar.value.trim();
+            const url = t ? `https://elhornero.avesargentinas.org.ar/home/search/index?query=${encodeURIComponent(t)}` : 'https://elhornero.avesargentinas.org.ar/home/issue/archive';
+            window.open(url, '_blank');
+        });
+
+        btnNuestrasAves.addEventListener('click', () => {
+            const t = searchBar.value.trim();
+            const url = t ? `https://nuestrasaves.avesargentinas.org.ar/home/search/index?query=${encodeURIComponent(t)}` : 'https://nuestrasaves.avesargentinas.org.ar/home/issue/archive';
+            window.open(url, '_blank');
+        });
+    }
+
+    // Función para dibujar los elementos en la pantalla
+    function renderBiblioteca(items) {
+        listElement.innerHTML = "";
+        
+        if (items.length === 0) {
+            infoCount.innerHTML = `❌ No se encontraron documentos que coincidan con la búsqueda.`;
+        } else if (items.length === bibliotecaCompleta.length) {
+            infoCount.innerHTML = `📚 La biblioteca tiene un total de <strong>${items.length}</strong> documentos disponibles.`;
+        } else {
+            infoCount.innerHTML = `🔍 Se encontraron <strong>${items.length}</strong> documentos para tu selección.`;
+        }
+
+        items.forEach(item => {
+            const row = document.createElement('div');
+            const esLocal = item.fuente === "local";
+            row.className = `item-row ${esLocal ? 'tag-local' : 'tag-externo'}`;
+            
+            const procedencia = esLocal ? "Drive COA" : "Repositorio Web";
+            const autoresStr = (item.autor && item.autor.length > 0) ? item.autor.join('; ') : 'Autor no especificado';
+            const tagsStr = (item.etiquetas && item.etiquetas.length > 0) ? `🏷️ ${item.etiquetas.join(', ')}` : '';
+            
+            // Decodificación de la sigla para el texto que va entre corchetes
+            const siglaGeo = item.alcance_geografico_decodificado || item.alcance_geografico || item.alcance;
+            const palabraGeo = ALCANCE_GEOGRAFICO[siglaGeo] || siglaGeo;
+            const geoLabel = siglaGeo ? ` [${palabraGeo}]` : '';
+
+            let urlDestino = "";
+            if (esLocal) {
+                urlDestino = item.url_drive ? item.url_drive : `/Biblioteca COA La Plata/${item.ruta_local || item.archivo}`;
+            } else {
+                urlDestino = item.ruta_externa || item.ruta_local;
+            }
+
+            row.innerHTML = `
+                <div class="item-main">
+                    <div class="item-details">
+                        <h3>${item.titulo}</h3>
+                        <div class="item-meta">
+                            <span class="meta-badge ${esLocal ? 'badge-local' : 'badge-externo'}">${procedencia}</span>
+                            <span>✍️ <strong>Autores:</strong> ${autoresStr}</span>
+                            <span>📄 <strong>Tipo:</strong> ${(item.tipo || 'DOCUMENTO').toUpperCase()}${geoLabel}</span>
+                            <span>🧭 <strong>Tema:</strong> ${item.tema_principal || 'Sin clasificar'}</span>
+                            <span style="color:#777;">${tagsStr}</span>
+                        </div>
+                    </div>
+                </div>
+                <a href="${urlDestino}" 
+                   target="_blank" 
+                   class="btn-action ${esLocal ? 'btn-local' : 'btn-web'}">
+                   ${esLocal ? 'Previsualizar / Descargar' : 'Ir al Repositorio'}
+                </a>
+            `;
+            listElement.appendChild(row);
+        });
+    }
+
+    // Función para llenar los filtros desplegables decodificando las siglas
+    function poblarDesplegables() {
+        // Tipos
+        Array.from(tiposUnicos).sort().forEach(tipo => {
+            const opt = document.createElement('option');
+            opt.value = tipo;
+            opt.innerText = tipo.toUpperCase();
+            filtroTipo.appendChild(opt);
+        });
+
+        // Alcances Geográficos ordenados por el nombre legible
+        const listaAlcancesOrdenada = Array.from(alcancesUnicos).map(sigla => {
+            return { sigla: sigla, nombre: ALCANCE_GEOGRAFICO[sigla] || sigla };
+        }).sort((a, b) => a.nombre.localeCompare(b.nombre));
+
+        listaAlcancesOrdenada.forEach(alcance => {
+            const opt = document.createElement('option');
+            opt.value = alcance.sigla; // Filtra internamente por la sigla (estricto)
+            opt.innerText = alcance.nombre; // Muestra la palabra legible ("Sudamérica")
+            filtroGeo.appendChild(opt);
+        });
+    }
+
+    // Normalizar cadenas de texto (quitar acentos y mayúsculas)
+    function normalizarTexto(txt) {
+        if (!txt) return "";
+        return txt.toLowerCase()
+                  .normalize("NFD")
+                  .replace(/[\u0300-\u036f]/g, "");
+    }
+
+    // Motor de búsqueda general cruzado por todas las variables
+    function ejecutarBusqueda() {
+        const termino = normalizarTexto(searchBar.value);
+        const tipoSel = filtroTipo.value;
+        const geoSel = filtroGeo.value;
+
+        const resultadosFiltrados = bibliotecaCompleta.filter(item => {
+            // 1. Filtro por caja de texto libre
+            let textMatch = true;
+            if (termino !== "") {
+                const titMatch = normalizarTexto(item.titulo).includes(termino);
+                const autMatch = item.autor ? item.autor.some(a => normalizarTexto(a).includes(termino)) : false;
+                const tagMatch = item.etiquetas ? item.etiquetas.some(t => normalizarTexto(t).includes(termino)) : false;
+                const temaMatch = item.tema_principal ? normalizarTexto(item.tema_principal).includes(termino) : false;
+                const rutaMatch = item.ruta_local ? normalizarTexto(item.ruta_local).includes(termino) : false;
+                textMatch = titMatch || autMatch || tagMatch || temaMatch || rutaMatch;
+            }
+
+            // 2. Filtro estricto por tipo de documento
+            const tipoMatch = !tipoSel || (item.tipo && item.tipo === tipoSel);
+
+            // 3. Filtro estricto por la sigla del alcance geográfico
+            const itemSiglaGeo = item.alcance_geografico_decodificado || item.alcance_geografico || item.alcance;
+            const geoMatch = !geoSel || (itemSiglaGeo && itemSiglaGeo === geoSel);
+
+            return textMatch && tipoMatch && geoMatch;
+        });
+
+        renderBiblioteca(resultadosFiltrados);
+    }
+
+    // Botones de exploración rápida
+    function buscarCategoria(categoria) {
+        searchBar.value = categoria;
+        ejecutarBusqueda();
+    }
+
+    // Limpiar todos los filtros y restablecer la vista
+    function limpiarBusqueda() {
+        searchBar.value = "";
+        filtroTipo.value = "";
+        filtroGeo.value = "";
+        renderBiblioteca(bibliotecaCompleta);
+    }
+</script>

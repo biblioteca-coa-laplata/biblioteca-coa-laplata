@@ -1,0 +1,3175 @@
+[
+  {
+    "id": "00001",
+    "titulo": "Parques Nacionales [ARG] El Palmar Veo Veo",
+    "autor": [
+      "Parques Nacionales"
+    ],
+    "tema_principal": "aves",
+    "tipo": "documento",
+    "etiquetas": [],
+    "coleccion": null,
+    "fuente": "local",
+    "acceso": "visor_drive",
+    "alcance_geografico": "ARG",
+    "extension": ".pdf",
+    "ruta_local": "Aves/Parques Nacionales - [ARG] El Palmar - Veo Veo.pdf"
+  },
+  {
+    "id": "00002",
+    "titulo": "Parques Nacionales [ARG] ficha Cóndor Andino Generalidades",
+    "autor": [
+      "Parques Nacionales"
+    ],
+    "tema_principal": "aves",
+    "tipo": "ficha",
+    "etiquetas": [],
+    "coleccion": null,
+    "fuente": "local",
+    "acceso": "visor_drive",
+    "alcance_geografico": "ARG",
+    "extension": ".pdf",
+    "ruta_local": "Aves/Parques Nacionales - [ARG] ficha Cóndor Andino Generalidades.pdf"
+  },
+  {
+    "id": "00003",
+    "titulo": "Parques Nacionales [ARG] Iguazú Veo Veo",
+    "autor": [
+      "Parques Nacionales"
+    ],
+    "tema_principal": "aves",
+    "tipo": "documento",
+    "etiquetas": [],
+    "coleccion": null,
+    "fuente": "local",
+    "acceso": "visor_drive",
+    "alcance_geografico": "ARG",
+    "extension": ".pdf",
+    "ruta_local": "Aves/Parques Nacionales - [ARG] Iguazú Veo Veo.pdf"
+  },
+  {
+    "id": "00004",
+    "titulo": "Rare [SAM] Cartilla Playero Rojizo",
+    "autor": [
+      "Rare"
+    ],
+    "tema_principal": "aves",
+    "tipo": "cartilla",
+    "etiquetas": [],
+    "coleccion": null,
+    "fuente": "local",
+    "acceso": "visor_drive",
+    "alcance_geografico": "SAM",
+    "extension": ".pdf",
+    "ruta_local": "Aves/Rare - [SAM] Cartilla Playero Rojizo .pdf"
+  },
+  {
+    "id": "00005",
+    "titulo": "Red Aves internacionales [SAM] Aves migratorias sudamerica",
+    "autor": [],
+    "tema_principal": "aves",
+    "tipo": "documento",
+    "etiquetas": [
+      "migración"
+    ],
+    "coleccion": null,
+    "fuente": "local",
+    "acceso": "visor_drive",
+    "alcance_geografico": "SAM",
+    "extension": ".pdf",
+    "ruta_local": "Aves/Red Aves internacionales -[SAM] Aves migratorias sudamerica.pdf"
+  },
+  {
+    "id": "00006",
+    "titulo": "Reserva Likandes [SAM] Guía del condor y otras aves nativas",
+    "autor": [
+      "Reserva Likandes"
+    ],
+    "tema_principal": "aves",
+    "tipo": "guía",
+    "etiquetas": [],
+    "coleccion": null,
+    "fuente": "local",
+    "acceso": "visor_drive",
+    "alcance_geografico": "SAM",
+    "extension": ".pdf",
+    "ruta_local": "Aves/Reserva Likandes - [SAM] Guía del condor y otras aves nativas.pdf"
+  },
+  {
+    "id": "00007",
+    "titulo": "Roccay; Aldabe [SAM]Libro Manual Aves Playeras Laguna de Rocha",
+    "autor": [
+      "Roccay",
+      "Aldabe"
+    ],
+    "tema_principal": "aves",
+    "tipo": "manual",
+    "etiquetas": [],
+    "coleccion": null,
+    "fuente": "local",
+    "acceso": "visor_drive",
+    "alcance_geografico": "SAM",
+    "extension": ".pdf",
+    "ruta_local": "Aves/Roccay; Aldabe - [SAM]Libro  Manual Aves Playeras Laguna de Rocha.pdf"
+  },
+  {
+    "id": "00008",
+    "titulo": "Scheffer; Cremaschi; Montalti; Grilli [LOC] loros exoticos pereyra iraola",
+    "autor": [
+      "Scheffer",
+      "Cremaschi",
+      "Montalti",
+      "Grilli"
+    ],
+    "tema_principal": "aves",
+    "tipo": "documento",
+    "etiquetas": [
+      "Pereyra Iraola"
+    ],
+    "coleccion": null,
+    "fuente": "local",
+    "acceso": "visor_drive",
+    "alcance_geografico": "LOC",
+    "extension": ".pdf",
+    "ruta_local": "Aves/Scheffer; Cremaschi;  Montalti; Grilli - [LOC] loros exoticos pereyra iraola.pdf"
+  },
+  {
+    "id": "00009",
+    "titulo": "Darrieu; Camperi; Piloni; Bogado [BSAS] listado actualizado aves PBA",
+    "autor": [
+      "Darrieu",
+      "Camperi",
+      "Piloni",
+      "Bogado"
+    ],
+    "tema_principal": "aves",
+    "tipo": "listado",
+    "etiquetas": [],
+    "coleccion": null,
+    "fuente": "local",
+    "acceso": "visor_drive",
+    "alcance_geografico": "BSAS",
+    "extension": ".pdf",
+    "ruta_local": "Aves/Darrieu; Camperi; Piloni; Bogado -  [BSAS] listado actualizado aves PBA .pdf"
+  },
+  {
+    "id": "00010",
+    "titulo": "De La Peña [ARG] Nidos y Reproducción",
+    "autor": [
+      "De La Peña"
+    ],
+    "tema_principal": "aves",
+    "tipo": "documento",
+    "etiquetas": [],
+    "coleccion": null,
+    "fuente": "local",
+    "acceso": "visor_drive",
+    "alcance_geografico": "ARG",
+    "extension": ".pdf",
+    "ruta_local": "Aves/De La Peña - [ARG] Nidos y Reproducción .pdf"
+  },
+  {
+    "id": "00011",
+    "titulo": "De La Peña [ARG] Nidos, huevos y pichones Tomo 1",
+    "autor": [
+      "De La Peña"
+    ],
+    "tema_principal": "aves",
+    "tipo": "documento",
+    "etiquetas": [],
+    "coleccion": null,
+    "fuente": "local",
+    "acceso": "visor_drive",
+    "alcance_geografico": "ARG",
+    "extension": ".pdf",
+    "ruta_local": "Aves/De La Peña - [ARG] Nidos, huevos y pichones Tomo 1.pdf"
+  },
+  {
+    "id": "00012",
+    "titulo": "De La Peña [ARG] Nidos, huevos y pichones Tomo 2",
+    "autor": [
+      "De La Peña"
+    ],
+    "tema_principal": "aves",
+    "tipo": "documento",
+    "etiquetas": [],
+    "coleccion": null,
+    "fuente": "local",
+    "acceso": "visor_drive",
+    "alcance_geografico": "ARG",
+    "extension": ".pdf",
+    "ruta_local": "Aves/De La Peña - [ARG] Nidos, huevos y pichones Tomo 2.pdf"
+  },
+  {
+    "id": "00013",
+    "titulo": "Fauna Querida [LOC]Seres queridxs de Buenos Aires",
+    "autor": [
+      "Fauna Querida"
+    ],
+    "tema_principal": "aves",
+    "tipo": "documento",
+    "etiquetas": [],
+    "coleccion": null,
+    "fuente": "local",
+    "acceso": "visor_drive",
+    "alcance_geografico": "LOC",
+    "extension": ".pdf",
+    "ruta_local": "Aves/Fauna Querida - [LOC]Seres queridxs de Buenos Aires.pdf"
+  },
+  {
+    "id": "00014",
+    "titulo": "Fundacion Patagonia Natural [ARG] Aves terrestres y de agua dulce",
+    "autor": [
+      "Fundacion Patagonia Natural"
+    ],
+    "tema_principal": "aves",
+    "tipo": "documento",
+    "etiquetas": [],
+    "coleccion": null,
+    "fuente": "local",
+    "acceso": "visor_drive",
+    "alcance_geografico": "ARG",
+    "extension": ".pdf",
+    "ruta_local": "Aves/Fundacion Patagonia Natural - [ARG] Aves terrestres y de agua dulce.pdf"
+  },
+  {
+    "id": "00015",
+    "titulo": "Lopez Lanus; Marino [ARG] Articulo en Aves Argentinas 9⁄12 Aves de pastizal",
+    "autor": [
+      "Lopez Lanus",
+      "Marino"
+    ],
+    "tema_principal": "aves",
+    "tipo": "artículo",
+    "etiquetas": [],
+    "coleccion": null,
+    "fuente": "local",
+    "acceso": "visor_drive",
+    "alcance_geografico": "ARG",
+    "extension": ".pdf",
+    "ruta_local": "Aves/Lopez Lanus; Marino - [ARG] Articulo en   Aves Argentinas 9⁄12 Aves de pastizal.pdf"
+  },
+  {
+    "id": "00016",
+    "titulo": "Amigos de la reserva Costanera Sur [LOC] Material Didáctico Observadores de Naturaleza RECS",
+    "autor": [
+      "Amigos de la reserva Costanera Sur"
+    ],
+    "tema_principal": "aves",
+    "tipo": "material didáctico",
+    "etiquetas": [
+      "Material Didáctico"
+    ],
+    "coleccion": null,
+    "fuente": "local",
+    "acceso": "visor_drive",
+    "alcance_geografico": "LOC",
+    "extension": ".pdf",
+    "ruta_local": "Aves/Amigos de la reserva Costanera Sur - [LOC] Material Didáctico Observadores de Naturaleza - RECS.pdf"
+  },
+  {
+    "id": "00017",
+    "titulo": "Ares [MUN] Libro Aves vida y conducta",
+    "autor": [
+      "Ares"
+    ],
+    "tema_principal": "aves",
+    "tipo": "libro",
+    "etiquetas": [],
+    "coleccion": null,
+    "fuente": "local",
+    "acceso": "visor_drive",
+    "alcance_geografico": "MUN",
+    "extension": ".pdf",
+    "ruta_local": "Aves/Ares - [MUN] Libro Aves vida y conducta.pdf"
+  },
+  {
+    "id": "00018",
+    "titulo": "Aves Argentinas Material Didactico Observación Aves Silvestres",
+    "autor": [
+      "Aves Argentinas"
+    ],
+    "tema_principal": "aves",
+    "tipo": "material didáctico",
+    "etiquetas": [
+      "Material Didáctico"
+    ],
+    "coleccion": null,
+    "fuente": "local",
+    "acceso": "visor_drive",
+    "alcance_geografico": null,
+    "extension": ".pdf",
+    "ruta_local": "Aves/Aves Argentinas - Material Didactico Observación Aves Silvestres.pdf"
+  },
+  {
+    "id": "00019",
+    "titulo": "Aves Argentinas [ARG] Cartilla Volver a volar Guía primeros auxilios aves",
+    "autor": [
+      "Aves Argentinas"
+    ],
+    "tema_principal": "aves",
+    "tipo": "guía",
+    "etiquetas": [],
+    "coleccion": null,
+    "fuente": "local",
+    "acceso": "visor_drive",
+    "alcance_geografico": "ARG",
+    "extension": ".pdf",
+    "ruta_local": "Aves/Aves Argentinas - [ARG] Cartilla Volver a volar Guía primeros auxilios aves.PDF"
+  },
+  {
+    "id": "00020",
+    "titulo": "Beccaceci [ARG] Guia de Campo de el Litoral Argentino",
+    "autor": [
+      "Beccaceci"
+    ],
+    "tema_principal": "aves",
+    "tipo": "guía",
+    "etiquetas": [],
+    "coleccion": null,
+    "fuente": "local",
+    "acceso": "visor_drive",
+    "alcance_geografico": "ARG",
+    "extension": ".pdf",
+    "ruta_local": "Aves/Beccaceci - [ARG] Guia de Campo de el Litoral Argentino.pdf"
+  },
+  {
+    "id": "00021",
+    "titulo": "Bertonatti; Aprile Manual Rehabilitación de Fauna",
+    "autor": [
+      "Bertonatti",
+      "Aprile"
+    ],
+    "tema_principal": "aves",
+    "tipo": "manual",
+    "etiquetas": [],
+    "coleccion": null,
+    "fuente": "local",
+    "acceso": "visor_drive",
+    "alcance_geografico": null,
+    "extension": ".pdf",
+    "ruta_local": "Aves/Bertonatti; Aprile - Manual Rehabilitación de Fauna.pdf"
+  },
+  {
+    "id": "00022",
+    "titulo": "Bosisio; Seipke [ARG] Curso Aves Rapaces de Aves Argentinas",
+    "autor": [
+      "Bosisio",
+      "Seipke"
+    ],
+    "tema_principal": "aves",
+    "tipo": "documento",
+    "etiquetas": [],
+    "coleccion": null,
+    "fuente": "local",
+    "acceso": "visor_drive",
+    "alcance_geografico": "ARG",
+    "extension": ".pdf",
+    "ruta_local": "Aves/Bosisio; Seipke -  [ARG] Curso Aves Rapaces de Aves Argentinas.pdf"
+  },
+  {
+    "id": "00023",
+    "titulo": "Calisaya [SAM] Flamencos y Parinas",
+    "autor": [
+      "Calisaya"
+    ],
+    "tema_principal": "aves",
+    "tipo": "documento",
+    "etiquetas": [],
+    "coleccion": null,
+    "fuente": "local",
+    "acceso": "visor_drive",
+    "alcance_geografico": "SAM",
+    "extension": ".pdf",
+    "ruta_local": "Aves/Calisaya - [SAM] Flamencos y Parinas.pdf"
+  },
+  {
+    "id": "00024",
+    "titulo": "Ministerio de Ambiente PBA [BSAS] Cartilla Aves Costeras",
+    "autor": [
+      "Ministerio de Ambiente PBA"
+    ],
+    "tema_principal": "aves",
+    "tipo": "cartilla",
+    "etiquetas": [],
+    "coleccion": null,
+    "fuente": "local",
+    "acceso": "visor_drive",
+    "alcance_geografico": "BSAS",
+    "extension": ".pdf",
+    "ruta_local": "Aves/Ministerio de Ambiente PBA - [BSAS] Cartilla Aves Costeras.pdf"
+  },
+  {
+    "id": "00025",
+    "titulo": "Ministerio de la Produccion [BSAS] Guía modelo de identificación de aves",
+    "autor": [
+      "Ministerio de la Produccion"
+    ],
+    "tema_principal": "aves",
+    "tipo": "guía",
+    "etiquetas": [],
+    "coleccion": null,
+    "fuente": "local",
+    "acceso": "visor_drive",
+    "alcance_geografico": "BSAS",
+    "extension": ".pdf",
+    "ruta_local": "Aves/Ministerio de la Produccion - [BSAS] Guía modelo de identificación de aves.pdf"
+  },
+  {
+    "id": "00026",
+    "titulo": "Monteleone; Pagano [ARG] LISTADO DE LAS AVES ARGENTINAS",
+    "autor": [
+      "Monteleone",
+      "Pagano"
+    ],
+    "tema_principal": "aves",
+    "tipo": "listado",
+    "etiquetas": [],
+    "coleccion": null,
+    "fuente": "local",
+    "acceso": "visor_drive",
+    "alcance_geografico": "ARG",
+    "extension": ".pdf",
+    "ruta_local": "Aves/Monteleone; Pagano -  [ARG] LISTADO DE LAS AVES ARGENTINAS.pdf"
+  },
+  {
+    "id": "00027",
+    "titulo": "Mouchard [ARG] Etimología de los nombres científicos de las aves de Argentina",
+    "autor": [
+      "Mouchard"
+    ],
+    "tema_principal": "aves",
+    "tipo": "documento",
+    "etiquetas": [],
+    "coleccion": null,
+    "fuente": "local",
+    "acceso": "visor_drive",
+    "alcance_geografico": "ARG",
+    "extension": ".pdf",
+    "ruta_local": "Aves/Mouchard - [ARG] Etimología de los nombres científicos de las aves de Argentina.pdf"
+  },
+  {
+    "id": "00028",
+    "titulo": "Narosky Material Didactico Manual del Observador de Aves",
+    "autor": [
+      "Narosky"
+    ],
+    "tema_principal": "aves",
+    "tipo": "manual",
+    "etiquetas": [
+      "Material Didáctico"
+    ],
+    "coleccion": null,
+    "fuente": "local",
+    "acceso": "descarga",
+    "alcance_geografico": null,
+    "extension": ".pdf",
+    "ruta_local": "Aves/Narosky - Material Didactico Manual del Observador de Aves.pdf"
+  },
+  {
+    "id": "00029",
+    "titulo": "Coconier [ARG] Inventario de Las Aves Silvestres de Acambuco Salta",
+    "autor": [
+      "Coconier"
+    ],
+    "tema_principal": "aves",
+    "tipo": "inventario",
+    "etiquetas": [],
+    "coleccion": null,
+    "fuente": "local",
+    "acceso": "visor_drive",
+    "alcance_geografico": "ARG",
+    "extension": ".pdf",
+    "ruta_local": "Aves/Coconier - [ARG] Inventario de Las Aves Silvestres de Acambuco Salta.pdf"
+  },
+  {
+    "id": "00030",
+    "titulo": "Maureira; Lezcano [ARG] Cartilla Aves del humedal Chos Malal",
+    "autor": [
+      "Maureira",
+      "Lezcano"
+    ],
+    "tema_principal": "aves",
+    "tipo": "cartilla",
+    "etiquetas": [],
+    "coleccion": null,
+    "fuente": "local",
+    "acceso": "visor_drive",
+    "alcance_geografico": "ARG",
+    "extension": ".pdf",
+    "ruta_local": "Aves/Maureira; Lezcano - [ARG] Cartilla Aves del humedal Chos Malal.pdf"
+  },
+  {
+    "id": "00031",
+    "titulo": "Olmo Linares [MUN] Manual Observacion Aves para Principiantes",
+    "autor": [
+      "Olmo Linares"
+    ],
+    "tema_principal": "aves",
+    "tipo": "manual",
+    "etiquetas": [],
+    "coleccion": null,
+    "fuente": "local",
+    "acceso": "visor_drive",
+    "alcance_geografico": "MUN",
+    "extension": ".pdf",
+    "ruta_local": "Aves/Olmo Linares - [MUN] Manual Observacion Aves para Principiantes.pdf"
+  },
+  {
+    "id": "00032",
+    "titulo": "Canevari [LOC) Didactico Veo Veo en Buenos Aires la Naturaleza cerca",
+    "autor": [
+      "Canevari"
+    ],
+    "tema_principal": "sin clasificar",
+    "tipo": "material didáctico",
+    "etiquetas": [
+      "Material Didáctico"
+    ],
+    "coleccion": null,
+    "fuente": "local",
+    "acceso": "visor_drive",
+    "alcance_geografico": null,
+    "extension": ".pdf",
+    "ruta_local": "Educación Ambiental - Material didáctico/ Canevari - [LOC) Didactico Veo Veo en Buenos Aires la Naturaleza cerca.pdf"
+  },
+  {
+    "id": "00033",
+    "titulo": "Ministerio de justicia [ARG] Material didactico Ley Educacion Ambiental integral (lectura facil)",
+    "autor": [
+      "Ministerio de justicia"
+    ],
+    "tema_principal": "legislación ambiental",
+    "tipo": "material didáctico",
+    "etiquetas": [
+      "Material Didáctico"
+    ],
+    "coleccion": null,
+    "fuente": "local",
+    "acceso": "visor_drive",
+    "alcance_geografico": "ARG",
+    "extension": ".pdf",
+    "ruta_local": "Educación Ambiental - Material didáctico/ Ministerio de justicia - [ARG] Material didactico Ley Educacion Ambiental integral (lectura-facil).pdf"
+  },
+  {
+    "id": "00034",
+    "titulo": "A4 REGLITAS COA CIENTIFICO FINAL",
+    "autor": [],
+    "tema_principal": "sin clasificar",
+    "tipo": "material didáctico",
+    "etiquetas": [
+      "Material Didáctico"
+    ],
+    "coleccion": null,
+    "fuente": "local",
+    "acceso": "visor_drive",
+    "alcance_geografico": null,
+    "extension": ".pdf",
+    "ruta_local": "Educación Ambiental - Material didáctico/A4-REGLITAS-COA-CIENTIFICO-FINAL.pdf"
+  },
+  {
+    "id": "00035",
+    "titulo": "ACUMAR [LOC]Didactico La garza carlota acumar",
+    "autor": [
+      "ACUMAR"
+    ],
+    "tema_principal": "sin clasificar",
+    "tipo": "material didáctico",
+    "etiquetas": [
+      "Material Didáctico"
+    ],
+    "coleccion": null,
+    "fuente": "local",
+    "acceso": "visor_drive",
+    "alcance_geografico": "LOC",
+    "extension": ".pdf",
+    "ruta_local": "Educación Ambiental - Material didáctico/ACUMAR - [LOC]Didactico La garza carlota acumar.pdf"
+  },
+  {
+    "id": "00036",
+    "titulo": "Bertonatti; Nardini [ARG] Manual de observacion de aves para chicos",
+    "autor": [
+      "Bertonatti",
+      "Nardini"
+    ],
+    "tema_principal": "aves",
+    "tipo": "manual",
+    "etiquetas": [
+      "Material Didáctico"
+    ],
+    "coleccion": null,
+    "fuente": "local",
+    "acceso": "visor_drive",
+    "alcance_geografico": "ARG",
+    "extension": ".pdf",
+    "ruta_local": "Educación Ambiental - Material didáctico/Bertonatti; Nardini - [ARG] Manual de  observacion de aves para chicos.pdf"
+  },
+  {
+    "id": "00037",
+    "titulo": "Buenos Aires Ciudad Didactico Cubos A4",
+    "autor": [
+      "Buenos Aires Ciudad"
+    ],
+    "tema_principal": "sin clasificar",
+    "tipo": "material didáctico",
+    "etiquetas": [
+      "Material Didáctico"
+    ],
+    "coleccion": null,
+    "fuente": "local",
+    "acceso": "visor_drive",
+    "alcance_geografico": null,
+    "extension": ".pdf",
+    "ruta_local": "Educación Ambiental - Material didáctico/Buenos Aires Ciudad - Didactico Cubos A4.pdf"
+  },
+  {
+    "id": "00038",
+    "titulo": "Cartilla [LOC] Didactico Infantil RECS",
+    "autor": [],
+    "tema_principal": "sin clasificar",
+    "tipo": "material didáctico",
+    "etiquetas": [
+      "Material Didáctico"
+    ],
+    "coleccion": null,
+    "fuente": "local",
+    "acceso": "visor_drive",
+    "alcance_geografico": "LOC",
+    "extension": ".pdf",
+    "ruta_local": "Educación Ambiental - Material didáctico/Cartilla - [LOC] Didactico  Infantil  RECS.pdf"
+  },
+  {
+    "id": "00039",
+    "titulo": "COANA [ARG] Material didáctico Cuaderno de Campo",
+    "autor": [
+      "COANA"
+    ],
+    "tema_principal": "sin clasificar",
+    "tipo": "material didáctico",
+    "etiquetas": [
+      "Material Didáctico"
+    ],
+    "coleccion": null,
+    "fuente": "local",
+    "acceso": "visor_drive",
+    "alcance_geografico": "ARG",
+    "extension": ".pdf",
+    "ruta_local": "Educación Ambiental - Material didáctico/COANA - [ARG] Material didáctico Cuaderno de Campo.pdf"
+  },
+  {
+    "id": "00040",
+    "titulo": "COANA [ARG] Material didáctico Libro de actividades",
+    "autor": [
+      "COANA"
+    ],
+    "tema_principal": "sin clasificar",
+    "tipo": "material didáctico",
+    "etiquetas": [
+      "Material Didáctico"
+    ],
+    "coleccion": null,
+    "fuente": "local",
+    "acceso": "visor_drive",
+    "alcance_geografico": "ARG",
+    "extension": ".pdf",
+    "ruta_local": "Educación Ambiental - Material didáctico/COANA - [ARG] Material didáctico Libro de actividades.pdf"
+  },
+  {
+    "id": "00041",
+    "titulo": "Didactico Ciclo vital hormigas",
+    "autor": [],
+    "tema_principal": "sin clasificar",
+    "tipo": "material didáctico",
+    "etiquetas": [
+      "Material Didáctico"
+    ],
+    "coleccion": null,
+    "fuente": "local",
+    "acceso": "visor_drive",
+    "alcance_geografico": null,
+    "extension": ".pdf",
+    "ruta_local": "Educación Ambiental - Material didáctico/Didactico - Ciclo vital hormigas.pdf"
+  },
+  {
+    "id": "00042",
+    "titulo": "Didactico Ciclo vital mariposa",
+    "autor": [],
+    "tema_principal": "entomología",
+    "tipo": "material didáctico",
+    "etiquetas": [
+      "Material Didáctico",
+      "mariposas"
+    ],
+    "coleccion": null,
+    "fuente": "local",
+    "acceso": "visor_drive",
+    "alcance_geografico": null,
+    "extension": ".pdf",
+    "ruta_local": "Educación Ambiental - Material didáctico/Didactico - Ciclo vital mariposa.pdf"
+  },
+  {
+    "id": "00043",
+    "titulo": "Didactico Ciclo vital mariquita",
+    "autor": [],
+    "tema_principal": "sin clasificar",
+    "tipo": "material didáctico",
+    "etiquetas": [
+      "Material Didáctico"
+    ],
+    "coleccion": null,
+    "fuente": "local",
+    "acceso": "visor_drive",
+    "alcance_geografico": null,
+    "extension": ".pdf",
+    "ruta_local": "Educación Ambiental - Material didáctico/Didactico - Ciclo vital mariquita .pdf"
+  },
+  {
+    "id": "00044",
+    "titulo": "Hart [MUN] Didactico Manual la senda de la naturaleza pajaros",
+    "autor": [
+      "Hart"
+    ],
+    "tema_principal": "sin clasificar",
+    "tipo": "manual",
+    "etiquetas": [
+      "Material Didáctico"
+    ],
+    "coleccion": null,
+    "fuente": "local",
+    "acceso": "visor_drive",
+    "alcance_geografico": "MUN",
+    "extension": ".pdf",
+    "ruta_local": "Educación Ambiental - Material didáctico/Hart - [MUN] Didactico Manual la senda de la naturaleza pajaros.pdf"
+  },
+  {
+    "id": "00045",
+    "titulo": "Ministerio de Ambiente PBA [BSAS] Didactico jugando flora y fauna",
+    "autor": [
+      "Ministerio de Ambiente PBA"
+    ],
+    "tema_principal": "flora nativa",
+    "tipo": "material didáctico",
+    "etiquetas": [
+      "Material Didáctico"
+    ],
+    "coleccion": null,
+    "fuente": "local",
+    "acceso": "visor_drive",
+    "alcance_geografico": "BSAS",
+    "extension": ".pdf",
+    "ruta_local": "Educación Ambiental - Material didáctico/Ministerio de Ambiente PBA - [BSAS] Didactico jugando flora y fauna.pdf"
+  },
+  {
+    "id": "00046",
+    "titulo": "Mun Almirante Brown [LOC] Didactico Biodiversidad Brown Verde en el Aula",
+    "autor": [
+      "Mun Almirante Brown"
+    ],
+    "tema_principal": "sin clasificar",
+    "tipo": "material didáctico",
+    "etiquetas": [
+      "Material Didáctico"
+    ],
+    "coleccion": null,
+    "fuente": "local",
+    "acceso": "visor_drive",
+    "alcance_geografico": "LOC",
+    "extension": ".pdf",
+    "ruta_local": "Educación Ambiental - Material didáctico/Mun Almirante Brown - [LOC] Didactico Biodiversidad  Brown Verde en el Aula.pdf"
+  },
+  {
+    "id": "00047",
+    "titulo": "Municipio Itazaingo [LOC] Didactico Memotest flora y fauna de Ituzaingó",
+    "autor": [
+      "Municipio Itazaingo"
+    ],
+    "tema_principal": "flora nativa",
+    "tipo": "material didáctico",
+    "etiquetas": [
+      "Material Didáctico"
+    ],
+    "coleccion": null,
+    "fuente": "local",
+    "acceso": "visor_drive",
+    "alcance_geografico": "LOC",
+    "extension": ".pdf",
+    "ruta_local": "Educación Ambiental - Material didáctico/Municipio Itazaingo -  [LOC] Didactico Memotest flora y fauna de Ituzaingó.pdf"
+  },
+  {
+    "id": "00048",
+    "titulo": "Parques Nacionales [ARG] Didactico Pintar Pato de los Torrentes",
+    "autor": [
+      "Parques Nacionales"
+    ],
+    "tema_principal": "sin clasificar",
+    "tipo": "material didáctico",
+    "etiquetas": [
+      "Material Didáctico"
+    ],
+    "coleccion": null,
+    "fuente": "local",
+    "acceso": "visor_drive",
+    "alcance_geografico": "ARG",
+    "extension": ".pdf",
+    "ruta_local": "Educación Ambiental - Material didáctico/Parques Nacionales - [ARG] Didactico Pintar Pato de los Torrentes.pdf"
+  },
+  {
+    "id": "00049",
+    "titulo": "Rebeca aprendiendode3 Material didactico estudio de Serpientes",
+    "autor": [
+      "Rebeca"
+    ],
+    "tema_principal": "sin clasificar",
+    "tipo": "material didáctico",
+    "etiquetas": [
+      "Material Didáctico"
+    ],
+    "coleccion": null,
+    "fuente": "local",
+    "acceso": "visor_drive",
+    "alcance_geografico": null,
+    "extension": ".pdf",
+    "ruta_local": "Educación Ambiental - Material didáctico/Rebeca -  aprendiendode3    Material didactico estudio de Serpientes.pdf"
+  },
+  {
+    "id": "00050",
+    "titulo": "Rebeca aprendiendode3 Material didactico Estudio de Hormigas",
+    "autor": [
+      "Rebeca"
+    ],
+    "tema_principal": "sin clasificar",
+    "tipo": "material didáctico",
+    "etiquetas": [
+      "Material Didáctico"
+    ],
+    "coleccion": null,
+    "fuente": "local",
+    "acceso": "visor_drive",
+    "alcance_geografico": null,
+    "extension": ".pdf",
+    "ruta_local": "Educación Ambiental - Material didáctico/Rebeca -  aprendiendode3  Material didactico Estudio de Hormigas  .pdf"
+  },
+  {
+    "id": "00051",
+    "titulo": "Rebeca aprendiendode3 Material didactico Estudio de Mariposas",
+    "autor": [
+      "Rebeca"
+    ],
+    "tema_principal": "entomología",
+    "tipo": "material didáctico",
+    "etiquetas": [
+      "Mariposas",
+      "Material Didáctico",
+      "mariposas"
+    ],
+    "coleccion": null,
+    "fuente": "local",
+    "acceso": "visor_drive",
+    "alcance_geografico": null,
+    "extension": ".pdf",
+    "ruta_local": "Educación Ambiental - Material didáctico/Rebeca -  aprendiendode3 Material didactico  Estudio de Mariposas .pdf"
+  },
+  {
+    "id": "00052",
+    "titulo": "Rebeca aprendiendode3 Material didactico Estudio de Abejas",
+    "autor": [
+      "Rebeca"
+    ],
+    "tema_principal": "sin clasificar",
+    "tipo": "material didáctico",
+    "etiquetas": [
+      "Material Didáctico"
+    ],
+    "coleccion": null,
+    "fuente": "local",
+    "acceso": "visor_drive",
+    "alcance_geografico": null,
+    "extension": ".pdf",
+    "ruta_local": "Educación Ambiental - Material didáctico/Rebeca - aprendiendode3- Material didactico Estudio de Abejas .pdf"
+  },
+  {
+    "id": "00053",
+    "titulo": "RECS [LOC] Material Didactico GuiaInfantil",
+    "autor": [],
+    "tema_principal": "sin clasificar",
+    "tipo": "guía",
+    "etiquetas": [
+      "Material Didáctico"
+    ],
+    "coleccion": null,
+    "fuente": "local",
+    "acceso": "visor_drive",
+    "alcance_geografico": "LOC",
+    "extension": ".pdf",
+    "ruta_local": "Educación Ambiental - Material didáctico/RECS -[LOC] Material Didactico GuiaInfantil.pdf"
+  },
+  {
+    "id": "00054",
+    "titulo": "Serrano [MUN] Libro Bichos La vida secreta de los animales",
+    "autor": [
+      "Serrano"
+    ],
+    "tema_principal": "sin clasificar",
+    "tipo": "material didáctico",
+    "etiquetas": [
+      "Material Didáctico"
+    ],
+    "coleccion": null,
+    "fuente": "local",
+    "acceso": "visor_drive",
+    "alcance_geografico": "MUN",
+    "extension": ".pdf",
+    "ruta_local": "Educación Ambiental - Material didáctico/Serrano - [MUN] Libro Bichos La vida secreta de los animales.pdf"
+  },
+  {
+    "id": "00055",
+    "titulo": "Swallow [MUN] Didactico la senda de la naturaleza lagos y arroyos",
+    "autor": [
+      "Swallow"
+    ],
+    "tema_principal": "sin clasificar",
+    "tipo": "material didáctico",
+    "etiquetas": [
+      "Material Didáctico"
+    ],
+    "coleccion": null,
+    "fuente": "local",
+    "acceso": "visor_drive",
+    "alcance_geografico": "MUN",
+    "extension": ".pdf",
+    "ruta_local": "Educación Ambiental - Material didáctico/Swallow - [MUN] Didactico la senda-de la naturaleza lagos y arroyos.pdf"
+  },
+  {
+    "id": "00056",
+    "titulo": "Botsford Comstock [MUN] entomologia Manual de Estudios de La Naturaleza Insecto insectos",
+    "autor": [
+      "Botsford Comstock"
+    ],
+    "tema_principal": "entomología",
+    "tipo": "manual",
+    "etiquetas": [],
+    "coleccion": null,
+    "fuente": "local",
+    "acceso": "visor_drive",
+    "alcance_geografico": "MUN",
+    "extension": ".pdf",
+    "ruta_local": "Entomología/Botsford Comstock - [MUN] entomologia Manual de Estudios de La Naturaleza Insecto insectos.pdf"
+  },
+  {
+    "id": "00057",
+    "titulo": "Buckley [MUN] Entomologia Articulo Vida de los Insectos",
+    "autor": [
+      "Buckley"
+    ],
+    "tema_principal": "entomología",
+    "tipo": "artículo",
+    "etiquetas": [],
+    "coleccion": null,
+    "fuente": "local",
+    "acceso": "visor_drive",
+    "alcance_geografico": "MUN",
+    "extension": ".pdf",
+    "ruta_local": "Entomología/Buckley - [MUN] Entomologia Articulo Vida de los Insectos.pdf"
+  },
+  {
+    "id": "00058",
+    "titulo": "FMCN [MUN] Entomologia Guia escarabajos peloteros",
+    "autor": [
+      "FMCN"
+    ],
+    "tema_principal": "entomología",
+    "tipo": "guía",
+    "etiquetas": [],
+    "coleccion": null,
+    "fuente": "local",
+    "acceso": "visor_drive",
+    "alcance_geografico": "MUN",
+    "extension": ".pdf",
+    "ruta_local": "Entomología/FMCN - [MUN] Entomologia Guia escarabajos peloteros.pdf"
+  },
+  {
+    "id": "00059",
+    "titulo": "Lopez Pacheco [BSAS] entomologia escarabajos Crisomélidos y Coccinélidos Aires",
+    "autor": [
+      "Lopez Pacheco"
+    ],
+    "tema_principal": "entomología",
+    "tipo": "documento",
+    "etiquetas": [],
+    "coleccion": null,
+    "fuente": "local",
+    "acceso": "visor_drive",
+    "alcance_geografico": "BSAS",
+    "extension": ".pdf",
+    "ruta_local": "Entomología/Lopez Pacheco  -  [BSAS] entomologia  escarabajos Crisomélidos y Coccinélidos  Aires.pdf"
+  },
+  {
+    "id": "00060",
+    "titulo": "Lopez Pacheco [ARG] entomologia Guía Insectos",
+    "autor": [],
+    "tema_principal": "entomología",
+    "tipo": "guía",
+    "etiquetas": [],
+    "coleccion": null,
+    "fuente": "local",
+    "acceso": "visor_drive",
+    "alcance_geografico": "ARG",
+    "extension": ".pdf",
+    "ruta_local": "Entomología/Lopez Pacheco -[ARG] entomologia Guía Insectos.pdf"
+  },
+  {
+    "id": "00061",
+    "titulo": "Minist. Ciencia Tecologia [ARG] lamina artropodos argentina",
+    "autor": [
+      "Minist. Ciencia Tecologia"
+    ],
+    "tema_principal": "entomología",
+    "tipo": "lámina",
+    "etiquetas": [],
+    "coleccion": null,
+    "fuente": "local",
+    "acceso": "visor_drive",
+    "alcance_geografico": "ARG",
+    "extension": ".pdf",
+    "ruta_local": "Entomología/Minist. Ciencia Tecologia - [ARG] lamina artropodos-argentina.pdf"
+  },
+  {
+    "id": "00062",
+    "titulo": "Revista [ARG] CEAL Fauna Argentina Las Arañas II",
+    "autor": [],
+    "tema_principal": "entomología",
+    "tipo": "revista",
+    "etiquetas": [],
+    "coleccion": null,
+    "fuente": "local",
+    "acceso": "visor_drive",
+    "alcance_geografico": "ARG",
+    "extension": ".pdf",
+    "ruta_local": "Entomología/Revista - [ARG] CEAL Fauna Argentina  Las Arañas II.pdf"
+  },
+  {
+    "id": "00063",
+    "titulo": "Revista [ARG] CEAL Fauna Argentina 82 Las Arañas",
+    "autor": [],
+    "tema_principal": "entomología",
+    "tipo": "revista",
+    "etiquetas": [],
+    "coleccion": null,
+    "fuente": "local",
+    "acceso": "visor_drive",
+    "alcance_geografico": "ARG",
+    "extension": ".pdf",
+    "ruta_local": "Entomología/Revista - [ARG] CEAL Fauna Argentina 82 Las Arañas.pdf"
+  },
+  {
+    "id": "00064",
+    "titulo": "PRADO; HERNÁN IBÁÑEZ; MERIGGI [LOC] herpetologia Guía anfibios dique ingeniero roggero",
+    "autor": [
+      "PRADO",
+      "HERNÁN IBÁÑEZ",
+      "MERIGGI"
+    ],
+    "tema_principal": "anfibios",
+    "tipo": "guía",
+    "etiquetas": [],
+    "coleccion": null,
+    "fuente": "local",
+    "acceso": "visor_drive",
+    "alcance_geografico": "LOC",
+    "extension": ".pdf",
+    "ruta_local": "Herpetologia/PRADO;  HERNÁN IBÁÑEZ; MERIGGI - [LOC] herpetologia Guía anfibios dique ingeniero roggero.pdf"
+  },
+  {
+    "id": "00065",
+    "titulo": "Garavaglia; Centi Ferrei [ARG] guia didactico A buscar hongos",
+    "autor": [
+      "Garavaglia",
+      "Centi Ferrei"
+    ],
+    "tema_principal": "hongos",
+    "tipo": "guía",
+    "etiquetas": [],
+    "coleccion": null,
+    "fuente": "local",
+    "acceso": "visor_drive",
+    "alcance_geografico": "ARG",
+    "extension": ".pdf",
+    "ruta_local": "Hongos/ Garavaglia; Centi Ferrei - [ARG] guia didactico A buscar hongos.pdf"
+  },
+  {
+    "id": "00066",
+    "titulo": "CAZAU; SPINEDI; ARAMBARRI; SUNESSEN; GONZALEZ IBAÑEZ [LOC] guia de Hongos del Parque Pereyra",
+    "autor": [
+      "CAZAU",
+      "SPINEDI",
+      "ARAMBARRI",
+      "SUNESSEN",
+      "GONZALEZ IBAÑEZ"
+    ],
+    "tema_principal": "hongos",
+    "tipo": "guía",
+    "etiquetas": [
+      "Pereyra Iraola"
+    ],
+    "coleccion": null,
+    "fuente": "local",
+    "acceso": "visor_drive",
+    "alcance_geografico": "LOC",
+    "extension": ".pdf",
+    "ruta_local": "Hongos/CAZAU; SPINEDI; ARAMBARRI; SUNESSEN; GONZALEZ IBAÑEZ - [LOC] guia de Hongos del Parque Pereyra.pdf"
+  },
+  {
+    "id": "00067",
+    "titulo": "hongos comestibles latinoamerica",
+    "autor": [],
+    "tema_principal": "hongos",
+    "tipo": "documento",
+    "etiquetas": [],
+    "coleccion": null,
+    "fuente": "local",
+    "acceso": "visor_drive",
+    "alcance_geografico": null,
+    "extension": ".pdf",
+    "ruta_local": "Hongos/hongos comestibles latinoamerica.pdf"
+  },
+  {
+    "id": "00068",
+    "titulo": "Romano [ARG] Breve Guia de Nomenclatura de Hongos HongosAR",
+    "autor": [
+      "Romano"
+    ],
+    "tema_principal": "hongos",
+    "tipo": "guía",
+    "etiquetas": [],
+    "coleccion": null,
+    "fuente": "local",
+    "acceso": "visor_drive",
+    "alcance_geografico": "ARG",
+    "extension": ".pdf",
+    "ruta_local": "Hongos/Romano - [ARG] Breve Guia de Nomenclatura de Hongos  HongosAR.pdf"
+  },
+  {
+    "id": "00069",
+    "titulo": "Romano [ARG] Guia de identificacion de hongos con laminillas HongosAR",
+    "autor": [
+      "Romano"
+    ],
+    "tema_principal": "hongos",
+    "tipo": "guía",
+    "etiquetas": [],
+    "coleccion": null,
+    "fuente": "local",
+    "acceso": "visor_drive",
+    "alcance_geografico": "ARG",
+    "extension": ".pdf",
+    "ruta_local": "Hongos/Romano - [ARG] Guia de identificacion de hongos con laminillas  HongosAR.pdf"
+  },
+  {
+    "id": "00070",
+    "titulo": "Lichter; Hooper [ARG] Guía para el reconocimiento de cetáceos del Mar Argentino FVSA",
+    "autor": [
+      "Lichter",
+      "Hooper"
+    ],
+    "tema_principal": "mamíferos",
+    "tipo": "guía",
+    "etiquetas": [],
+    "coleccion": null,
+    "fuente": "local",
+    "acceso": "descarga",
+    "alcance_geografico": "ARG",
+    "extension": ".pdf",
+    "ruta_local": "Mamiferos/ Lichter;  Hooper - [ARG] Guía para el reconocimiento de cetáceos del Mar Argentino FVSA.pdf"
+  },
+  {
+    "id": "00071",
+    "titulo": "Barquez; Díaz; Ojeda libro Mamiferos de Argentina Sistematica y distribucion SAREM",
+    "autor": [
+      "Barquez",
+      "Díaz",
+      "Ojeda"
+    ],
+    "tema_principal": "mamíferos",
+    "tipo": "libro",
+    "etiquetas": [],
+    "coleccion": null,
+    "fuente": "local",
+    "acceso": "visor_drive",
+    "alcance_geografico": null,
+    "extension": ".pdf",
+    "ruta_local": "Mamiferos/Barquez;  Díaz; Ojeda - libro Mamiferos de Argentina Sistematica y distribucion SAREM.pdf"
+  },
+  {
+    "id": "00072",
+    "titulo": "Canevari; Ibañez [LOC] Guia de huellas delos mamiferos dique Roggero",
+    "autor": [
+      "Canevari",
+      "Ibañez"
+    ],
+    "tema_principal": "mamíferos",
+    "tipo": "guía",
+    "etiquetas": [],
+    "coleccion": null,
+    "fuente": "local",
+    "acceso": "visor_drive",
+    "alcance_geografico": "LOC",
+    "extension": ".pdf",
+    "ruta_local": "Mamiferos/Canevari; Ibañez - [LOC] Guia de huellas delos mamiferos dique Roggero.pdf"
+  },
+  {
+    "id": "00073",
+    "titulo": "FARIÑA; VIZCAINO [SAM] libro mamiferos Hace solo diez mil años",
+    "autor": [
+      "FARIÑA",
+      "VIZCAINO"
+    ],
+    "tema_principal": "mamíferos",
+    "tipo": "libro",
+    "etiquetas": [],
+    "coleccion": null,
+    "fuente": "local",
+    "acceso": "visor_drive",
+    "alcance_geografico": "SAM",
+    "extension": ".pdf",
+    "ruta_local": "Mamiferos/FARIÑA; VIZCAINO - [SAM] libro mamiferos Hace solo diez mil años.pdf"
+  },
+  {
+    "id": "00074",
+    "titulo": "Forasiepi; Martinelli Blanco [SAM] Libro Bestiario fósil. Mamíferos del pleistoceno de la Argentina",
+    "autor": [
+      "Forasiepi",
+      "Martinelli_ Blanco"
+    ],
+    "tema_principal": "mamíferos",
+    "tipo": "libro",
+    "etiquetas": [],
+    "coleccion": null,
+    "fuente": "local",
+    "acceso": "visor_drive",
+    "alcance_geografico": "SAM",
+    "extension": ".pdf",
+    "ruta_local": "Mamiferos/Forasiepi; Martinelli_ Blanco - [SAM] Libro Bestiario fósil. Mamíferos del pleistoceno de la Argentina.pdf"
+  },
+  {
+    "id": "00075",
+    "titulo": "Galliarii; Pardiñas;Goin [ARG] Lista comentada mamiferos",
+    "autor": [
+      "Galliarii",
+      "Pardiñas",
+      "Goin"
+    ],
+    "tema_principal": "mamíferos",
+    "tipo": "listado",
+    "etiquetas": [],
+    "coleccion": null,
+    "fuente": "local",
+    "acceso": "visor_drive",
+    "alcance_geografico": "ARG",
+    "extension": ".pdf",
+    "ruta_local": "Mamiferos/Galliarii; Pardiñas;Goin - [ARG] - Lista comentada mamiferos.pdf"
+  },
+  {
+    "id": "00076",
+    "titulo": "OJEDA; BORGHI; ROIG [ARG] articulo MAMIFEROS DE ARGENTINA",
+    "autor": [
+      "OJEDA",
+      "BORGHI",
+      "ROIG"
+    ],
+    "tema_principal": "mamíferos",
+    "tipo": "artículo",
+    "etiquetas": [],
+    "coleccion": null,
+    "fuente": "local",
+    "acceso": "visor_drive",
+    "alcance_geografico": "ARG",
+    "extension": ".pdf",
+    "ruta_local": "Mamiferos/OJEDA; BORGHI; ROIG - [ARG] articulo  MAMIFEROS DE ARGENTINA.pdf"
+  },
+  {
+    "id": "00077",
+    "titulo": "Olrog; Lucero [ARG] Mamiferos Argentinos Fundacion Miguel Lillo",
+    "autor": [
+      "Olrog",
+      "Lucero"
+    ],
+    "tema_principal": "mamíferos",
+    "tipo": "documento",
+    "etiquetas": [],
+    "coleccion": null,
+    "fuente": "local",
+    "acceso": "visor_drive",
+    "alcance_geografico": "ARG",
+    "extension": ".pdf",
+    "ruta_local": "Mamiferos/Olrog; Lucero - [ARG] Mamiferos Argentinos Fundacion Miguel Lillo.pdf"
+  },
+  {
+    "id": "00078",
+    "titulo": "Prates; Pérez [SAM] Artículo Los seres humanos y la extinción de la megafauna en Sudamérica durante el Pleistoceno final",
+    "autor": [
+      "Prates",
+      "Pérez"
+    ],
+    "tema_principal": "mamíferos",
+    "tipo": "artículo",
+    "etiquetas": [],
+    "coleccion": null,
+    "fuente": "local",
+    "acceso": "visor_drive",
+    "alcance_geografico": "SAM",
+    "extension": ".pdf",
+    "ruta_local": "Mamiferos/Prates; Pérez - [SAM] Artículo Los seres humanos y la extinción de la megafauna en Sudamérica durante el Pleistoceno final.pdf"
+  },
+  {
+    "id": "00079",
+    "titulo": "Revista [ARG] CEAL Fauna Argentina 002 El Carpincho",
+    "autor": [],
+    "tema_principal": "mamíferos",
+    "tipo": "revista",
+    "etiquetas": [],
+    "coleccion": null,
+    "fuente": "local",
+    "acceso": "visor_drive",
+    "alcance_geografico": "ARG",
+    "extension": ".pdf",
+    "ruta_local": "Mamiferos/Revista - [ARG] CEAL Fauna Argentina 002 El Carpincho.pdf"
+  },
+  {
+    "id": "00080",
+    "titulo": "Ministerio de Ambiente PBA [BSAS] Catalogo Nativas",
+    "autor": [
+      "Ministerio de Ambiente PBA"
+    ],
+    "tema_principal": "flora nativa",
+    "tipo": "inventario",
+    "etiquetas": [],
+    "coleccion": null,
+    "fuente": "local",
+    "acceso": "visor_drive",
+    "alcance_geografico": "BSAS",
+    "extension": ".pdf",
+    "ruta_local": "Plantas nativas/Ministerio de Ambiente PBA - [BSAS] Catalogo Nativas.pdf"
+  },
+  {
+    "id": "00081",
+    "titulo": "Ministerio de Ambiente PBA [BSAS] Guia nativas bonaerenses Diseño y plantacion",
+    "autor": [
+      "Ministerio de Ambiente PBA"
+    ],
+    "tema_principal": "flora nativa",
+    "tipo": "guía",
+    "etiquetas": [],
+    "coleccion": null,
+    "fuente": "local",
+    "acceso": "visor_drive",
+    "alcance_geografico": "BSAS",
+    "extension": ".pdf",
+    "ruta_local": "Plantas nativas/Ministerio de Ambiente PBA - [BSAS] Guia nativas bonaerenses Diseño y plantacion .pdf"
+  },
+  {
+    "id": "00082",
+    "titulo": "Ministerio de Ambiente PBA [BSAS] guía completa propagación especies nativas",
+    "autor": [
+      "Ministerio de Ambiente PBA"
+    ],
+    "tema_principal": "flora nativa",
+    "tipo": "guía",
+    "etiquetas": [],
+    "coleccion": null,
+    "fuente": "local",
+    "acceso": "visor_drive",
+    "alcance_geografico": "BSAS",
+    "extension": ".pdf",
+    "ruta_local": "Plantas nativas/Ministerio de Ambiente PBA - [BSAS] guía completa propagación especies nativas.pdf"
+  },
+  {
+    "id": "00083",
+    "titulo": "Ministerio de Ambiente PBA [BSAS] lamina Ajicillo o Canario Rojo (Dicliptera Squarrosa)",
+    "autor": [
+      "Ministerio de Ambiente PBA"
+    ],
+    "tema_principal": "flora nativa",
+    "tipo": "lámina",
+    "etiquetas": [],
+    "coleccion": null,
+    "fuente": "local",
+    "acceso": "visor_drive",
+    "alcance_geografico": "BSAS",
+    "extension": ".pdf",
+    "ruta_local": "Plantas nativas/Ministerio de Ambiente PBA - [BSAS] lamina Ajicillo o Canario Rojo (Dicliptera Squarrosa).pdf"
+  },
+  {
+    "id": "00084",
+    "titulo": "Ministerio de Ambiente PBA [BSAS] lamina Ceibo (Erythrina Crista Galli)",
+    "autor": [
+      "Ministerio de Ambiente PBA"
+    ],
+    "tema_principal": "flora nativa",
+    "tipo": "lámina",
+    "etiquetas": [],
+    "coleccion": null,
+    "fuente": "local",
+    "acceso": "visor_drive",
+    "alcance_geografico": "BSAS",
+    "extension": ".pdf",
+    "ruta_local": "Plantas nativas/Ministerio de Ambiente PBA - [BSAS] lamina Ceibo (Erythrina Crista-Galli).pdf"
+  },
+  {
+    "id": "00085",
+    "titulo": "Ministerio de Ambiente PBA [BSAS] lamina Coronillo (Scutia Buxifolia)",
+    "autor": [
+      "Ministerio de Ambiente PBA"
+    ],
+    "tema_principal": "flora nativa",
+    "tipo": "lámina",
+    "etiquetas": [],
+    "coleccion": null,
+    "fuente": "local",
+    "acceso": "visor_drive",
+    "alcance_geografico": "BSAS",
+    "extension": ".pdf",
+    "ruta_local": "Plantas nativas/Ministerio de Ambiente PBA - [BSAS] lamina Coronillo (Scutia Buxifolia).pdf"
+  },
+  {
+    "id": "00086",
+    "titulo": "Ministerio de Ambiente PBA [BSAS] lamina Mburucuyá o Pasionaria (Passiflora Caerulea)",
+    "autor": [
+      "Ministerio de Ambiente PBA"
+    ],
+    "tema_principal": "flora nativa",
+    "tipo": "lámina",
+    "etiquetas": [],
+    "coleccion": null,
+    "fuente": "local",
+    "acceso": "visor_drive",
+    "alcance_geografico": "BSAS",
+    "extension": ".pdf",
+    "ruta_local": "Plantas nativas/Ministerio de Ambiente PBA - [BSAS] lamina Mburucuyá o Pasionaria (Passiflora Caerulea).pdf"
+  },
+  {
+    "id": "00087",
+    "titulo": "Municipalidad San Isidro [LOC] Manual de Plantas Nativas y Mariposas Armar Jardin amigable",
+    "autor": [
+      "Municipalidad San Isidro"
+    ],
+    "tema_principal": "flora nativa",
+    "tipo": "manual",
+    "etiquetas": [
+      "Mariposas",
+      "mariposas"
+    ],
+    "coleccion": null,
+    "fuente": "local",
+    "acceso": "visor_drive",
+    "alcance_geografico": "LOC",
+    "extension": ".pdf",
+    "ruta_local": "Plantas nativas/Municipalidad San Isidro - [LOC] Manual de Plantas Nativas y Mariposas Armar Jardin amigable.pdf"
+  },
+  {
+    "id": "00088",
+    "titulo": "Rodriguez; Aceñolaza; Picasso; Gago [SAM] libro Plantas del bajo Rio Uruguay",
+    "autor": [
+      "Rodriguez",
+      "Aceñolaza",
+      "Picasso",
+      "Gago"
+    ],
+    "tema_principal": "flora nativa",
+    "tipo": "libro",
+    "etiquetas": [],
+    "coleccion": null,
+    "fuente": "local",
+    "acceso": "visor_drive",
+    "alcance_geografico": "SAM",
+    "extension": ".pdf",
+    "ruta_local": "Plantas nativas/Rodriguez; Aceñolaza; Picasso; Gago - [SAM] libro  Plantas del bajo Rio Uruguay.pdf"
+  },
+  {
+    "id": "00089",
+    "titulo": "Suárez; Sánchez; Pidal [LOC] guia hospederas y nectaríferas",
+    "autor": [
+      "Suárez",
+      "Sánchez",
+      "Pidal"
+    ],
+    "tema_principal": "flora nativa",
+    "tipo": "guía",
+    "etiquetas": [],
+    "coleccion": null,
+    "fuente": "local",
+    "acceso": "visor_drive",
+    "alcance_geografico": "LOC",
+    "extension": ".pdf",
+    "ruta_local": "Plantas nativas/Suárez; Sánchez; Pidal - [LOC] guia  hospederas y nectaríferas.pdf"
+  },
+  {
+    "id": "00090",
+    "titulo": "ACUMAR [BSAS] Inventario Humedales",
+    "autor": [
+      "ACUMAR"
+    ],
+    "tema_principal": "flora nativa",
+    "tipo": "inventario",
+    "etiquetas": [],
+    "coleccion": null,
+    "fuente": "local",
+    "acceso": "visor_drive",
+    "alcance_geografico": "BSAS",
+    "extension": ".pdf",
+    "ruta_local": "Plantas nativas/ACUMAR - [BSAS] Inventario Humedales.pdf"
+  },
+  {
+    "id": "00091",
+    "titulo": "Auge [ARG] Diario de Campo sobre plantas yuyos y saberes",
+    "autor": [
+      "Auge"
+    ],
+    "tema_principal": "flora nativa",
+    "tipo": "documento",
+    "etiquetas": [],
+    "coleccion": null,
+    "fuente": "local",
+    "acceso": "visor_drive",
+    "alcance_geografico": "ARG",
+    "extension": ".pdf",
+    "ruta_local": "Plantas nativas/Auge - [ARG] Diario de Campo sobre plantas yuyos y saberes.pdf"
+  },
+  {
+    "id": "00092",
+    "titulo": "INTA [BSAS] Guía Yuyos bien comidos",
+    "autor": [
+      "INTA"
+    ],
+    "tema_principal": "flora nativa",
+    "tipo": "guía",
+    "etiquetas": [],
+    "coleccion": null,
+    "fuente": "local",
+    "acceso": "visor_drive",
+    "alcance_geografico": "BSAS",
+    "extension": ".pdf",
+    "ruta_local": "Plantas nativas/INTA - [BSAS] Guía Yuyos bien comidos.pdf"
+  },
+  {
+    "id": "00093",
+    "titulo": "Menini; Burgueño [ARG] Guia de Plantas Rioplatenses Del Jbct",
+    "autor": [
+      "Menini",
+      "Burgueño"
+    ],
+    "tema_principal": "flora nativa",
+    "tipo": "guía",
+    "etiquetas": [],
+    "coleccion": null,
+    "fuente": "local",
+    "acceso": "visor_drive",
+    "alcance_geografico": "ARG",
+    "extension": ".pdf",
+    "ruta_local": "Plantas nativas/Menini; Burgueño - [ARG] Guia de Plantas-Rioplatenses Del Jbct.pdf"
+  },
+  {
+    "id": "00094",
+    "titulo": "Ministerio de Ambiente PBA [BSAS] cuadernillo nativas costeras",
+    "autor": [
+      "Ministerio de Ambiente PBA"
+    ],
+    "tema_principal": "flora nativa",
+    "tipo": "documento",
+    "etiquetas": [],
+    "coleccion": null,
+    "fuente": "local",
+    "acceso": "visor_drive",
+    "alcance_geografico": "BSAS",
+    "extension": ".pdf",
+    "ruta_local": "Plantas nativas/Ministerio de Ambiente PBA - [BSAS]  cuadernillo nativas costeras.pdf"
+  },
+  {
+    "id": "00095",
+    "titulo": "Marino; Miñarro; Zaccagnini; López Lanus [SAM] Monografía Pastizales y sabanas del cono sur",
+    "autor": [
+      "Marino",
+      "Miñarro",
+      "Zaccagnini",
+      "López Lanus"
+    ],
+    "tema_principal": "peces",
+    "tipo": "monografía",
+    "etiquetas": [],
+    "coleccion": null,
+    "fuente": "local",
+    "acceso": "visor_drive",
+    "alcance_geografico": "SAM",
+    "extension": ".pdf",
+    "ruta_local": "Por clasificar/Marino; Miñarro; Zaccagnini; López Lanus -  [SAM] Monografía  Pastizales y sabanas del cono sur.pdf"
+  },
+  {
+    "id": "00096",
+    "titulo": "Aprile; Bertonatti [ARG] Manual sobre rehabilitacion de fauna",
+    "autor": [
+      "Aprile",
+      "Bertonatti"
+    ],
+    "tema_principal": "sin clasificar",
+    "tipo": "manual",
+    "etiquetas": [],
+    "coleccion": null,
+    "fuente": "local",
+    "acceso": "visor_drive",
+    "alcance_geografico": "ARG",
+    "extension": ".pdf",
+    "ruta_local": "Por clasificar/Aprile; Bertonatti - [ARG] Manual sobre rehabilitacion de fauna.pdf"
+  },
+  {
+    "id": "00097",
+    "titulo": "Athor [BSAS] Libro Buenos Aires La historia de su paisaje natural",
+    "autor": [
+      "Athor"
+    ],
+    "tema_principal": "sin clasificar",
+    "tipo": "libro",
+    "etiquetas": [],
+    "coleccion": null,
+    "fuente": "local",
+    "acceso": "visor_drive",
+    "alcance_geografico": "BSAS",
+    "extension": ".pdf",
+    "ruta_local": "Por clasificar/Athor - [BSAS] Libro Buenos Aires_ La historia de su paisaje natural.pdf"
+  },
+  {
+    "id": "00098",
+    "titulo": "Bauni; Bertonatti; Giacchino Inventario Biologico Argentino",
+    "autor": [
+      "Bauni",
+      "Bertonatti",
+      "Giacchino"
+    ],
+    "tema_principal": "sin clasificar",
+    "tipo": "inventario",
+    "etiquetas": [],
+    "coleccion": null,
+    "fuente": "local",
+    "acceso": "visor_drive",
+    "alcance_geografico": null,
+    "extension": ".pdf",
+    "ruta_local": "Por clasificar/Bauni; Bertonatti; Giacchino -  Inventario Biologico Argentino.pdf"
+  },
+  {
+    "id": "00099",
+    "titulo": "Bebbington [SAM] Libro Minería, movimientos sociales y respuestas campesinas una ecología política de transformaciones territoriales",
+    "autor": [
+      "Bebbington"
+    ],
+    "tema_principal": "sin clasificar",
+    "tipo": "libro",
+    "etiquetas": [],
+    "coleccion": null,
+    "fuente": "local",
+    "acceso": "visor_drive",
+    "alcance_geografico": "SAM",
+    "extension": ".pdf",
+    "ruta_local": "Por clasificar/Bebbington - [SAM] Libro Minería, movimientos sociales y respuestas campesinas_ una ecología política de transformaciones territoriales.pdf"
+  },
+  {
+    "id": "00100",
+    "titulo": "Bolaños Vecchio Golluscio [BSAS] Artículo Pastizal pampeano del mar de pasto descripto por Darwin a la actualidad.",
+    "autor": [
+      "Bolaños_ Vecchio_ Golluscio"
+    ],
+    "tema_principal": "sin clasificar",
+    "tipo": "artículo",
+    "etiquetas": [],
+    "coleccion": null,
+    "fuente": "local",
+    "acceso": "visor_drive",
+    "alcance_geografico": "BSAS",
+    "extension": ".pdf",
+    "ruta_local": "Por clasificar/Bolaños_ Vecchio_ Golluscio - [BSAS] Artículo Pastizal pampeano_ _del mar de pasto_ descripto por Darwin a la actualidad..pdf"
+  },
+  {
+    "id": "00101",
+    "titulo": "Camilloni; Morrás [BSAS] Libro Ambiente natural",
+    "autor": [
+      "Camilloni",
+      "Morrás"
+    ],
+    "tema_principal": "legislación ambiental",
+    "tipo": "libro",
+    "etiquetas": [],
+    "coleccion": null,
+    "fuente": "local",
+    "acceso": "visor_drive",
+    "alcance_geografico": "BSAS",
+    "extension": ".pdf",
+    "ruta_local": "Por clasificar/Camilloni; Morrás - [BSAS] Libro Ambiente natural.pdf"
+  },
+  {
+    "id": "00102",
+    "titulo": "Dirccion General de Escuela y Educacion PBA [BSAS] animales de la provincia",
+    "autor": [
+      "Dirccion General de Escuela y Educacion PBA"
+    ],
+    "tema_principal": "sin clasificar",
+    "tipo": "documento",
+    "etiquetas": [],
+    "coleccion": null,
+    "fuente": "local",
+    "acceso": "visor_drive",
+    "alcance_geografico": "BSAS",
+    "extension": ".pdf",
+    "ruta_local": "Por clasificar/Dirccion General de Escuela y Educacion PBA  - [BSAS] animales de la provincia.pdf"
+  },
+  {
+    "id": "00103",
+    "titulo": "Imbellone; Giménez; Panigatti [BSAS] Libro Suelos de la Región Pampeana. Procesos de Formación.",
+    "autor": [
+      "Imbellone",
+      "Giménez",
+      "Panigatti"
+    ],
+    "tema_principal": "sin clasificar",
+    "tipo": "libro",
+    "etiquetas": [],
+    "coleccion": null,
+    "fuente": "local",
+    "acceso": "visor_drive",
+    "alcance_geografico": "BSAS",
+    "extension": ".pdf",
+    "ruta_local": "Por clasificar/Imbellone; Giménez; Panigatti - [BSAS] Libro Suelos de la Región Pampeana. Procesos de Formación..pdf"
+  },
+  {
+    "id": "00104",
+    "titulo": "Klimaitis; klimaitis; Luciano [LOC] inventario terraplen costero",
+    "autor": [
+      "Klimaitis",
+      "klimaitis",
+      "Luciano"
+    ],
+    "tema_principal": "sin clasificar",
+    "tipo": "inventario",
+    "etiquetas": [],
+    "coleccion": null,
+    "fuente": "local",
+    "acceso": "descarga",
+    "alcance_geografico": "LOC",
+    "extension": ".pdf",
+    "ruta_local": "Por clasificar/Klimaitis; klimaitis; Luciano - [LOC] inventario terraplen costero.pdf"
+  },
+  {
+    "id": "00105",
+    "titulo": "Mérida; Athor [BSAS] Libro Talares bonaerenses y su conservación",
+    "autor": [
+      "Mérida",
+      "Athor"
+    ],
+    "tema_principal": "sin clasificar",
+    "tipo": "libro",
+    "etiquetas": [],
+    "coleccion": null,
+    "fuente": "local",
+    "acceso": "visor_drive",
+    "alcance_geografico": "BSAS",
+    "extension": ".pdf",
+    "ruta_local": "Por clasificar/Mérida; Athor - [BSAS] Libro Talares bonaerenses y su conservación.pdf"
+  },
+  {
+    "id": "00106",
+    "titulo": "ROESLER; GABRIELA AGOSTINIInventario Vertebrados Punta Lara",
+    "autor": [],
+    "tema_principal": "sin clasificar",
+    "tipo": "inventario",
+    "etiquetas": [],
+    "coleccion": null,
+    "fuente": "local",
+    "acceso": "visor_drive",
+    "alcance_geografico": null,
+    "extension": ".pdf",
+    "ruta_local": "Por clasificar/ROESLER;  GABRIELA AGOSTINIInventario_Vertebrados_Punta_Lara.pdf"
+  },
+  {
+    "id": "00107",
+    "titulo": "Smith [MUN] Libro Ecología",
+    "autor": [
+      "Smith"
+    ],
+    "tema_principal": "sin clasificar",
+    "tipo": "libro",
+    "etiquetas": [],
+    "coleccion": null,
+    "fuente": "local",
+    "acceso": "visor_drive",
+    "alcance_geografico": "MUN",
+    "extension": ".pdf",
+    "ruta_local": "Por clasificar/Smith - [MUN] Libro Ecología.pdf"
+  },
+  {
+    "id": "00108",
+    "titulo": "Svampa; Atonelli [ARG] Artículo Minería transnacional, narrativas del desarrollo y resistencias sociales",
+    "autor": [
+      "Svampa",
+      "Atonelli"
+    ],
+    "tema_principal": "sin clasificar",
+    "tipo": "artículo",
+    "etiquetas": [],
+    "coleccion": null,
+    "fuente": "local",
+    "acceso": "visor_drive",
+    "alcance_geografico": "ARG",
+    "extension": ".pdf",
+    "ruta_local": "Por clasificar/Svampa; Atonelli - [ARG] Artículo Minería transnacional, narrativas del desarrollo y resistencias sociales.pdf"
+  },
+  {
+    "id": "00109",
+    "titulo": "Unión de Asambleas de Comunidades Chubutenses [ARG] Manual Hablemos de megaminería",
+    "autor": [
+      "Unión de Asambleas de Comunidades Chubutenses"
+    ],
+    "tema_principal": "sin clasificar",
+    "tipo": "manual",
+    "etiquetas": [],
+    "coleccion": null,
+    "fuente": "local",
+    "acceso": "visor_drive",
+    "alcance_geografico": "ARG",
+    "extension": ".pdf",
+    "ruta_local": "Por clasificar/Unión de Asambleas de Comunidades Chubutenses - [ARG] Manual Hablemos de megaminería.pdf"
+  },
+  {
+    "id": "00110",
+    "titulo": "Vivero Mun. San Isidro [ARG] ficha Tasi (Araujia hortorum)",
+    "autor": [
+      "Vivero Mun. San Isidro"
+    ],
+    "tema_principal": "flora nativa",
+    "tipo": "ficha",
+    "etiquetas": [
+      "Fichas"
+    ],
+    "coleccion": "Fichas de Nativas",
+    "fuente": "local",
+    "acceso": "visor_drive",
+    "alcance_geografico": "ARG",
+    "extension": ".pdf",
+    "ruta_local": "Plantas nativas/fichas/Vivero Mun. San Isidro - [ARG]  ficha Tasi (Araujia hortorum).pdf"
+  },
+  {
+    "id": "00111",
+    "titulo": "Vivero Mun. San Isidro [ARG] ficha Tayuyá (Cayaponia martiana)",
+    "autor": [
+      "Vivero Mun. San Isidro"
+    ],
+    "tema_principal": "flora nativa",
+    "tipo": "ficha",
+    "etiquetas": [
+      "Fichas"
+    ],
+    "coleccion": "Fichas de Nativas",
+    "fuente": "local",
+    "acceso": "visor_drive",
+    "alcance_geografico": "ARG",
+    "extension": ".pdf",
+    "ruta_local": "Plantas nativas/fichas/Vivero Mun. San Isidro - [ARG]  ficha Tayuyá (Cayaponia martiana).pdf"
+  },
+  {
+    "id": "00112",
+    "titulo": "Vivero Mun. San Isidro [ARG] ficha Timbó Pacará (Enterolobium contortisiliquum)",
+    "autor": [
+      "Vivero Mun. San Isidro"
+    ],
+    "tema_principal": "flora nativa",
+    "tipo": "ficha",
+    "etiquetas": [
+      "Fichas"
+    ],
+    "coleccion": "Fichas de Nativas",
+    "fuente": "local",
+    "acceso": "visor_drive",
+    "alcance_geografico": "ARG",
+    "extension": ".pdf",
+    "ruta_local": "Plantas nativas/fichas/Vivero Mun. San Isidro - [ARG]  ficha Timbó - Pacará (Enterolobium contortisiliquum).pdf"
+  },
+  {
+    "id": "00113",
+    "titulo": "Vivero Mun. San Isidro [ARG] ficha Tres puntas (Herbertia lahue)",
+    "autor": [
+      "Vivero Mun. San Isidro"
+    ],
+    "tema_principal": "flora nativa",
+    "tipo": "ficha",
+    "etiquetas": [
+      "Fichas"
+    ],
+    "coleccion": "Fichas de Nativas",
+    "fuente": "local",
+    "acceso": "visor_drive",
+    "alcance_geografico": "ARG",
+    "extension": ".pdf",
+    "ruta_local": "Plantas nativas/fichas/Vivero Mun. San Isidro - [ARG]  ficha Tres puntas (Herbertia lahue).pdf"
+  },
+  {
+    "id": "00114",
+    "titulo": "Vivero Mun. San Isidro [ARG] ficha Uña de gato (Macfadyena unguis cati)",
+    "autor": [
+      "Vivero Mun. San Isidro"
+    ],
+    "tema_principal": "flora nativa",
+    "tipo": "ficha",
+    "etiquetas": [
+      "Fichas"
+    ],
+    "coleccion": "Fichas de Nativas",
+    "fuente": "local",
+    "acceso": "visor_drive",
+    "alcance_geografico": "ARG",
+    "extension": ".pdf",
+    "ruta_local": "Plantas nativas/fichas/Vivero Mun. San Isidro - [ARG]  ficha Uña de gato (Macfadyena unguis-cati).pdf"
+  },
+  {
+    "id": "00115",
+    "titulo": "Vivero Mun. San Isidro [ARG] ficha Acacia mansa (Sesbania punicea)",
+    "autor": [
+      "Vivero Mun. San Isidro"
+    ],
+    "tema_principal": "flora nativa",
+    "tipo": "ficha",
+    "etiquetas": [
+      "Fichas"
+    ],
+    "coleccion": "Fichas de Nativas",
+    "fuente": "local",
+    "acceso": "visor_drive",
+    "alcance_geografico": "ARG",
+    "extension": ".pdf",
+    "ruta_local": "Plantas nativas/fichas/Vivero Mun. San Isidro - [ARG] ficha Acacia mansa (Sesbania punicea).pdf"
+  },
+  {
+    "id": "00116",
+    "titulo": "Vivero Mun. San Isidro [ARG] ficha Achira amarilla (Canna glauca)",
+    "autor": [
+      "Vivero Mun. San Isidro"
+    ],
+    "tema_principal": "flora nativa",
+    "tipo": "ficha",
+    "etiquetas": [
+      "Fichas"
+    ],
+    "coleccion": "Fichas de Nativas",
+    "fuente": "local",
+    "acceso": "visor_drive",
+    "alcance_geografico": "ARG",
+    "extension": ".pdf",
+    "ruta_local": "Plantas nativas/fichas/Vivero Mun. San Isidro - [ARG] ficha Achira amarilla (Canna glauca).pdf"
+  },
+  {
+    "id": "00117",
+    "titulo": "Vivero Mun. San Isidro [ARG] ficha Aguapé (Pontederia cordata)",
+    "autor": [
+      "Vivero Mun. San Isidro"
+    ],
+    "tema_principal": "flora nativa",
+    "tipo": "ficha",
+    "etiquetas": [
+      "Fichas"
+    ],
+    "coleccion": "Fichas de Nativas",
+    "fuente": "local",
+    "acceso": "visor_drive",
+    "alcance_geografico": "ARG",
+    "extension": ".pdf",
+    "ruta_local": "Plantas nativas/fichas/Vivero Mun. San Isidro - [ARG] ficha Aguapé (Pontederia cordata).pdf"
+  },
+  {
+    "id": "00118",
+    "titulo": "Vivero Mun. San Isidro [ARG] ficha Anacahuita (Blepharocalyx salicisfolius)",
+    "autor": [
+      "Vivero Mun. San Isidro"
+    ],
+    "tema_principal": "flora nativa",
+    "tipo": "ficha",
+    "etiquetas": [
+      "Fichas"
+    ],
+    "coleccion": "Fichas de Nativas",
+    "fuente": "local",
+    "acceso": "visor_drive",
+    "alcance_geografico": "ARG",
+    "extension": ".pdf",
+    "ruta_local": "Plantas nativas/fichas/Vivero Mun. San Isidro - [ARG] ficha Anacahuita (Blepharocalyx salicisfolius).pdf"
+  },
+  {
+    "id": "00119",
+    "titulo": "Vivero Mun. San Isidro [ARG] ficha Lirio celeste (Cypella coelestis)",
+    "autor": [
+      "Vivero Mun. San Isidro"
+    ],
+    "tema_principal": "flora nativa",
+    "tipo": "ficha",
+    "etiquetas": [
+      "Fichas"
+    ],
+    "coleccion": "Fichas de Nativas",
+    "fuente": "local",
+    "acceso": "visor_drive",
+    "alcance_geografico": "ARG",
+    "extension": ".pdf",
+    "ruta_local": "Plantas nativas/fichas/Vivero Mun. San Isidro - [ARG]  ficha Lirio celeste (Cypella coelestis).pdf"
+  },
+  {
+    "id": "00120",
+    "titulo": "Vivero Mun. San Isidro [ARG] ficha Lirio del bajo (Cypella herbertii)",
+    "autor": [
+      "Vivero Mun. San Isidro"
+    ],
+    "tema_principal": "flora nativa",
+    "tipo": "ficha",
+    "etiquetas": [
+      "Fichas"
+    ],
+    "coleccion": "Fichas de Nativas",
+    "fuente": "local",
+    "acceso": "visor_drive",
+    "alcance_geografico": "ARG",
+    "extension": ".pdf",
+    "ruta_local": "Plantas nativas/fichas/Vivero Mun. San Isidro - [ARG]  ficha Lirio del bajo (Cypella herbertii).pdf"
+  },
+  {
+    "id": "00121",
+    "titulo": "Vivero Mun. San Isidro [ARG] ficha Mariposa (Heteropteris glabra)",
+    "autor": [
+      "Vivero Mun. San Isidro"
+    ],
+    "tema_principal": "flora nativa",
+    "tipo": "ficha",
+    "etiquetas": [
+      "Fichas",
+      "mariposas"
+    ],
+    "coleccion": "Fichas de Nativas",
+    "fuente": "local",
+    "acceso": "visor_drive",
+    "alcance_geografico": "ARG",
+    "extension": ".pdf",
+    "ruta_local": "Plantas nativas/fichas/Vivero Mun. San Isidro - [ARG]  ficha Mariposa (Heteropteris glabra).pdf"
+  },
+  {
+    "id": "00122",
+    "titulo": "Vivero Mun. San Isidro [ARG] ficha Mburucuyá pasionaria (Passiflora caerulea)",
+    "autor": [
+      "Vivero Mun. San Isidro"
+    ],
+    "tema_principal": "flora nativa",
+    "tipo": "ficha",
+    "etiquetas": [
+      "Fichas"
+    ],
+    "coleccion": "Fichas de Nativas",
+    "fuente": "local",
+    "acceso": "visor_drive",
+    "alcance_geografico": "ARG",
+    "extension": ".pdf",
+    "ruta_local": "Plantas nativas/fichas/Vivero Mun. San Isidro - [ARG]  ficha Mburucuyá - pasionaria (Passiflora caerulea).pdf"
+  },
+  {
+    "id": "00123",
+    "titulo": "Vivero Mun. San Isidro [ARG] ficha Mil hombres (Aristolochia triangularis)",
+    "autor": [
+      "Vivero Mun. San Isidro"
+    ],
+    "tema_principal": "flora nativa",
+    "tipo": "ficha",
+    "etiquetas": [
+      "Fichas"
+    ],
+    "coleccion": "Fichas de Nativas",
+    "fuente": "local",
+    "acceso": "visor_drive",
+    "alcance_geografico": "ARG",
+    "extension": ".pdf",
+    "ruta_local": "Plantas nativas/fichas/Vivero Mun. San Isidro - [ARG]  ficha Mil hombres (Aristolochia triangularis).pdf"
+  },
+  {
+    "id": "00124",
+    "titulo": "Vivero Mun. San Isidro [ARG] ficha Patito, pajarito (Aristolochia fimbriata)",
+    "autor": [
+      "Vivero Mun. San Isidro"
+    ],
+    "tema_principal": "flora nativa",
+    "tipo": "ficha",
+    "etiquetas": [
+      "Fichas"
+    ],
+    "coleccion": "Fichas de Nativas",
+    "fuente": "local",
+    "acceso": "visor_drive",
+    "alcance_geografico": "ARG",
+    "extension": ".pdf",
+    "ruta_local": "Plantas nativas/fichas/Vivero Mun. San Isidro - [ARG]  ficha Patito, pajarito (Aristolochia fimbriata).pdf"
+  },
+  {
+    "id": "00125",
+    "titulo": "Vivero Mun. San Isidro [ARG] ficha Rosa de río (Hibiscus striatus)",
+    "autor": [
+      "Vivero Mun. San Isidro"
+    ],
+    "tema_principal": "flora nativa",
+    "tipo": "ficha",
+    "etiquetas": [
+      "Fichas"
+    ],
+    "coleccion": "Fichas de Nativas",
+    "fuente": "local",
+    "acceso": "visor_drive",
+    "alcance_geografico": "ARG",
+    "extension": ".pdf",
+    "ruta_local": "Plantas nativas/fichas/Vivero Mun. San Isidro - [ARG]  ficha Rosa de río (Hibiscus striatus).pdf"
+  },
+  {
+    "id": "00126",
+    "titulo": "Vivero Mun. San Isidro [ARG] ficha Salvia (Salvia procurrens)",
+    "autor": [
+      "Vivero Mun. San Isidro"
+    ],
+    "tema_principal": "flora nativa",
+    "tipo": "ficha",
+    "etiquetas": [
+      "Fichas"
+    ],
+    "coleccion": "Fichas de Nativas",
+    "fuente": "local",
+    "acceso": "visor_drive",
+    "alcance_geografico": "ARG",
+    "extension": ".pdf",
+    "ruta_local": "Plantas nativas/fichas/Vivero Mun. San Isidro - [ARG]  ficha Salvia (Salvia procurrens).pdf"
+  },
+  {
+    "id": "00127",
+    "titulo": "Vivero Mun. San Isidro [ARG] ficha Azucenita (Zephyranthes candida)",
+    "autor": [
+      "Vivero Mun. San Isidro"
+    ],
+    "tema_principal": "flora nativa",
+    "tipo": "ficha",
+    "etiquetas": [
+      "Fichas"
+    ],
+    "coleccion": "Fichas de Nativas",
+    "fuente": "local",
+    "acceso": "visor_drive",
+    "alcance_geografico": "ARG",
+    "extension": ".pdf",
+    "ruta_local": "Plantas nativas/fichas/Vivero Mun. San Isidro - [ARG]  ficha Azucenita (Zephyranthes candida).pdf"
+  },
+  {
+    "id": "00128",
+    "titulo": "Vivero Mun. San Isidro [ARG] ficha Canchalagua (Sisyrinchium platense)",
+    "autor": [
+      "Vivero Mun. San Isidro"
+    ],
+    "tema_principal": "flora nativa",
+    "tipo": "ficha",
+    "etiquetas": [
+      "Fichas"
+    ],
+    "coleccion": "Fichas de Nativas",
+    "fuente": "local",
+    "acceso": "visor_drive",
+    "alcance_geografico": "ARG",
+    "extension": ".pdf",
+    "ruta_local": "Plantas nativas/fichas/Vivero Mun. San Isidro - [ARG]  ficha Canchalagua (Sisyrinchium platense).pdf"
+  },
+  {
+    "id": "00129",
+    "titulo": "Vivero Mun. San Isidro [ARG] ficha Caá ovetí (Solanum granuloso leprosum)",
+    "autor": [
+      "Vivero Mun. San Isidro"
+    ],
+    "tema_principal": "flora nativa",
+    "tipo": "ficha",
+    "etiquetas": [
+      "Fichas"
+    ],
+    "coleccion": "Fichas de Nativas",
+    "fuente": "local",
+    "acceso": "visor_drive",
+    "alcance_geografico": "ARG",
+    "extension": ".pdf",
+    "ruta_local": "Plantas nativas/fichas/Vivero Mun. San Isidro - [ARG]  ficha Caá-ovetí (Solanum granuloso-leprosum).pdf"
+  },
+  {
+    "id": "00130",
+    "titulo": "Vivero Mun. San Isidro [ARG] ficha Ceibo (Erythrina crista galli)",
+    "autor": [
+      "Vivero Mun. San Isidro"
+    ],
+    "tema_principal": "flora nativa",
+    "tipo": "ficha",
+    "etiquetas": [
+      "Fichas"
+    ],
+    "coleccion": "Fichas de Nativas",
+    "fuente": "local",
+    "acceso": "visor_drive",
+    "alcance_geografico": "ARG",
+    "extension": ".pdf",
+    "ruta_local": "Plantas nativas/fichas/Vivero Mun. San Isidro - [ARG]  ficha Ceibo (Erythrina crista-galli).pdf"
+  },
+  {
+    "id": "00131",
+    "titulo": "Vivero Mun. San Isidro [ARG] ficha Isipó colorado (Camptosema rubicundum)",
+    "autor": [
+      "Vivero Mun. San Isidro"
+    ],
+    "tema_principal": "flora nativa",
+    "tipo": "ficha",
+    "etiquetas": [
+      "Fichas"
+    ],
+    "coleccion": "Fichas de Nativas",
+    "fuente": "local",
+    "acceso": "visor_drive",
+    "alcance_geografico": "ARG",
+    "extension": ".pdf",
+    "ruta_local": "Plantas nativas/fichas/Vivero Mun. San Isidro - [ARG]  ficha Isipó colorado (Camptosema rubicundum).pdf"
+  },
+  {
+    "id": "00132",
+    "titulo": "Vivero Mun. San Isidro [ARG] ficha Sangre de toro (Rivina humilis)",
+    "autor": [
+      "Vivero Mun. San Isidro"
+    ],
+    "tema_principal": "flora nativa",
+    "tipo": "ficha",
+    "etiquetas": [
+      "Fichas"
+    ],
+    "coleccion": "Fichas de Nativas",
+    "fuente": "local",
+    "acceso": "visor_drive",
+    "alcance_geografico": "ARG",
+    "extension": ".pdf",
+    "ruta_local": "Plantas nativas/fichas/Vivero Mun. San Isidro - [ARG]  ficha Sangre de toro (Rivina humilis).pdf"
+  },
+  {
+    "id": "00133",
+    "titulo": "Vivero Mun. San Isidro [ARG] ficha Cola de caballo Huiñal (Equisetum giganteum)",
+    "autor": [
+      "Vivero Mun. San Isidro"
+    ],
+    "tema_principal": "flora nativa",
+    "tipo": "ficha",
+    "etiquetas": [
+      "Fichas"
+    ],
+    "coleccion": "Fichas de Nativas",
+    "fuente": "local",
+    "acceso": "visor_drive",
+    "alcance_geografico": "ARG",
+    "extension": ".pdf",
+    "ruta_local": "Plantas nativas/fichas/Vivero Mun. San Isidro - [ARG]  ficha Cola de caballo  Huiñal (Equisetum giganteum).pdf"
+  },
+  {
+    "id": "00134",
+    "titulo": "Vivero Mun. San Isidro [ARG] ficha Coronillo (Scutia buxifolia)",
+    "autor": [
+      "Vivero Mun. San Isidro"
+    ],
+    "tema_principal": "flora nativa",
+    "tipo": "ficha",
+    "etiquetas": [
+      "Fichas"
+    ],
+    "coleccion": "Fichas de Nativas",
+    "fuente": "local",
+    "acceso": "visor_drive",
+    "alcance_geografico": "ARG",
+    "extension": ".pdf",
+    "ruta_local": "Plantas nativas/fichas/Vivero Mun. San Isidro - [ARG]  ficha Coronillo (Scutia buxifolia).pdf"
+  },
+  {
+    "id": "00135",
+    "titulo": "Vivero Mun. San Isidro [ARG] ficha Cuaresma (Tibouchina nitida)",
+    "autor": [
+      "Vivero Mun. San Isidro"
+    ],
+    "tema_principal": "flora nativa",
+    "tipo": "ficha",
+    "etiquetas": [
+      "Fichas"
+    ],
+    "coleccion": "Fichas de Nativas",
+    "fuente": "local",
+    "acceso": "visor_drive",
+    "alcance_geografico": "ARG",
+    "extension": ".pdf",
+    "ruta_local": "Plantas nativas/fichas/Vivero Mun. San Isidro - [ARG]  ficha Cuaresma (Tibouchina nitida).pdf"
+  },
+  {
+    "id": "00136",
+    "titulo": "Vivero Mun. San Isidro [ARG] ficha Cucharero (Echinodorus grandiflorus)",
+    "autor": [
+      "Vivero Mun. San Isidro"
+    ],
+    "tema_principal": "flora nativa",
+    "tipo": "ficha",
+    "etiquetas": [
+      "Fichas"
+    ],
+    "coleccion": "Fichas de Nativas",
+    "fuente": "local",
+    "acceso": "visor_drive",
+    "alcance_geografico": "ARG",
+    "extension": ".pdf",
+    "ruta_local": "Plantas nativas/fichas/Vivero Mun. San Isidro - [ARG]  ficha Cucharero (Echinodorus grandiflorus).pdf"
+  },
+  {
+    "id": "00137",
+    "titulo": "Vivero Mun. San Isidro [ARG] ficha Espinillo (Acacia caven)",
+    "autor": [
+      "Vivero Mun. San Isidro"
+    ],
+    "tema_principal": "aves",
+    "tipo": "ficha",
+    "etiquetas": [
+      "Fichas"
+    ],
+    "coleccion": "Fichas de Nativas",
+    "fuente": "local",
+    "acceso": "visor_drive",
+    "alcance_geografico": "ARG",
+    "extension": ".pdf",
+    "ruta_local": "Plantas nativas/fichas/Vivero Mun. San Isidro - [ARG]  ficha Espinillo (Acacia caven).pdf"
+  },
+  {
+    "id": "00138",
+    "titulo": "Vivero Mun. San Isidro [ARG] ficha Flor de nácar (Begonia cucullata)",
+    "autor": [
+      "Vivero Mun. San Isidro"
+    ],
+    "tema_principal": "flora nativa",
+    "tipo": "ficha",
+    "etiquetas": [
+      "Fichas"
+    ],
+    "coleccion": "Fichas de Nativas",
+    "fuente": "local",
+    "acceso": "visor_drive",
+    "alcance_geografico": "ARG",
+    "extension": ".pdf",
+    "ruta_local": "Plantas nativas/fichas/Vivero Mun. San Isidro - [ARG]  ficha Flor de nácar (Begonia cucullata).pdf"
+  },
+  {
+    "id": "00139",
+    "titulo": "Vivero Mun. San Isidro [ARG] ficha Flor de patito (Oncidium bifolium)",
+    "autor": [
+      "Vivero Mun. San Isidro"
+    ],
+    "tema_principal": "flora nativa",
+    "tipo": "ficha",
+    "etiquetas": [
+      "Fichas"
+    ],
+    "coleccion": "Fichas de Nativas",
+    "fuente": "local",
+    "acceso": "visor_drive",
+    "alcance_geografico": "ARG",
+    "extension": ".pdf",
+    "ruta_local": "Plantas nativas/fichas/Vivero Mun. San Isidro - [ARG]  ficha Flor de patito (Oncidium bifolium).pdf"
+  },
+  {
+    "id": "00140",
+    "titulo": "Vivero Mun. San Isidro [ARG] ficha Flor de pitito (Tropaeolum pentaphyllum)",
+    "autor": [
+      "Vivero Mun. San Isidro"
+    ],
+    "tema_principal": "flora nativa",
+    "tipo": "ficha",
+    "etiquetas": [
+      "Fichas"
+    ],
+    "coleccion": "Fichas de Nativas",
+    "fuente": "local",
+    "acceso": "visor_drive",
+    "alcance_geografico": "ARG",
+    "extension": ".pdf",
+    "ruta_local": "Plantas nativas/fichas/Vivero Mun. San Isidro - [ARG]  ficha Flor de pitito (Tropaeolum pentaphyllum).pdf"
+  },
+  {
+    "id": "00141",
+    "titulo": "Nuñez Bustos [ARG] articulo Mariposa Bandera Argentina Biologia, ecologia y conservación en la Pcia de Bs As",
+    "autor": [
+      "Nuñez  Bustos"
+    ],
+    "tema_principal": "entomología",
+    "tipo": "artículo",
+    "etiquetas": [
+      "Mariposas",
+      "mariposas"
+    ],
+    "coleccion": "Bandera Argentina",
+    "fuente": "local",
+    "acceso": "visor_drive",
+    "alcance_geografico": "ARG",
+    "extension": ".pdf",
+    "ruta_local": "Entomología/Mariposas/Nuñez  Bustos - [ARG] articulo Mariposa Bandera Argentina Biologia, ecologia y conservación en la Pcia de Bs As.pdf"
+  },
+  {
+    "id": "00142",
+    "titulo": "Penco [ARG] entomologia Lepidóptera Argentina Parte I Castniidae",
+    "autor": [
+      "Penco"
+    ],
+    "tema_principal": "entomología",
+    "tipo": "documento",
+    "etiquetas": [
+      "Mariposas",
+      "mariposas"
+    ],
+    "coleccion": null,
+    "fuente": "local",
+    "acceso": "visor_drive",
+    "alcance_geografico": "ARG",
+    "extension": ".pdf",
+    "ruta_local": "Entomología/Mariposas/Penco - [ARG] entomologia  Lepidóptera Argentina Parte I Castniidae .pdf"
+  },
+  {
+    "id": "00143",
+    "titulo": "Penco [ARG] entomologia catalogo Lepidóptera Argentina Parte IV Sematuridae & Uraniidae",
+    "autor": [
+      "Penco"
+    ],
+    "tema_principal": "entomología",
+    "tipo": "inventario",
+    "etiquetas": [
+      "Mariposas",
+      "mariposas"
+    ],
+    "coleccion": null,
+    "fuente": "local",
+    "acceso": "visor_drive",
+    "alcance_geografico": "ARG",
+    "extension": ".pdf",
+    "ruta_local": "Entomología/Mariposas/Penco - [ARG] entomologia catalogo Lepidóptera Argentina Parte IV Sematuridae & Uraniidae.pdf"
+  },
+  {
+    "id": "00144",
+    "titulo": "Penco; Di Iorio [ARG] Catalogo entomologia Lepidóptera Argentina Parte VII Papilionidae (2014)",
+    "autor": [
+      "Penco",
+      "Di Iorio"
+    ],
+    "tema_principal": "entomología",
+    "tipo": "inventario",
+    "etiquetas": [
+      "Mariposas",
+      "mariposas"
+    ],
+    "coleccion": null,
+    "fuente": "local",
+    "acceso": "visor_drive",
+    "alcance_geografico": "ARG",
+    "extension": ".pdf",
+    "ruta_local": "Entomología/Mariposas/Penco;  Di Iorio - [ARG] Catalogo entomologia Lepidóptera Argentina Parte VII Papilionidae (2014).pdf"
+  },
+  {
+    "id": "00145",
+    "titulo": "Bertonatti; Perez [ARG] Articulo mariposa bandera argentina",
+    "autor": [
+      "Bertonatti",
+      "Perez"
+    ],
+    "tema_principal": "entomología",
+    "tipo": "artículo",
+    "etiquetas": [
+      "Mariposas",
+      "mariposas"
+    ],
+    "coleccion": "Bandera Argentina",
+    "fuente": "local",
+    "acceso": "visor_drive",
+    "alcance_geografico": "ARG",
+    "extension": ".pdf",
+    "ruta_local": "Entomología/Mariposas/Bertonatti; Perez - [ARG] Articulo  mariposa bandera argentina.pdf"
+  },
+  {
+    "id": "00146",
+    "titulo": "Buenos Aires Ciudad [LOC] Guia Las mariposas van a la escuela",
+    "autor": [
+      "Buenos Aires Ciudad"
+    ],
+    "tema_principal": "entomología",
+    "tipo": "guía",
+    "etiquetas": [
+      "Mariposas",
+      "mariposas"
+    ],
+    "coleccion": null,
+    "fuente": "local",
+    "acceso": "visor_drive",
+    "alcance_geografico": "LOC",
+    "extension": ".pdf",
+    "ruta_local": "Entomología/Mariposas/Buenos Aires Ciudad - [LOC] Guia Las mariposas van a la escuela.pdf"
+  },
+  {
+    "id": "00147",
+    "titulo": "Bustos Nuñez [LOC] entomologia Listado de Mariposas diurnas del Parque Costero del Sur Magdalena y Punta Indio Nuevos Temas",
+    "autor": [
+      "Bustos Nuñez"
+    ],
+    "tema_principal": "entomología",
+    "tipo": "listado",
+    "etiquetas": [
+      "Mariposas",
+      "mariposas"
+    ],
+    "coleccion": null,
+    "fuente": "local",
+    "acceso": "visor_drive",
+    "alcance_geografico": "LOC",
+    "extension": ".pdf",
+    "ruta_local": "Entomología/Mariposas/Bustos Nuñez - [LOC] entomologia  Listado de Mariposas diurnas del Parque Costero del Sur Magdalena y Punta Indio  Nuevos Temas.pdf"
+  },
+  {
+    "id": "00148",
+    "titulo": "Klimaitis; Moschione [ARG] libro Maravillas aladas de Argentina",
+    "autor": [
+      "Klimaitis",
+      "Moschione"
+    ],
+    "tema_principal": "entomología",
+    "tipo": "libro",
+    "etiquetas": [
+      "Mariposas",
+      "mariposas"
+    ],
+    "coleccion": null,
+    "fuente": "local",
+    "acceso": "visor_drive",
+    "alcance_geografico": "ARG",
+    "extension": ".pdf",
+    "ruta_local": "Entomología/Mariposas/Klimaitis; Moschione - [ARG] libro  Maravillas aladas de Argentina.pdf"
+  },
+  {
+    "id": "00149",
+    "titulo": "Ministerio de Ambiente PBA [BSAS] Cartilla Mariposas Bonaerenses",
+    "autor": [
+      "Ministerio de Ambiente PBA"
+    ],
+    "tema_principal": "entomología",
+    "tipo": "cartilla",
+    "etiquetas": [
+      "Mariposas",
+      "mariposas"
+    ],
+    "coleccion": null,
+    "fuente": "local",
+    "acceso": "visor_drive",
+    "alcance_geografico": "BSAS",
+    "extension": ".pdf",
+    "ruta_local": "Entomología/Mariposas/Ministerio de Ambiente PBA  - [BSAS] Cartilla  Mariposas Bonaerenses.pdf"
+  },
+  {
+    "id": "00150",
+    "titulo": "Revista [ARG] CEAL Fauna Argentina 102 Los Chorlos CEAL",
+    "autor": [],
+    "tema_principal": "aves",
+    "tipo": "revista",
+    "etiquetas": [
+      "Fauna Argentina CEAL"
+    ],
+    "coleccion": null,
+    "fuente": "local",
+    "acceso": "visor_drive",
+    "alcance_geografico": "ARG",
+    "extension": ".pdf",
+    "ruta_local": "Aves/Revista Fauna Argentina CEAL/Revista - [ARG] CEAL Fauna Argentina 102 Los Chorlos CEAL.pdf"
+  },
+  {
+    "id": "00151",
+    "titulo": "Revista [ARG] CEAL Fauna Argentina 4 Garza Blanca",
+    "autor": [],
+    "tema_principal": "aves",
+    "tipo": "revista",
+    "etiquetas": [
+      "Fauna Argentina CEAL"
+    ],
+    "coleccion": null,
+    "fuente": "local",
+    "acceso": "visor_drive",
+    "alcance_geografico": "ARG",
+    "extension": ".pdf",
+    "ruta_local": "Aves/Revista Fauna Argentina CEAL/Revista - [ARG] CEAL Fauna Argentina 4 Garza Blanca.pdf"
+  },
+  {
+    "id": "00152",
+    "titulo": "Revista [ARG] CEAL Fauna Argentina 81 El Macá común",
+    "autor": [],
+    "tema_principal": "aves",
+    "tipo": "revista",
+    "etiquetas": [
+      "Fauna Argentina CEAL"
+    ],
+    "coleccion": null,
+    "fuente": "local",
+    "acceso": "visor_drive",
+    "alcance_geografico": "ARG",
+    "extension": ".pdf",
+    "ruta_local": "Aves/Revista Fauna Argentina CEAL/Revista - [ARG] CEAL Fauna Argentina 81 El Macá común.pdf"
+  },
+  {
+    "id": "00153",
+    "titulo": "Revista [ARG] Fauna Argentina 106 Los Pecho Amarillos",
+    "autor": [],
+    "tema_principal": "aves",
+    "tipo": "revista",
+    "etiquetas": [
+      "Fauna Argentina CEAL"
+    ],
+    "coleccion": null,
+    "fuente": "local",
+    "acceso": "visor_drive",
+    "alcance_geografico": "ARG",
+    "extension": ".pdf",
+    "ruta_local": "Aves/Revista Fauna Argentina CEAL/Revista - [ARG] Fauna Argentina 106 Los Pecho Amarillos.pdf"
+  },
+  {
+    "id": "00154",
+    "titulo": "Revista [ARG] Fauna Argentina 63 El Pirincho",
+    "autor": [],
+    "tema_principal": "aves",
+    "tipo": "revista",
+    "etiquetas": [
+      "Fauna Argentina CEAL"
+    ],
+    "coleccion": null,
+    "fuente": "local",
+    "acceso": "visor_drive",
+    "alcance_geografico": "ARG",
+    "extension": ".pdf",
+    "ruta_local": "Aves/Revista Fauna Argentina CEAL/Revista - [ARG] Fauna Argentina 63 El Pirincho.pdf"
+  },
+  {
+    "id": "00155",
+    "titulo": "Revista [ARG]Garganchillo 5 Nueva serie",
+    "autor": [],
+    "tema_principal": "aves",
+    "tipo": "revista",
+    "etiquetas": [
+      "Berisso",
+      "El Garganchillo"
+    ],
+    "coleccion": "El Garganchillo",
+    "fuente": "local",
+    "acceso": "visor_drive",
+    "alcance_geografico": "ARG",
+    "extension": ".pdf",
+    "ruta_local": "Aves/Revista Garganchillo (Berisso)/Revista - [ARG]Garganchillo 5 Nueva serie.pdf"
+  },
+  {
+    "id": "00156",
+    "titulo": "Revista [ARG]Garganchillo 6 Nueva serie",
+    "autor": [],
+    "tema_principal": "aves",
+    "tipo": "revista",
+    "etiquetas": [
+      "Berisso",
+      "El Garganchillo"
+    ],
+    "coleccion": "El Garganchillo",
+    "fuente": "local",
+    "acceso": "visor_drive",
+    "alcance_geografico": "ARG",
+    "extension": ".pdf",
+    "ruta_local": "Aves/Revista Garganchillo (Berisso)/Revista - [ARG]Garganchillo 6 Nueva serie.pdf"
+  },
+  {
+    "id": "00157",
+    "titulo": "Revista [ARG]Garganchillo 6",
+    "autor": [],
+    "tema_principal": "aves",
+    "tipo": "revista",
+    "etiquetas": [
+      "Berisso",
+      "El Garganchillo"
+    ],
+    "coleccion": "El Garganchillo",
+    "fuente": "local",
+    "acceso": "visor_drive",
+    "alcance_geografico": "ARG",
+    "extension": ".pdf",
+    "ruta_local": "Aves/Revista Garganchillo (Berisso)/Revista - [ARG]Garganchillo 6.pdf"
+  },
+  {
+    "id": "00158",
+    "titulo": "Revista [ARG]Garganchillo 7 Nueva serie",
+    "autor": [],
+    "tema_principal": "aves",
+    "tipo": "revista",
+    "etiquetas": [
+      "Berisso",
+      "El Garganchillo"
+    ],
+    "coleccion": "El Garganchillo",
+    "fuente": "local",
+    "acceso": "visor_drive",
+    "alcance_geografico": "ARG",
+    "extension": ".pdf",
+    "ruta_local": "Aves/Revista Garganchillo (Berisso)/Revista - [ARG]Garganchillo 7 Nueva serie.pdf"
+  },
+  {
+    "id": "00159",
+    "titulo": "Revista [ARG]Garganchillo 7",
+    "autor": [],
+    "tema_principal": "aves",
+    "tipo": "revista",
+    "etiquetas": [
+      "Berisso",
+      "El Garganchillo"
+    ],
+    "coleccion": "El Garganchillo",
+    "fuente": "local",
+    "acceso": "visor_drive",
+    "alcance_geografico": "ARG",
+    "extension": ".pdf",
+    "ruta_local": "Aves/Revista Garganchillo (Berisso)/Revista - [ARG]Garganchillo 7.pdf"
+  },
+  {
+    "id": "00160",
+    "titulo": "Revista [LOC]Garganchillo 1",
+    "autor": [],
+    "tema_principal": "aves",
+    "tipo": "revista",
+    "etiquetas": [
+      "Berisso",
+      "El Garganchillo"
+    ],
+    "coleccion": "El Garganchillo",
+    "fuente": "local",
+    "acceso": "visor_drive",
+    "alcance_geografico": "LOC",
+    "extension": ".pdf",
+    "ruta_local": "Aves/Revista Garganchillo (Berisso)/Revista - [LOC]Garganchillo 1.pdf"
+  },
+  {
+    "id": "00161",
+    "titulo": "Revista [LOC]Garganchillo 10",
+    "autor": [],
+    "tema_principal": "aves",
+    "tipo": "revista",
+    "etiquetas": [
+      "Berisso",
+      "El Garganchillo"
+    ],
+    "coleccion": "El Garganchillo",
+    "fuente": "local",
+    "acceso": "visor_drive",
+    "alcance_geografico": "LOC",
+    "extension": ".pdf",
+    "ruta_local": "Aves/Revista Garganchillo (Berisso)/Revista - [LOC]Garganchillo 10.pdf"
+  },
+  {
+    "id": "00162",
+    "titulo": "Revista [LOC]Garganchillo 11",
+    "autor": [],
+    "tema_principal": "aves",
+    "tipo": "revista",
+    "etiquetas": [
+      "Berisso",
+      "El Garganchillo"
+    ],
+    "coleccion": "El Garganchillo",
+    "fuente": "local",
+    "acceso": "visor_drive",
+    "alcance_geografico": "LOC",
+    "extension": ".pdf",
+    "ruta_local": "Aves/Revista Garganchillo (Berisso)/Revista - [LOC]Garganchillo 11.pdf"
+  },
+  {
+    "id": "00163",
+    "titulo": "Revista [LOC]Garganchillo 12",
+    "autor": [],
+    "tema_principal": "aves",
+    "tipo": "revista",
+    "etiquetas": [
+      "Berisso",
+      "El Garganchillo"
+    ],
+    "coleccion": "El Garganchillo",
+    "fuente": "local",
+    "acceso": "visor_drive",
+    "alcance_geografico": "LOC",
+    "extension": ".pdf",
+    "ruta_local": "Aves/Revista Garganchillo (Berisso)/Revista - [LOC]Garganchillo 12.pdf"
+  },
+  {
+    "id": "00164",
+    "titulo": "Revista [LOC]Garganchillo 2",
+    "autor": [],
+    "tema_principal": "aves",
+    "tipo": "revista",
+    "etiquetas": [
+      "Berisso",
+      "El Garganchillo"
+    ],
+    "coleccion": "El Garganchillo",
+    "fuente": "local",
+    "acceso": "visor_drive",
+    "alcance_geografico": "LOC",
+    "extension": ".pdf",
+    "ruta_local": "Aves/Revista Garganchillo (Berisso)/Revista - [LOC]Garganchillo 2.pdf"
+  },
+  {
+    "id": "00165",
+    "titulo": "Revista [LOC]Garganchillo 3",
+    "autor": [],
+    "tema_principal": "aves",
+    "tipo": "revista",
+    "etiquetas": [
+      "Berisso",
+      "El Garganchillo"
+    ],
+    "coleccion": "El Garganchillo",
+    "fuente": "local",
+    "acceso": "visor_drive",
+    "alcance_geografico": "LOC",
+    "extension": ".pdf",
+    "ruta_local": "Aves/Revista Garganchillo (Berisso)/Revista - [LOC]Garganchillo 3.pdf"
+  },
+  {
+    "id": "00166",
+    "titulo": "Revista [LOC]Garganchillo 4",
+    "autor": [],
+    "tema_principal": "aves",
+    "tipo": "revista",
+    "etiquetas": [
+      "Berisso",
+      "El Garganchillo"
+    ],
+    "coleccion": "El Garganchillo",
+    "fuente": "local",
+    "acceso": "visor_drive",
+    "alcance_geografico": "LOC",
+    "extension": ".pdf",
+    "ruta_local": "Aves/Revista Garganchillo (Berisso)/Revista - [LOC]Garganchillo 4.pdf"
+  },
+  {
+    "id": "00167",
+    "titulo": "Revista [LOC]Garganchillo 5",
+    "autor": [],
+    "tema_principal": "aves",
+    "tipo": "revista",
+    "etiquetas": [
+      "Berisso",
+      "El Garganchillo"
+    ],
+    "coleccion": "El Garganchillo",
+    "fuente": "local",
+    "acceso": "visor_drive",
+    "alcance_geografico": "LOC",
+    "extension": ".pdf",
+    "ruta_local": "Aves/Revista Garganchillo (Berisso)/Revista - [LOC]Garganchillo 5.pdf"
+  },
+  {
+    "id": "00168",
+    "titulo": "Revista [LOC]Garganchillo 8 Nueva serie",
+    "autor": [],
+    "tema_principal": "aves",
+    "tipo": "revista",
+    "etiquetas": [
+      "Berisso",
+      "El Garganchillo"
+    ],
+    "coleccion": "El Garganchillo",
+    "fuente": "local",
+    "acceso": "visor_drive",
+    "alcance_geografico": "LOC",
+    "extension": ".pdf",
+    "ruta_local": "Aves/Revista Garganchillo (Berisso)/Revista - [LOC]Garganchillo 8 Nueva serie.pdf"
+  },
+  {
+    "id": "00169",
+    "titulo": "Revista [LOC]Garganchillo 8",
+    "autor": [],
+    "tema_principal": "aves",
+    "tipo": "revista",
+    "etiquetas": [
+      "Berisso",
+      "El Garganchillo"
+    ],
+    "coleccion": "El Garganchillo",
+    "fuente": "local",
+    "acceso": "visor_drive",
+    "alcance_geografico": "LOC",
+    "extension": ".pdf",
+    "ruta_local": "Aves/Revista Garganchillo (Berisso)/Revista - [LOC]Garganchillo 8.pdf"
+  },
+  {
+    "id": "00170",
+    "titulo": "Revista [LOC]Garganchillo 9",
+    "autor": [],
+    "tema_principal": "aves",
+    "tipo": "revista",
+    "etiquetas": [
+      "Berisso",
+      "El Garganchillo"
+    ],
+    "coleccion": "El Garganchillo",
+    "fuente": "local",
+    "acceso": "visor_drive",
+    "alcance_geografico": "LOC",
+    "extension": ".pdf",
+    "ruta_local": "Aves/Revista Garganchillo (Berisso)/Revista - [LOC]Garganchillo 9.pdf"
+  },
+  {
+    "id": "00171",
+    "titulo": "ACUMAR [BSAS] Guia Aves de la Cuenta Matanza Riachuelo",
+    "autor": [
+      "ACUMAR"
+    ],
+    "tema_principal": "aves",
+    "tipo": "guía",
+    "etiquetas": [
+      "Guías"
+    ],
+    "coleccion": null,
+    "fuente": "local",
+    "acceso": "visor_drive",
+    "alcance_geografico": "BSAS",
+    "extension": ".pdf",
+    "ruta_local": "Aves/Guias/ACUMAR - [BSAS] Guia Aves de la Cuenta Matanza Riachuelo.pdf"
+  },
+  {
+    "id": "00172",
+    "titulo": "Arkive [ARG] Guia Chorlos y Playeros",
+    "autor": [
+      "Arkive"
+    ],
+    "tema_principal": "aves",
+    "tipo": "guía",
+    "etiquetas": [
+      "Guías"
+    ],
+    "coleccion": null,
+    "fuente": "local",
+    "acceso": "visor_drive",
+    "alcance_geografico": "ARG",
+    "extension": ".pdf",
+    "ruta_local": "Aves/Guias/Arkive - [ARG] Guia Chorlos y Playeros.pdf"
+  },
+  {
+    "id": "00173",
+    "titulo": "Asociacion Rivera Norte [LOC] Guía aves platenses y del delta",
+    "autor": [
+      "Asociacion Rivera Norte"
+    ],
+    "tema_principal": "aves",
+    "tipo": "guía",
+    "etiquetas": [
+      "Guías"
+    ],
+    "coleccion": null,
+    "fuente": "local",
+    "acceso": "visor_drive",
+    "alcance_geografico": "LOC",
+    "extension": ".pdf",
+    "ruta_local": "Aves/Guias/Asociacion Rivera Norte - [LOC] Guía aves platenses y del delta.pdf"
+  },
+  {
+    "id": "00174",
+    "titulo": "CARU [SAM] Guia Aves del Rio Uruguay",
+    "autor": [
+      "CARU"
+    ],
+    "tema_principal": "aves",
+    "tipo": "guía",
+    "etiquetas": [
+      "Guías"
+    ],
+    "coleccion": null,
+    "fuente": "local",
+    "acceso": "visor_drive",
+    "alcance_geografico": "SAM",
+    "extension": ".pdf",
+    "ruta_local": "Aves/Guias/CARU - [SAM] Guia Aves del Rio Uruguay.pdf"
+  },
+  {
+    "id": "00175",
+    "titulo": "COA Carancho [LOC] Guia Aves migratorias en la ciudad",
+    "autor": [
+      "COA Carancho"
+    ],
+    "tema_principal": "aves",
+    "tipo": "guía",
+    "etiquetas": [
+      "Guías",
+      "migración"
+    ],
+    "coleccion": null,
+    "fuente": "local",
+    "acceso": "visor_drive",
+    "alcance_geografico": "LOC",
+    "extension": ".pdf",
+    "ruta_local": "Aves/Guias/COA Carancho - [LOC] Guia Aves migratorias en la ciudad.pdf"
+  },
+  {
+    "id": "00176",
+    "titulo": "COA Centenario [LOC] Guía Aves del Parque Centenario 1",
+    "autor": [
+      "COA Centenario"
+    ],
+    "tema_principal": "aves",
+    "tipo": "guía",
+    "etiquetas": [
+      "Guías"
+    ],
+    "coleccion": null,
+    "fuente": "local",
+    "acceso": "visor_drive",
+    "alcance_geografico": "LOC",
+    "extension": ".jpg",
+    "ruta_local": "Aves/Guias/COA Centenario - [LOC] Guía Aves del Parque Centenario 1.jpg"
+  },
+  {
+    "id": "00177",
+    "titulo": "COA Centenario [LOC] Guía Aves del Parque Centenario 2",
+    "autor": [
+      "COA Centenario"
+    ],
+    "tema_principal": "aves",
+    "tipo": "guía",
+    "etiquetas": [
+      "Guías"
+    ],
+    "coleccion": null,
+    "fuente": "local",
+    "acceso": "visor_drive",
+    "alcance_geografico": "LOC",
+    "extension": ".jpg",
+    "ruta_local": "Aves/Guias/COA Centenario - [LOC] Guía Aves del Parque Centenario 2.jpg"
+  },
+  {
+    "id": "00178",
+    "titulo": "Fundación Meri [SAM] Guía del Flamenco y especies asociadas",
+    "autor": [
+      "Fundación Meri"
+    ],
+    "tema_principal": "aves",
+    "tipo": "guía",
+    "etiquetas": [
+      "Guías"
+    ],
+    "coleccion": null,
+    "fuente": "local",
+    "acceso": "visor_drive",
+    "alcance_geografico": "SAM",
+    "extension": ".pdf",
+    "ruta_local": "Aves/Guias/Fundación Meri - [SAM] Guía del Flamenco y especies asociadas.pdf"
+  },
+  {
+    "id": "00179",
+    "titulo": "guia Procellariformes",
+    "autor": [],
+    "tema_principal": "aves",
+    "tipo": "guía",
+    "etiquetas": [
+      "Guías"
+    ],
+    "coleccion": null,
+    "fuente": "local",
+    "acceso": "visor_drive",
+    "alcance_geografico": null,
+    "extension": ".pdf",
+    "ruta_local": "Aves/Guias/guia - Procellariformes.pdf"
+  },
+  {
+    "id": "00180",
+    "titulo": "López Lanus [ARG] Guía Audiornis Aves de Argentina",
+    "autor": [
+      "López Lanus"
+    ],
+    "tema_principal": "aves",
+    "tipo": "guía",
+    "etiquetas": [
+      "Guías"
+    ],
+    "coleccion": null,
+    "fuente": "local",
+    "acceso": "descarga",
+    "alcance_geografico": "ARG",
+    "extension": ".pdf",
+    "ruta_local": "Aves/Guias/López Lanus - [ARG]  Guía Audiornis Aves de Argentina .pdf"
+  },
+  {
+    "id": "00181",
+    "titulo": "Márquez [LOC] Aves porteñas",
+    "autor": [
+      "Márquez"
+    ],
+    "tema_principal": "aves",
+    "tipo": "guía",
+    "etiquetas": [
+      "Guías"
+    ],
+    "coleccion": null,
+    "fuente": "local",
+    "acceso": "visor_drive",
+    "alcance_geografico": "LOC",
+    "extension": ".pdf",
+    "ruta_local": "Aves/Guias/Márquez - [LOC] Aves porteñas.pdf"
+  },
+  {
+    "id": "00182",
+    "titulo": "Petracci; Cannevari [SAM] Guía aves marinas y migratorias sudamericanas",
+    "autor": [
+      "Petracci",
+      "Cannevari"
+    ],
+    "tema_principal": "aves",
+    "tipo": "guía",
+    "etiquetas": [
+      "Guías",
+      "migración"
+    ],
+    "coleccion": null,
+    "fuente": "local",
+    "acceso": "visor_drive",
+    "alcance_geografico": "SAM",
+    "extension": ".pdf",
+    "ruta_local": "Aves/Guias/Petracci; Cannevari - [SAM] Guía aves marinas y migratorias sudamericanas.pdf"
+  },
+  {
+    "id": "00183",
+    "titulo": "Savigny [ARG] articulo Aves de la Argentina azul Pelagicas",
+    "autor": [
+      "Savigny"
+    ],
+    "tema_principal": "aves",
+    "tipo": "guía",
+    "etiquetas": [
+      "Guías"
+    ],
+    "coleccion": null,
+    "fuente": "local",
+    "acceso": "visor_drive",
+    "alcance_geografico": "ARG",
+    "extension": ".pdf",
+    "ruta_local": "Aves/Guias/Savigny - [ARG] articulo Aves de la Argentina azul Pelagicas.pdf"
+  },
+  {
+    "id": "00184",
+    "titulo": "Sibley Guide to Birds",
+    "autor": [
+      "Sibley"
+    ],
+    "tema_principal": "aves",
+    "tipo": "guía",
+    "etiquetas": [
+      "Guías"
+    ],
+    "coleccion": null,
+    "fuente": "local",
+    "acceso": "visor_drive",
+    "alcance_geografico": null,
+    "extension": ".pdf",
+    "ruta_local": "Aves/Guias/Sibley - Guide to Birds.pdf"
+  }
+]
