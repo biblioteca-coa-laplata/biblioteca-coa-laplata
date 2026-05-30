@@ -13,7 +13,8 @@
     "acceso": "visor_drive",
     "alcance_geografico": "ARG",
     "extension": ".pdf",
-    "ruta_local": "Aves/Parques Nacionales - [ARG] El Palmar - Veo Veo.pdf"
+    "ruta_local": "Aves/Parques Nacionales - [ARG] El Palmar - Veo Veo.pdf",
+    "url_drive": "https://drive.google.com/file/d/1Ra5Zuh5MdKnydA2OUOUjsMKNAKbPxHkK/view?usp=sharing"
   },
   {
     "id": "00002",
@@ -29,7 +30,8 @@
     "acceso": "visor_drive",
     "alcance_geografico": "ARG",
     "extension": ".pdf",
-    "ruta_local": "Aves/Parques Nacionales - [ARG] ficha Cóndor Andino Generalidades.pdf"
+    "ruta_local": "Aves/Parques Nacionales - [ARG] ficha Cóndor Andino Generalidades.pdf",
+    "url_drive": "https://drive.google.com/file/d/1pprP9v7uWkNeF7dkue7xjATFbpGlXhy7/view?usp=sharing"
   },
   {
     "id": "00003",
@@ -45,7 +47,8 @@
     "acceso": "visor_drive",
     "alcance_geografico": "ARG",
     "extension": ".pdf",
-    "ruta_local": "Aves/Parques Nacionales - [ARG] Iguazú Veo Veo.pdf"
+    "ruta_local": "Aves/Parques Nacionales - [ARG] Iguazú Veo Veo.pdf",
+    "url_drive": "https://drive.google.com/file/d/1X6gopa7ZoBJ7CsMRlcvuIa1PRKVlXJZC/view?usp=sharing"
   },
   {
     "id": "00004",
@@ -61,7 +64,8 @@
     "acceso": "visor_drive",
     "alcance_geografico": "SAM",
     "extension": ".pdf",
-    "ruta_local": "Aves/Rare - [SAM] Cartilla Playero Rojizo .pdf"
+    "ruta_local": "Aves/Rare - [SAM] Cartilla Playero Rojizo .pdf",
+    "url_drive": "https://drive.google.com/file/d/137hMe--DrpyFwKOGMNT7_Zuwif7JOXMw/view?usp=sharing"
   },
   {
     "id": "00005",
@@ -77,7 +81,8 @@
     "acceso": "visor_drive",
     "alcance_geografico": "SAM",
     "extension": ".pdf",
-    "ruta_local": "Aves/Red Aves internacionales -[SAM] Aves migratorias sudamerica.pdf"
+    "ruta_local": "Aves/Red Aves internacionales -[SAM] Aves migratorias sudamerica.pdf",
+    "url_drive": "https://drive.google.com/file/d/1TDTf1gx9t_drZGSEkhm-tn10nF8e1-s0/view?usp=sharing"
   },
   {
     "id": "00006",
@@ -93,7 +98,8 @@
     "acceso": "visor_drive",
     "alcance_geografico": "SAM",
     "extension": ".pdf",
-    "ruta_local": "Aves/Reserva Likandes - [SAM] Guía del condor y otras aves nativas.pdf"
+    "ruta_local": "Aves/Reserva Likandes - [SAM] Guía del condor y otras aves nativas.pdf",
+    "url_drive": "https://drive.google.com/file/d/1FAnDMh02euWhtm_A-MEvMI6TQ0stua0t/view?usp=sharing"
   },
   {
     "id": "00007",
@@ -110,7 +116,8 @@
     "acceso": "visor_drive",
     "alcance_geografico": "SAM",
     "extension": ".pdf",
-    "ruta_local": "Aves/Roccay; Aldabe - [SAM]Libro  Manual Aves Playeras Laguna de Rocha.pdf"
+    "ruta_local": "Aves/Roccay; Aldabe - [SAM]Libro  Manual Aves Playeras Laguna de Rocha.pdf",
+    "url_drive": "https://drive.google.com/file/d/1YRyxfp9i_IUOa1b-4nGNoiKPiCahwhnJ/view?usp=sharing"
   },
   {
     "id": "00008",
@@ -131,7 +138,8 @@
     "acceso": "visor_drive",
     "alcance_geografico": "LOC",
     "extension": ".pdf",
-    "ruta_local": "Aves/Scheffer; Cremaschi;  Montalti; Grilli - [LOC] loros exoticos pereyra iraola.pdf"
+    "ruta_local": "Aves/Scheffer; Cremaschi;  Montalti; Grilli - [LOC] loros exoticos pereyra iraola.pdf",
+    "url_drive": "https://drive.google.com/file/d/1jUfve7QioFW57UdMr59ZEmsyjScopMho/view?usp=sharing"
   },
   {
     "id": "00009",
@@ -167,7 +175,8 @@
     "acceso": "visor_drive",
     "alcance_geografico": "ARG",
     "extension": ".pdf",
-    "ruta_local": "Aves/De La Peña - [ARG] Nidos y Reproducción .pdf"
+    "ruta_local": "Aves/De La Peña - [ARG] Nidos y Reproducción .pdf",
+    "url_drive": "https://drive.google.com/file/d/1cHzIwp47MEJGvtcWLrtZ3wDZq3f2YDSR/view?usp=sharing"
   },
   {
     "id": "00011",
@@ -183,7 +192,8 @@
     "acceso": "visor_drive",
     "alcance_geografico": "ARG",
     "extension": ".pdf",
-    "ruta_local": "Aves/De La Peña - [ARG] Nidos, huevos y pichones Tomo 1.pdf"
+    "ruta_local": "Aves/De La Peña - [ARG] Nidos, huevos y pichones Tomo 1.pdf",
+    "url_drive": "https://drive.google.com/file/d/19eATwEK0N-wHBxNMr7La4ggqrq4NvXD_/view?usp=sharing"
   },
   {
     "id": "00012",
@@ -199,7 +209,8 @@
     "acceso": "visor_drive",
     "alcance_geografico": "ARG",
     "extension": ".pdf",
-    "ruta_local": "Aves/De La Peña - [ARG] Nidos, huevos y pichones Tomo 2.pdf"
+    "ruta_local": "Aves/De La Peña - [ARG] Nidos, huevos y pichones Tomo 2.pdf",
+    "url_drive": "https://drive.google.com/file/d/13m9IY1HhW5W91CTbJqTUKj4Zz-XZu3GF/view?usp=sharing"
   },
   {
     "id": "00013",
@@ -215,7 +226,8 @@
     "acceso": "visor_drive",
     "alcance_geografico": "LOC",
     "extension": ".pdf",
-    "ruta_local": "Aves/Fauna Querida - [LOC]Seres queridxs de Buenos Aires.pdf"
+    "ruta_local": "Aves/Fauna Querida - [LOC]Seres queridxs de Buenos Aires.pdf",
+    "url_drive": "https://drive.google.com/file/d/1fxB3AhVCUQawD3rTDKidDaRiAUKtbPQI/view?usp=sharing"
   },
   {
     "id": "00014",
@@ -231,7 +243,8 @@
     "acceso": "visor_drive",
     "alcance_geografico": "ARG",
     "extension": ".pdf",
-    "ruta_local": "Aves/Fundacion Patagonia Natural - [ARG] Aves terrestres y de agua dulce.pdf"
+    "ruta_local": "Aves/Fundacion Patagonia Natural - [ARG] Aves terrestres y de agua dulce.pdf",
+    "url_drive": "https://drive.google.com/file/d/1pKMm6JDUgOU-4V_mj12NDJfiT-k3rWDY/view?usp=sharing"
   },
   {
     "id": "00015",
@@ -248,7 +261,8 @@
     "acceso": "visor_drive",
     "alcance_geografico": "ARG",
     "extension": ".pdf",
-    "ruta_local": "Aves/Lopez Lanus; Marino - [ARG] Articulo en   Aves Argentinas 9⁄12 Aves de pastizal.pdf"
+    "ruta_local": "Aves/Lopez Lanus; Marino - [ARG] Articulo en   Aves Argentinas 9⁄12 Aves de pastizal.pdf",
+    "url_drive": "https://drive.google.com/file/d/1lU2NdIh0zInU0B6rhxKWbg9oblMmj7te/view?usp=sharing"
   },
   {
     "id": "00016",
@@ -266,7 +280,8 @@
     "acceso": "visor_drive",
     "alcance_geografico": "LOC",
     "extension": ".pdf",
-    "ruta_local": "Aves/Amigos de la reserva Costanera Sur - [LOC] Material Didáctico Observadores de Naturaleza - RECS.pdf"
+    "ruta_local": "Aves/Amigos de la reserva Costanera Sur - [LOC] Material Didáctico Observadores de Naturaleza - RECS.pdf",
+    "url_drive": "https://drive.google.com/file/d/1jOZYOzRGC2tp97J-Y_29pHPAaArREwpA/view?usp=sharing"
   },
   {
     "id": "00017",
@@ -282,7 +297,8 @@
     "acceso": "visor_drive",
     "alcance_geografico": "MUN",
     "extension": ".pdf",
-    "ruta_local": "Aves/Ares - [MUN] Libro Aves vida y conducta.pdf"
+    "ruta_local": "Aves/Ares - [MUN] Libro Aves vida y conducta.pdf",
+    "url_drive": "https://drive.google.com/file/d/1M_ph34CR00OB_ylMaY7mZ5J4yiu9bXMg/view?usp=sharing"
   },
   {
     "id": "00018",
@@ -300,7 +316,8 @@
     "acceso": "visor_drive",
     "alcance_geografico": null,
     "extension": ".pdf",
-    "ruta_local": "Aves/Aves Argentinas - Material Didactico Observación Aves Silvestres.pdf"
+    "ruta_local": "Aves/Aves Argentinas - Material Didactico Observación Aves Silvestres.pdf",
+    "url_drive": "https://drive.google.com/file/d/18zl42XCwMY_ryKB_D6Xqkihoir5KjSNA/view?usp=sharing"
   },
   {
     "id": "00019",
@@ -316,7 +333,8 @@
     "acceso": "visor_drive",
     "alcance_geografico": "ARG",
     "extension": ".pdf",
-    "ruta_local": "Aves/Aves Argentinas - [ARG] Cartilla Volver a volar Guía primeros auxilios aves.PDF"
+    "ruta_local": "Aves/Aves Argentinas - [ARG] Cartilla Volver a volar Guía primeros auxilios aves.PDF",
+    "url_drive": "https://drive.google.com/file/d/17gc67PdQd8-43sxX7ZoJ9Em7JWpIrsyP/view?usp=sharing"
   },
   {
     "id": "00020",
@@ -332,7 +350,8 @@
     "acceso": "visor_drive",
     "alcance_geografico": "ARG",
     "extension": ".pdf",
-    "ruta_local": "Aves/Beccaceci - [ARG] Guia de Campo de el Litoral Argentino.pdf"
+    "ruta_local": "Aves/Beccaceci - [ARG] Guia de Campo de el Litoral Argentino.pdf",
+    "url_drive": "https://drive.google.com/file/d/1V57Mo9g6G9lRnMZDhUvmJ4i1Vc65WoCh/view?usp=sharing"
   },
   {
     "id": "00021",
@@ -349,7 +368,8 @@
     "acceso": "visor_drive",
     "alcance_geografico": null,
     "extension": ".pdf",
-    "ruta_local": "Aves/Bertonatti; Aprile - Manual Rehabilitación de Fauna.pdf"
+    "ruta_local": "Aves/Bertonatti; Aprile - Manual Rehabilitación de Fauna.pdf",
+    "url_drive": "https://drive.google.com/file/d/1EBs4MlgE6reJfpPeBTeb2QLl67mEP07B/view?usp=sharing"
   },
   {
     "id": "00022",
@@ -366,7 +386,8 @@
     "acceso": "visor_drive",
     "alcance_geografico": "ARG",
     "extension": ".pdf",
-    "ruta_local": "Aves/Bosisio; Seipke -  [ARG] Curso Aves Rapaces de Aves Argentinas.pdf"
+    "ruta_local": "Aves/Bosisio; Seipke -  [ARG] Curso Aves Rapaces de Aves Argentinas.pdf",
+    "url_drive": "https://drive.google.com/file/d/1jjDGsjHt36P4TyvYd7SDCmpFA8nI5YLh/view?usp=sharing"
   },
   {
     "id": "00023",
@@ -382,7 +403,8 @@
     "acceso": "visor_drive",
     "alcance_geografico": "SAM",
     "extension": ".pdf",
-    "ruta_local": "Aves/Calisaya - [SAM] Flamencos y Parinas.pdf"
+    "ruta_local": "Aves/Calisaya - [SAM] Flamencos y Parinas.pdf",
+    "url_drive": "https://drive.google.com/file/d/1v4lj7G3qbvPYbTqr0ZdZCjJuu33PRi_l/view?usp=sharing"
   },
   {
     "id": "00024",
@@ -398,7 +420,8 @@
     "acceso": "visor_drive",
     "alcance_geografico": "BSAS",
     "extension": ".pdf",
-    "ruta_local": "Aves/Ministerio de Ambiente PBA - [BSAS] Cartilla Aves Costeras.pdf"
+    "ruta_local": "Aves/Ministerio de Ambiente PBA - [BSAS] Cartilla Aves Costeras.pdf",
+    "url_drive": "https://drive.google.com/file/d/1O_BSAIIC6i5pALqPyZLCrp40yRU6DwFb/view?usp=sharing"
   },
   {
     "id": "00025",
@@ -414,7 +437,8 @@
     "acceso": "visor_drive",
     "alcance_geografico": "BSAS",
     "extension": ".pdf",
-    "ruta_local": "Aves/Ministerio de la Produccion - [BSAS] Guía modelo de identificación de aves.pdf"
+    "ruta_local": "Aves/Ministerio de la Produccion - [BSAS] Guía modelo de identificación de aves.pdf",
+    "url_drive": "https://drive.google.com/file/d/1Lyg_SYLAR97H-Ek1B8LvEkCtFzIvgou5/view?usp=sharing"
   },
   {
     "id": "00026",
@@ -431,7 +455,8 @@
     "acceso": "visor_drive",
     "alcance_geografico": "ARG",
     "extension": ".pdf",
-    "ruta_local": "Aves/Monteleone; Pagano -  [ARG] LISTADO DE LAS AVES ARGENTINAS.pdf"
+    "ruta_local": "Aves/Monteleone; Pagano -  [ARG] LISTADO DE LAS AVES ARGENTINAS.pdf",
+    "url_drive": "https://drive.google.com/file/d/1TArak0oel_c9iqkGFj8X7L_hTWal0C4i/view?usp=sharing"
   },
   {
     "id": "00027",
@@ -447,7 +472,8 @@
     "acceso": "visor_drive",
     "alcance_geografico": "ARG",
     "extension": ".pdf",
-    "ruta_local": "Aves/Mouchard - [ARG] Etimología de los nombres científicos de las aves de Argentina.pdf"
+    "ruta_local": "Aves/Mouchard - [ARG] Etimología de los nombres científicos de las aves de Argentina.pdf",
+    "url_drive": "https://drive.google.com/file/d/1dW1yo7EgGea4wz5LFYhV3Y0eJvI4_FUK/view?usp=sharing"
   },
   {
     "id": "00028",
@@ -465,7 +491,8 @@
     "acceso": "descarga",
     "alcance_geografico": null,
     "extension": ".pdf",
-    "ruta_local": "Aves/Narosky - Material Didactico Manual del Observador de Aves.pdf"
+    "ruta_local": "Aves/Narosky - Material Didactico Manual del Observador de Aves.pdf",
+    "url_drive": "https://drive.google.com/file/d/1QY4WE0t10NMPNUnSBH2-b2fGIn8N2tuW/view?usp=sharing"
   },
   {
     "id": "00029",
@@ -481,7 +508,8 @@
     "acceso": "visor_drive",
     "alcance_geografico": "ARG",
     "extension": ".pdf",
-    "ruta_local": "Aves/Coconier - [ARG] Inventario de Las Aves Silvestres de Acambuco Salta.pdf"
+    "ruta_local": "Aves/Coconier - [ARG] Inventario de Las Aves Silvestres de Acambuco Salta.pdf",
+    "url_drive": "https://drive.google.com/file/d/1sznrX3lqJBmgfRlszWeBPHkqa9Gwc-r1/view?usp=sharing"
   },
   {
     "id": "00030",
@@ -498,7 +526,8 @@
     "acceso": "visor_drive",
     "alcance_geografico": "ARG",
     "extension": ".pdf",
-    "ruta_local": "Aves/Maureira; Lezcano - [ARG] Cartilla Aves del humedal Chos Malal.pdf"
+    "ruta_local": "Aves/Maureira; Lezcano - [ARG] Cartilla Aves del humedal Chos Malal.pdf",
+    "url_drive": "https://drive.google.com/file/d/1PadOXvE8yPQfPcuwwoK6m8DtiQVWbnKd/view?usp=sharing"
   },
   {
     "id": "00031",
@@ -514,7 +543,8 @@
     "acceso": "visor_drive",
     "alcance_geografico": "MUN",
     "extension": ".pdf",
-    "ruta_local": "Aves/Olmo Linares - [MUN] Manual Observacion Aves para Principiantes.pdf"
+    "ruta_local": "Aves/Olmo Linares - [MUN] Manual Observacion Aves para Principiantes.pdf",
+    "url_drive": "https://drive.google.com/file/d/1jjr5t_pOuIytyXT3iSq129_qgOf9ZUxY/view?usp=sharing"
   },
   {
     "id": "00032",
@@ -532,7 +562,8 @@
     "acceso": "visor_drive",
     "alcance_geografico": null,
     "extension": ".pdf",
-    "ruta_local": "Educación Ambiental - Material didáctico/ Canevari - [LOC) Didactico Veo Veo en Buenos Aires la Naturaleza cerca.pdf"
+    "ruta_local": "Educación Ambiental - Material didáctico/ Canevari - [LOC) Didactico Veo Veo en Buenos Aires la Naturaleza cerca.pdf",
+    "url_drive": "https://drive.google.com/file/d/1H01cAp6n1PdRkVuwbPCFFHB2IzIRHi0l/view?usp=sharing"
   },
   {
     "id": "00033",
@@ -550,7 +581,8 @@
     "acceso": "visor_drive",
     "alcance_geografico": "ARG",
     "extension": ".pdf",
-    "ruta_local": "Educación Ambiental - Material didáctico/ Ministerio de justicia - [ARG] Material didactico Ley Educacion Ambiental integral (lectura-facil).pdf"
+    "ruta_local": "Educación Ambiental - Material didáctico/ Ministerio de justicia - [ARG] Material didactico Ley Educacion Ambiental integral (lectura-facil).pdf",
+    "url_drive": "https://drive.google.com/file/d/150rYCilHUPlosxV9vI5vg1kt5w5WLz77/view?usp=sharing"
   },
   {
     "id": "00034",
@@ -566,7 +598,8 @@
     "acceso": "visor_drive",
     "alcance_geografico": null,
     "extension": ".pdf",
-    "ruta_local": "Educación Ambiental - Material didáctico/A4-REGLITAS-COA-CIENTIFICO-FINAL.pdf"
+    "ruta_local": "Educación Ambiental - Material didáctico/A4-REGLITAS-COA-CIENTIFICO-FINAL.pdf",
+    "url_drive": "https://drive.google.com/file/d/1bxuKN1Vyq0-vrHMswdFYL8L-H4u9EBow/view?usp=sharing"
   },
   {
     "id": "00035",
@@ -584,7 +617,8 @@
     "acceso": "visor_drive",
     "alcance_geografico": "LOC",
     "extension": ".pdf",
-    "ruta_local": "Educación Ambiental - Material didáctico/ACUMAR - [LOC]Didactico La garza carlota acumar.pdf"
+    "ruta_local": "Educación Ambiental - Material didáctico/ACUMAR - [LOC]Didactico La garza carlota acumar.pdf",
+    "url_drive": "https://drive.google.com/file/d/1Z7BFGDpGzeFklSWUuYOAoCsfYlJes0MY/view?usp=sharing"
   },
   {
     "id": "00036",
@@ -603,7 +637,8 @@
     "acceso": "visor_drive",
     "alcance_geografico": "ARG",
     "extension": ".pdf",
-    "ruta_local": "Educación Ambiental - Material didáctico/Bertonatti; Nardini - [ARG] Manual de  observacion de aves para chicos.pdf"
+    "ruta_local": "Educación Ambiental - Material didáctico/Bertonatti; Nardini - [ARG] Manual de  observacion de aves para chicos.pdf",
+    "url_drive": "https://drive.google.com/file/d/1wAEMU6AX5btKYRUmSfCWV5Yo0xuRmO_j/view?usp=sharing"
   },
   {
     "id": "00037",
@@ -621,7 +656,8 @@
     "acceso": "visor_drive",
     "alcance_geografico": null,
     "extension": ".pdf",
-    "ruta_local": "Educación Ambiental - Material didáctico/Buenos Aires Ciudad - Didactico Cubos A4.pdf"
+    "ruta_local": "Educación Ambiental - Material didáctico/Buenos Aires Ciudad - Didactico Cubos A4.pdf",
+    "url_drive": "https://drive.google.com/file/d/1PZOxBSQMiw9QCop1XEfS7X-iG7MFrLw1/view?usp=sharing"
   },
   {
     "id": "00038",
@@ -637,7 +673,8 @@
     "acceso": "visor_drive",
     "alcance_geografico": "LOC",
     "extension": ".pdf",
-    "ruta_local": "Educación Ambiental - Material didáctico/Cartilla - [LOC] Didactico  Infantil  RECS.pdf"
+    "ruta_local": "Educación Ambiental - Material didáctico/Cartilla - [LOC] Didactico  Infantil  RECS.pdf",
+    "url_drive": "https://drive.google.com/file/d/1hOmjw2_kOpYGHKjd5NEB94dzoviugRqQ/view?usp=sharing"
   },
   {
     "id": "00039",
@@ -655,7 +692,8 @@
     "acceso": "visor_drive",
     "alcance_geografico": "ARG",
     "extension": ".pdf",
-    "ruta_local": "Educación Ambiental - Material didáctico/COANA - [ARG] Material didáctico Cuaderno de Campo.pdf"
+    "ruta_local": "Educación Ambiental - Material didáctico/COANA - [ARG] Material didáctico Cuaderno de Campo.pdf",
+    "url_drive": "https://drive.google.com/file/d/1mtwAT9vUyWG2DGC8DRXL9nSG8CeRWWYp/view?usp=sharing"
   },
   {
     "id": "00040",
@@ -673,7 +711,8 @@
     "acceso": "visor_drive",
     "alcance_geografico": "ARG",
     "extension": ".pdf",
-    "ruta_local": "Educación Ambiental - Material didáctico/COANA - [ARG] Material didáctico Libro de actividades.pdf"
+    "ruta_local": "Educación Ambiental - Material didáctico/COANA - [ARG] Material didáctico Libro de actividades.pdf",
+    "url_drive": "https://drive.google.com/file/d/1S1tUCvVygUlF5ifK_Jq1AOde8kl_gpe6/view?usp=sharing"
   },
   {
     "id": "00041",
@@ -689,7 +728,8 @@
     "acceso": "visor_drive",
     "alcance_geografico": null,
     "extension": ".pdf",
-    "ruta_local": "Educación Ambiental - Material didáctico/Didactico - Ciclo vital hormigas.pdf"
+    "ruta_local": "Educación Ambiental - Material didáctico/Didactico - Ciclo vital hormigas.pdf",
+    "url_drive": "https://drive.google.com/file/d/1edCrJrXp0eVVrSmkeiLazt7MlGCAb4EN/view?usp=sharing"
   },
   {
     "id": "00042",
@@ -706,7 +746,8 @@
     "acceso": "visor_drive",
     "alcance_geografico": null,
     "extension": ".pdf",
-    "ruta_local": "Educación Ambiental - Material didáctico/Didactico - Ciclo vital mariposa.pdf"
+    "ruta_local": "Educación Ambiental - Material didáctico/Didactico - Ciclo vital mariposa.pdf",
+    "url_drive": "https://drive.google.com/file/d/1osBfYPAEoNw0dDkIqiv_g6zEacurseCG/view?usp=sharing"
   },
   {
     "id": "00043",
@@ -722,7 +763,8 @@
     "acceso": "visor_drive",
     "alcance_geografico": null,
     "extension": ".pdf",
-    "ruta_local": "Educación Ambiental - Material didáctico/Didactico - Ciclo vital mariquita .pdf"
+    "ruta_local": "Educación Ambiental - Material didáctico/Didactico - Ciclo vital mariquita .pdf",
+    "url_drive": "https://drive.google.com/file/d/1DpmtBXhQZOpwqxyPvD5KupjFMCWdMR07/view?usp=sharing"
   },
   {
     "id": "00044",
@@ -740,7 +782,8 @@
     "acceso": "visor_drive",
     "alcance_geografico": "MUN",
     "extension": ".pdf",
-    "ruta_local": "Educación Ambiental - Material didáctico/Hart - [MUN] Didactico Manual la senda de la naturaleza pajaros.pdf"
+    "ruta_local": "Educación Ambiental - Material didáctico/Hart - [MUN] Didactico Manual la senda de la naturaleza pajaros.pdf",
+    "url_drive": "https://drive.google.com/file/d/1mjEf3Bfqcmn_WhlpkVneYHGok5dcbWff/view?usp=sharing"
   },
   {
     "id": "00045",
@@ -758,7 +801,8 @@
     "acceso": "visor_drive",
     "alcance_geografico": "BSAS",
     "extension": ".pdf",
-    "ruta_local": "Educación Ambiental - Material didáctico/Ministerio de Ambiente PBA - [BSAS] Didactico jugando flora y fauna.pdf"
+    "ruta_local": "Educación Ambiental - Material didáctico/Ministerio de Ambiente PBA - [BSAS] Didactico jugando flora y fauna.pdf",
+    "url_drive": "https://drive.google.com/file/d/1lSMcCBz9QpZKmvpt8hCSVfbmJ4ZEAEE_/view?usp=sharing"
   },
   {
     "id": "00046",
@@ -776,7 +820,8 @@
     "acceso": "visor_drive",
     "alcance_geografico": "LOC",
     "extension": ".pdf",
-    "ruta_local": "Educación Ambiental - Material didáctico/Mun Almirante Brown - [LOC] Didactico Biodiversidad  Brown Verde en el Aula.pdf"
+    "ruta_local": "Educación Ambiental - Material didáctico/Mun Almirante Brown - [LOC] Didactico Biodiversidad  Brown Verde en el Aula.pdf",
+    "url_drive": "https://drive.google.com/file/d/1ILvzwWciN3TUXt1hT-mqNy5l0ZrWBebR/view?usp=sharing"
   },
   {
     "id": "00047",
@@ -794,7 +839,8 @@
     "acceso": "visor_drive",
     "alcance_geografico": "LOC",
     "extension": ".pdf",
-    "ruta_local": "Educación Ambiental - Material didáctico/Municipio Itazaingo -  [LOC] Didactico Memotest flora y fauna de Ituzaingó.pdf"
+    "ruta_local": "Educación Ambiental - Material didáctico/Municipio Itazaingo -  [LOC] Didactico Memotest flora y fauna de Ituzaingó.pdf",
+    "url_drive": "https://drive.google.com/file/d/1o8SrcMl9wYdT8kgCV8EehlvG181K08qa/view?usp=sharing"
   },
   {
     "id": "00048",
@@ -812,7 +858,8 @@
     "acceso": "visor_drive",
     "alcance_geografico": "ARG",
     "extension": ".pdf",
-    "ruta_local": "Educación Ambiental - Material didáctico/Parques Nacionales - [ARG] Didactico Pintar Pato de los Torrentes.pdf"
+    "ruta_local": "Educación Ambiental - Material didáctico/Parques Nacionales - [ARG] Didactico Pintar Pato de los Torrentes.pdf",
+    "url_drive": "https://drive.google.com/file/d/1ZP0EDZEI3JPzSKRRxPHFtrINZejpUn6W/view?usp=sharing"
   },
   {
     "id": "00049",
@@ -830,7 +877,8 @@
     "acceso": "visor_drive",
     "alcance_geografico": null,
     "extension": ".pdf",
-    "ruta_local": "Educación Ambiental - Material didáctico/Rebeca -  aprendiendode3    Material didactico estudio de Serpientes.pdf"
+    "ruta_local": "Educación Ambiental - Material didáctico/Rebeca -  aprendiendode3    Material didactico estudio de Serpientes.pdf",
+    "url_drive": "https://drive.google.com/file/d/1Nb7IoP1K9aoz8ozhD3IkhC0AZAdlCv48/view?usp=sharing"
   },
   {
     "id": "00050",
@@ -848,7 +896,8 @@
     "acceso": "visor_drive",
     "alcance_geografico": null,
     "extension": ".pdf",
-    "ruta_local": "Educación Ambiental - Material didáctico/Rebeca -  aprendiendode3  Material didactico Estudio de Hormigas  .pdf"
+    "ruta_local": "Educación Ambiental - Material didáctico/Rebeca -  aprendiendode3  Material didactico Estudio de Hormigas  .pdf",
+    "url_drive": "https://drive.google.com/file/d/10E53nZCdAQFcfdP-744yuu1DqgvAYxLc/view?usp=sharing"
   },
   {
     "id": "00051",
@@ -868,7 +917,8 @@
     "acceso": "visor_drive",
     "alcance_geografico": null,
     "extension": ".pdf",
-    "ruta_local": "Educación Ambiental - Material didáctico/Rebeca -  aprendiendode3 Material didactico  Estudio de Mariposas .pdf"
+    "ruta_local": "Educación Ambiental - Material didáctico/Rebeca -  aprendiendode3 Material didactico  Estudio de Mariposas .pdf",
+    "url_drive": "https://drive.google.com/file/d/1hcuaY0rfq6SYuultgYlPrtmMM6SPtZvW/view?usp=sharing"
   },
   {
     "id": "00052",
@@ -886,7 +936,8 @@
     "acceso": "visor_drive",
     "alcance_geografico": null,
     "extension": ".pdf",
-    "ruta_local": "Educación Ambiental - Material didáctico/Rebeca - aprendiendode3- Material didactico Estudio de Abejas .pdf"
+    "ruta_local": "Educación Ambiental - Material didáctico/Rebeca - aprendiendode3- Material didactico Estudio de Abejas .pdf",
+    "url_drive": "https://drive.google.com/file/d/1H0uQTyCZa1WIDoF7Whyaue11-FKpLXMX/view?usp=sharing"
   },
   {
     "id": "00053",
@@ -902,7 +953,8 @@
     "acceso": "visor_drive",
     "alcance_geografico": "LOC",
     "extension": ".pdf",
-    "ruta_local": "Educación Ambiental - Material didáctico/RECS -[LOC] Material Didactico GuiaInfantil.pdf"
+    "ruta_local": "Educación Ambiental - Material didáctico/RECS -[LOC] Material Didactico GuiaInfantil.pdf",
+    "url_drive": "https://drive.google.com/file/d/1UtsIFlONi7jfGchH9co7f8WqmwCdO7Ck/view?usp=sharing"
   },
   {
     "id": "00054",
@@ -920,7 +972,8 @@
     "acceso": "visor_drive",
     "alcance_geografico": "MUN",
     "extension": ".pdf",
-    "ruta_local": "Educación Ambiental - Material didáctico/Serrano - [MUN] Libro Bichos La vida secreta de los animales.pdf"
+    "ruta_local": "Educación Ambiental - Material didáctico/Serrano - [MUN] Libro Bichos La vida secreta de los animales.pdf",
+    "url_drive": "https://drive.google.com/file/d/1Lwr98fXDd4T2ebiXnrgCK40etu3oHvvs/view?usp=sharing"
   },
   {
     "id": "00055",
@@ -938,7 +991,8 @@
     "acceso": "visor_drive",
     "alcance_geografico": "MUN",
     "extension": ".pdf",
-    "ruta_local": "Educación Ambiental - Material didáctico/Swallow - [MUN] Didactico la senda-de la naturaleza lagos y arroyos.pdf"
+    "ruta_local": "Educación Ambiental - Material didáctico/Swallow - [MUN] Didactico la senda-de la naturaleza lagos y arroyos.pdf",
+    "url_drive": "https://drive.google.com/file/d/1F_qTy9_FIauWB7TexXHxfeghSaR4r5ek/view?usp=sharing"
   },
   {
     "id": "00056",
@@ -954,7 +1008,8 @@
     "acceso": "visor_drive",
     "alcance_geografico": "MUN",
     "extension": ".pdf",
-    "ruta_local": "Entomología/Botsford Comstock - [MUN] entomologia Manual de Estudios de La Naturaleza Insecto insectos.pdf"
+    "ruta_local": "Entomología/Botsford Comstock - [MUN] entomologia Manual de Estudios de La Naturaleza Insecto insectos.pdf",
+    "url_drive": "https://drive.google.com/file/d/1JakqDeUBcHoNqzNvXrYO9JYTEBYjTN3N/view?usp=sharing"
   },
   {
     "id": "00057",
@@ -970,7 +1025,8 @@
     "acceso": "visor_drive",
     "alcance_geografico": "MUN",
     "extension": ".pdf",
-    "ruta_local": "Entomología/Buckley - [MUN] Entomologia Articulo Vida de los Insectos.pdf"
+    "ruta_local": "Entomología/Buckley - [MUN] Entomologia Articulo Vida de los Insectos.pdf",
+    "url_drive": "https://drive.google.com/file/d/1POqXMQDkFEUD9SIX3yE2ltcpqALe6NJD/view?usp=sharing"
   },
   {
     "id": "00058",
@@ -986,7 +1042,8 @@
     "acceso": "visor_drive",
     "alcance_geografico": "MUN",
     "extension": ".pdf",
-    "ruta_local": "Entomología/FMCN - [MUN] Entomologia Guia escarabajos peloteros.pdf"
+    "ruta_local": "Entomología/FMCN - [MUN] Entomologia Guia escarabajos peloteros.pdf",
+    "url_drive": "https://drive.google.com/file/d/1iqRCRtvVxGDeBkeGSGt8xzrhSgqdk8SX/view?usp=sharing"
   },
   {
     "id": "00059",
@@ -1002,7 +1059,8 @@
     "acceso": "visor_drive",
     "alcance_geografico": "BSAS",
     "extension": ".pdf",
-    "ruta_local": "Entomología/Lopez Pacheco  -  [BSAS] entomologia  escarabajos Crisomélidos y Coccinélidos  Aires.pdf"
+    "ruta_local": "Entomología/Lopez Pacheco  -  [BSAS] entomologia  escarabajos Crisomélidos y Coccinélidos  Aires.pdf",
+    "url_drive": "https://drive.google.com/file/d/1WKtn_dMH-rVeoo3EIPCMsyYZPyB8X-1x/view?usp=sharing"
   },
   {
     "id": "00060",
@@ -1016,7 +1074,8 @@
     "acceso": "visor_drive",
     "alcance_geografico": "ARG",
     "extension": ".pdf",
-    "ruta_local": "Entomología/Lopez Pacheco -[ARG] entomologia Guía Insectos.pdf"
+    "ruta_local": "Entomología/Lopez Pacheco -[ARG] entomologia Guía Insectos.pdf",
+    "url_drive": "https://drive.google.com/file/d/1DdoDuSnupuNo6jLgGG5TJx9OQUqdAO0R/view?usp=sharing"
   },
   {
     "id": "00061",
@@ -1032,7 +1091,8 @@
     "acceso": "visor_drive",
     "alcance_geografico": "ARG",
     "extension": ".pdf",
-    "ruta_local": "Entomología/Minist. Ciencia Tecologia - [ARG] lamina artropodos-argentina.pdf"
+    "ruta_local": "Entomología/Minist. Ciencia Tecologia - [ARG] lamina artropodos-argentina.pdf",
+    "url_drive": "https://drive.google.com/file/d/1UB9PbWccL3CL6WBl64ZzykJ-LEtd6PyH/view?usp=sharing"
   },
   {
     "id": "00062",
@@ -1046,7 +1106,8 @@
     "acceso": "visor_drive",
     "alcance_geografico": "ARG",
     "extension": ".pdf",
-    "ruta_local": "Entomología/Revista - [ARG] CEAL Fauna Argentina  Las Arañas II.pdf"
+    "ruta_local": "Entomología/Revista - [ARG] CEAL Fauna Argentina  Las Arañas II.pdf",
+    "url_drive": "https://drive.google.com/file/d/1hJR9xXyv1Y6I8dp67NPZ1el2BFq01428/view?usp=sharing"
   },
   {
     "id": "00063",
@@ -1060,7 +1121,8 @@
     "acceso": "visor_drive",
     "alcance_geografico": "ARG",
     "extension": ".pdf",
-    "ruta_local": "Entomología/Revista - [ARG] CEAL Fauna Argentina 82 Las Arañas.pdf"
+    "ruta_local": "Entomología/Revista - [ARG] CEAL Fauna Argentina 82 Las Arañas.pdf",
+    "url_drive": "https://drive.google.com/file/d/1CyE76f0bwDU8q_-o6_UwjdgBFHcArsZL/view?usp=sharing"
   },
   {
     "id": "00064",
@@ -1078,7 +1140,8 @@
     "acceso": "visor_drive",
     "alcance_geografico": "LOC",
     "extension": ".pdf",
-    "ruta_local": "Herpetologia/PRADO;  HERNÁN IBÁÑEZ; MERIGGI - [LOC] herpetologia Guía anfibios dique ingeniero roggero.pdf"
+    "ruta_local": "Herpetologia/PRADO;  HERNÁN IBÁÑEZ; MERIGGI - [LOC] herpetologia Guía anfibios dique ingeniero roggero.pdf",
+    "url_drive": "https://drive.google.com/file/d/1MNlaDuDQDp-MV9_EjcdbBkwnonJFBCuQ/view?usp=sharing"
   },
   {
     "id": "00065",
@@ -1095,7 +1158,8 @@
     "acceso": "visor_drive",
     "alcance_geografico": "ARG",
     "extension": ".pdf",
-    "ruta_local": "Hongos/ Garavaglia; Centi Ferrei - [ARG] guia didactico A buscar hongos.pdf"
+    "ruta_local": "Hongos/ Garavaglia; Centi Ferrei - [ARG] guia didactico A buscar hongos.pdf",
+    "url_drive": "https://drive.google.com/file/d/1fwiAXEF7D_3znH39DO2b-T3GZd_8G5pP/view?usp=sharing"
   },
   {
     "id": "00066",
@@ -1117,7 +1181,8 @@
     "acceso": "visor_drive",
     "alcance_geografico": "LOC",
     "extension": ".pdf",
-    "ruta_local": "Hongos/CAZAU; SPINEDI; ARAMBARRI; SUNESSEN; GONZALEZ IBAÑEZ - [LOC] guia de Hongos del Parque Pereyra.pdf"
+    "ruta_local": "Hongos/CAZAU; SPINEDI; ARAMBARRI; SUNESSEN; GONZALEZ IBAÑEZ - [LOC] guia de Hongos del Parque Pereyra.pdf",
+    "url_drive": "https://drive.google.com/file/d/1RYlQfAgDV4l34nGgydBsF5fdks45nnv2/view?usp=sharing"
   },
   {
     "id": "00067",
@@ -1131,7 +1196,8 @@
     "acceso": "visor_drive",
     "alcance_geografico": null,
     "extension": ".pdf",
-    "ruta_local": "Hongos/hongos comestibles latinoamerica.pdf"
+    "ruta_local": "Hongos/hongos comestibles latinoamerica.pdf",
+    "url_drive": "https://drive.google.com/file/d/1taW00QQp2QxbZCqHgMT3oATTsS5A5GEp/view?usp=sharing"
   },
   {
     "id": "00068",
@@ -1147,7 +1213,8 @@
     "acceso": "visor_drive",
     "alcance_geografico": "ARG",
     "extension": ".pdf",
-    "ruta_local": "Hongos/Romano - [ARG] Breve Guia de Nomenclatura de Hongos  HongosAR.pdf"
+    "ruta_local": "Hongos/Romano - [ARG] Breve Guia de Nomenclatura de Hongos  HongosAR.pdf",
+    "url_drive": "https://drive.google.com/file/d/10dAppe2KgTHv144XHthmg2z9gnSomq-n/view?usp=sharing"
   },
   {
     "id": "00069",
@@ -1163,7 +1230,8 @@
     "acceso": "visor_drive",
     "alcance_geografico": "ARG",
     "extension": ".pdf",
-    "ruta_local": "Hongos/Romano - [ARG] Guia de identificacion de hongos con laminillas  HongosAR.pdf"
+    "ruta_local": "Hongos/Romano - [ARG] Guia de identificacion de hongos con laminillas  HongosAR.pdf",
+    "url_drive": "https://drive.google.com/file/d/1pbysVm4D8tMZUoCNHVvpqfBAX6QQDum-/view?usp=sharing"
   },
   {
     "id": "00070",
@@ -1180,7 +1248,8 @@
     "acceso": "descarga",
     "alcance_geografico": "ARG",
     "extension": ".pdf",
-    "ruta_local": "Mamiferos/ Lichter;  Hooper - [ARG] Guía para el reconocimiento de cetáceos del Mar Argentino FVSA.pdf"
+    "ruta_local": "Mamiferos/ Lichter;  Hooper - [ARG] Guía para el reconocimiento de cetáceos del Mar Argentino FVSA.pdf",
+    "url_drive": "https://drive.google.com/file/d/1fwfoZDzqI3NeIMt5mBEeXkov5TvKpgYL/view?usp=sharing"
   },
   {
     "id": "00071",
@@ -1198,7 +1267,8 @@
     "acceso": "visor_drive",
     "alcance_geografico": null,
     "extension": ".pdf",
-    "ruta_local": "Mamiferos/Barquez;  Díaz; Ojeda - libro Mamiferos de Argentina Sistematica y distribucion SAREM.pdf"
+    "ruta_local": "Mamiferos/Barquez;  Díaz; Ojeda - libro Mamiferos de Argentina Sistematica y distribucion SAREM.pdf",
+    "url_drive": "https://drive.google.com/file/d/1H2yrBVfAFR8vxMrULzaIU4iPz5wisHwY/view?usp=sharing"
   },
   {
     "id": "00072",
@@ -1215,7 +1285,8 @@
     "acceso": "visor_drive",
     "alcance_geografico": "LOC",
     "extension": ".pdf",
-    "ruta_local": "Mamiferos/Canevari; Ibañez - [LOC] Guia de huellas delos mamiferos dique Roggero.pdf"
+    "ruta_local": "Mamiferos/Canevari; Ibañez - [LOC] Guia de huellas delos mamiferos dique Roggero.pdf",
+    "url_drive": "https://drive.google.com/file/d/1vTwF15_nHw1a4d9LMg1BePkrcftWysCs/view?usp=sharing"
   },
   {
     "id": "00073",
@@ -1232,7 +1303,8 @@
     "acceso": "visor_drive",
     "alcance_geografico": "SAM",
     "extension": ".pdf",
-    "ruta_local": "Mamiferos/FARIÑA; VIZCAINO - [SAM] libro mamiferos Hace solo diez mil años.pdf"
+    "ruta_local": "Mamiferos/FARIÑA; VIZCAINO - [SAM] libro mamiferos Hace solo diez mil años.pdf",
+    "url_drive": "https://drive.google.com/file/d/1DGIRLtXsZhe-g7RbjEkpce4NGCl86sGd/view?usp=sharing"
   },
   {
     "id": "00074",
@@ -1249,7 +1321,8 @@
     "acceso": "visor_drive",
     "alcance_geografico": "SAM",
     "extension": ".pdf",
-    "ruta_local": "Mamiferos/Forasiepi; Martinelli_ Blanco - [SAM] Libro Bestiario fósil. Mamíferos del pleistoceno de la Argentina.pdf"
+    "ruta_local": "Mamiferos/Forasiepi; Martinelli_ Blanco - [SAM] Libro Bestiario fósil. Mamíferos del pleistoceno de la Argentina.pdf",
+    "url_drive": "https://drive.google.com/file/d/1LSb8F4puPBDozfPgCbvQc-kKQhTEyaxp/view?usp=sharing"
   },
   {
     "id": "00075",
@@ -1267,7 +1340,8 @@
     "acceso": "visor_drive",
     "alcance_geografico": "ARG",
     "extension": ".pdf",
-    "ruta_local": "Mamiferos/Galliarii; Pardiñas;Goin - [ARG] - Lista comentada mamiferos.pdf"
+    "ruta_local": "Mamiferos/Galliarii; Pardiñas;Goin - [ARG] - Lista comentada mamiferos.pdf",
+    "url_drive": "https://drive.google.com/file/d/1mkyJX7CnEKhe04wrWQdDoIK69mBpfJJV/view?usp=sharing"
   },
   {
     "id": "00076",
@@ -1285,7 +1359,8 @@
     "acceso": "visor_drive",
     "alcance_geografico": "ARG",
     "extension": ".pdf",
-    "ruta_local": "Mamiferos/OJEDA; BORGHI; ROIG - [ARG] articulo  MAMIFEROS DE ARGENTINA.pdf"
+    "ruta_local": "Mamiferos/OJEDA; BORGHI; ROIG - [ARG] articulo  MAMIFEROS DE ARGENTINA.pdf",
+    "url_drive": "https://drive.google.com/file/d/1X2bGstZ6dNQlKOb4nnSWbXit8WnPVtDJ/view?usp=sharing"
   },
   {
     "id": "00077",
@@ -1302,7 +1377,8 @@
     "acceso": "visor_drive",
     "alcance_geografico": "ARG",
     "extension": ".pdf",
-    "ruta_local": "Mamiferos/Olrog; Lucero - [ARG] Mamiferos Argentinos Fundacion Miguel Lillo.pdf"
+    "ruta_local": "Mamiferos/Olrog; Lucero - [ARG] Mamiferos Argentinos Fundacion Miguel Lillo.pdf",
+    "url_drive": "https://drive.google.com/file/d/1_N8dvNeDQZv0O8KbO5HZjkWJdCSK-nPR/view?usp=sharing"
   },
   {
     "id": "00078",
@@ -1319,7 +1395,8 @@
     "acceso": "visor_drive",
     "alcance_geografico": "SAM",
     "extension": ".pdf",
-    "ruta_local": "Mamiferos/Prates; Pérez - [SAM] Artículo Los seres humanos y la extinción de la megafauna en Sudamérica durante el Pleistoceno final.pdf"
+    "ruta_local": "Mamiferos/Prates; Pérez - [SAM] Artículo Los seres humanos y la extinción de la megafauna en Sudamérica durante el Pleistoceno final.pdf",
+    "url_drive": "https://drive.google.com/file/d/1KSHNjkVNNRRxjXVenyj9ojOxE30Rb-vA/view?usp=sharing"
   },
   {
     "id": "00079",
@@ -1333,7 +1410,8 @@
     "acceso": "visor_drive",
     "alcance_geografico": "ARG",
     "extension": ".pdf",
-    "ruta_local": "Mamiferos/Revista - [ARG] CEAL Fauna Argentina 002 El Carpincho.pdf"
+    "ruta_local": "Mamiferos/Revista - [ARG] CEAL Fauna Argentina 002 El Carpincho.pdf",
+    "url_drive": "https://drive.google.com/file/d/1LNe2xOsBZfG8wd4JMYYqIZGpbmgSL_Qq/view?usp=sharing"
   },
   {
     "id": "00080",
@@ -1349,7 +1427,8 @@
     "acceso": "visor_drive",
     "alcance_geografico": "BSAS",
     "extension": ".pdf",
-    "ruta_local": "Plantas nativas/Ministerio de Ambiente PBA - [BSAS] Catalogo Nativas.pdf"
+    "ruta_local": "Plantas nativas/Ministerio de Ambiente PBA - [BSAS] Catalogo Nativas.pdf",
+    "url_drive": "https://drive.google.com/file/d/1EvvPoaU3fwxrzrByX0v3VNtsqhv54RFM/view?usp=sharing"
   },
   {
     "id": "00081",
@@ -1365,7 +1444,8 @@
     "acceso": "visor_drive",
     "alcance_geografico": "BSAS",
     "extension": ".pdf",
-    "ruta_local": "Plantas nativas/Ministerio de Ambiente PBA - [BSAS] Guia nativas bonaerenses Diseño y plantacion .pdf"
+    "ruta_local": "Plantas nativas/Ministerio de Ambiente PBA - [BSAS] Guia nativas bonaerenses Diseño y plantacion .pdf",
+    "url_drive": "https://drive.google.com/file/d/1DlVmUSarKi7W_e0zWqcDcTDXVL66MQlj/view?usp=sharing"
   },
   {
     "id": "00082",
@@ -1381,7 +1461,8 @@
     "acceso": "visor_drive",
     "alcance_geografico": "BSAS",
     "extension": ".pdf",
-    "ruta_local": "Plantas nativas/Ministerio de Ambiente PBA - [BSAS] guía completa propagación especies nativas.pdf"
+    "ruta_local": "Plantas nativas/Ministerio de Ambiente PBA - [BSAS] guía completa propagación especies nativas.pdf",
+    "url_drive": "https://drive.google.com/file/d/1rL46TqxULpqbjCBIuZe_72E82abM1Sha/view?usp=sharing"
   },
   {
     "id": "00083",
@@ -1397,7 +1478,8 @@
     "acceso": "visor_drive",
     "alcance_geografico": "BSAS",
     "extension": ".pdf",
-    "ruta_local": "Plantas nativas/Ministerio de Ambiente PBA - [BSAS] lamina Ajicillo o Canario Rojo (Dicliptera Squarrosa).pdf"
+    "ruta_local": "Plantas nativas/Ministerio de Ambiente PBA - [BSAS] lamina Ajicillo o Canario Rojo (Dicliptera Squarrosa).pdf",
+    "url_drive": "https://drive.google.com/file/d/1oGVzb42gFMLmDBu-cIuKwPOrx20NRuGS/view?usp=sharing"
   },
   {
     "id": "00084",
@@ -1413,7 +1495,8 @@
     "acceso": "visor_drive",
     "alcance_geografico": "BSAS",
     "extension": ".pdf",
-    "ruta_local": "Plantas nativas/Ministerio de Ambiente PBA - [BSAS] lamina Ceibo (Erythrina Crista-Galli).pdf"
+    "ruta_local": "Plantas nativas/Ministerio de Ambiente PBA - [BSAS] lamina Ceibo (Erythrina Crista-Galli).pdf",
+    "url_drive": "https://drive.google.com/file/d/1XiU_cvhVnP7PFAlNe154pTU7TXzX_n5J/view?usp=sharing"
   },
   {
     "id": "00085",
@@ -1429,7 +1512,8 @@
     "acceso": "visor_drive",
     "alcance_geografico": "BSAS",
     "extension": ".pdf",
-    "ruta_local": "Plantas nativas/Ministerio de Ambiente PBA - [BSAS] lamina Coronillo (Scutia Buxifolia).pdf"
+    "ruta_local": "Plantas nativas/Ministerio de Ambiente PBA - [BSAS] lamina Coronillo (Scutia Buxifolia).pdf",
+    "url_drive": "https://drive.google.com/file/d/17G6vcPTagI9Wb7cWSEya8Vl3TtAk2ee3/view?usp=sharing"
   },
   {
     "id": "00086",
@@ -1445,7 +1529,8 @@
     "acceso": "visor_drive",
     "alcance_geografico": "BSAS",
     "extension": ".pdf",
-    "ruta_local": "Plantas nativas/Ministerio de Ambiente PBA - [BSAS] lamina Mburucuyá o Pasionaria (Passiflora Caerulea).pdf"
+    "ruta_local": "Plantas nativas/Ministerio de Ambiente PBA - [BSAS] lamina Mburucuyá o Pasionaria (Passiflora Caerulea).pdf",
+    "url_drive": "https://drive.google.com/file/d/1NJoZ5xmEofFxCLGrVUrajNobUp3KdCEy/view?usp=sharing"
   },
   {
     "id": "00087",
@@ -1464,7 +1549,8 @@
     "acceso": "visor_drive",
     "alcance_geografico": "LOC",
     "extension": ".pdf",
-    "ruta_local": "Plantas nativas/Municipalidad San Isidro - [LOC] Manual de Plantas Nativas y Mariposas Armar Jardin amigable.pdf"
+    "ruta_local": "Plantas nativas/Municipalidad San Isidro - [LOC] Manual de Plantas Nativas y Mariposas Armar Jardin amigable.pdf",
+    "url_drive": "https://drive.google.com/file/d/1dwQrkwfVIvdz0X_RIQJNRGpqM2DfhXlA/view?usp=sharing"
   },
   {
     "id": "00088",
@@ -1483,7 +1569,8 @@
     "acceso": "visor_drive",
     "alcance_geografico": "SAM",
     "extension": ".pdf",
-    "ruta_local": "Plantas nativas/Rodriguez; Aceñolaza; Picasso; Gago - [SAM] libro  Plantas del bajo Rio Uruguay.pdf"
+    "ruta_local": "Plantas nativas/Rodriguez; Aceñolaza; Picasso; Gago - [SAM] libro  Plantas del bajo Rio Uruguay.pdf",
+    "url_drive": "https://drive.google.com/file/d/1ZMyP_5OYFmQvg2-rACB1YOZBZzEvvBjP/view?usp=sharing"
   },
   {
     "id": "00089",
@@ -1501,7 +1588,8 @@
     "acceso": "visor_drive",
     "alcance_geografico": "LOC",
     "extension": ".pdf",
-    "ruta_local": "Plantas nativas/Suárez; Sánchez; Pidal - [LOC] guia  hospederas y nectaríferas.pdf"
+    "ruta_local": "Plantas nativas/Suárez; Sánchez; Pidal - [LOC] guia  hospederas y nectaríferas.pdf",
+    "url_drive": "https://drive.google.com/file/d/1BT1z2ewEdal9mnbEj8h2Kj6mR4RAKkBM/view?usp=sharing"
   },
   {
     "id": "00090",
@@ -1517,7 +1605,8 @@
     "acceso": "visor_drive",
     "alcance_geografico": "BSAS",
     "extension": ".pdf",
-    "ruta_local": "Plantas nativas/ACUMAR - [BSAS] Inventario Humedales.pdf"
+    "ruta_local": "Plantas nativas/ACUMAR - [BSAS] Inventario Humedales.pdf",
+    "url_drive": "https://drive.google.com/file/d/1IJJkJkleJtc2jZlNG-mwa_LrCHijJ0O8/view?usp=sharing"
   },
   {
     "id": "00091",
@@ -1533,7 +1622,8 @@
     "acceso": "visor_drive",
     "alcance_geografico": "ARG",
     "extension": ".pdf",
-    "ruta_local": "Plantas nativas/Auge - [ARG] Diario de Campo sobre plantas yuyos y saberes.pdf"
+    "ruta_local": "Plantas nativas/Auge - [ARG] Diario de Campo sobre plantas yuyos y saberes.pdf",
+    "url_drive": "https://drive.google.com/file/d/1a8xll5vSOTXJ25-fO7jImRQFLwA9FV1t/view?usp=sharing"
   },
   {
     "id": "00092",
@@ -1549,7 +1639,8 @@
     "acceso": "visor_drive",
     "alcance_geografico": "BSAS",
     "extension": ".pdf",
-    "ruta_local": "Plantas nativas/INTA - [BSAS] Guía Yuyos bien comidos.pdf"
+    "ruta_local": "Plantas nativas/INTA - [BSAS] Guía Yuyos bien comidos.pdf",
+    "url_drive": "https://drive.google.com/file/d/1VRMQ_d509oAFf4o9pJbmkUtkK55SBGv3/view?usp=sharing"
   },
   {
     "id": "00093",
@@ -1566,7 +1657,8 @@
     "acceso": "visor_drive",
     "alcance_geografico": "ARG",
     "extension": ".pdf",
-    "ruta_local": "Plantas nativas/Menini; Burgueño - [ARG] Guia de Plantas-Rioplatenses Del Jbct.pdf"
+    "ruta_local": "Plantas nativas/Menini; Burgueño - [ARG] Guia de Plantas-Rioplatenses Del Jbct.pdf",
+    "url_drive": "https://drive.google.com/file/d/1LveOmw2W7N70Tz4_-kXTji2c3R0c6Jjs/view?usp=sharing"
   },
   {
     "id": "00094",
@@ -1582,7 +1674,8 @@
     "acceso": "visor_drive",
     "alcance_geografico": "BSAS",
     "extension": ".pdf",
-    "ruta_local": "Plantas nativas/Ministerio de Ambiente PBA - [BSAS]  cuadernillo nativas costeras.pdf"
+    "ruta_local": "Plantas nativas/Ministerio de Ambiente PBA - [BSAS]  cuadernillo nativas costeras.pdf",
+    "url_drive": "https://drive.google.com/file/d/1ChKIYOGodA10FCZt5gP8_gBxvMRpM7Nr/view?usp=sharing"
   },
   {
     "id": "00095",
@@ -1601,7 +1694,8 @@
     "acceso": "visor_drive",
     "alcance_geografico": "SAM",
     "extension": ".pdf",
-    "ruta_local": "Por clasificar/Marino; Miñarro; Zaccagnini; López Lanus -  [SAM] Monografía  Pastizales y sabanas del cono sur.pdf"
+    "ruta_local": "Por clasificar/Marino; Miñarro; Zaccagnini; López Lanus -  [SAM] Monografía  Pastizales y sabanas del cono sur.pdf",
+    "url_drive": "https://drive.google.com/file/d/18eiMypPfKH33wasFKFtPVDHfVN8Yz6cY/view?usp=sharing"
   },
   {
     "id": "00096",
@@ -1618,7 +1712,8 @@
     "acceso": "visor_drive",
     "alcance_geografico": "ARG",
     "extension": ".pdf",
-    "ruta_local": "Por clasificar/Aprile; Bertonatti - [ARG] Manual sobre rehabilitacion de fauna.pdf"
+    "ruta_local": "Por clasificar/Aprile; Bertonatti - [ARG] Manual sobre rehabilitacion de fauna.pdf",
+    "url_drive": "https://drive.google.com/file/d/1nLoM3HeHnobErJ7hTF-_wWfAdMSvO3eL/view?usp=sharing"
   },
   {
     "id": "00097",
@@ -1634,7 +1729,8 @@
     "acceso": "visor_drive",
     "alcance_geografico": "BSAS",
     "extension": ".pdf",
-    "ruta_local": "Por clasificar/Athor - [BSAS] Libro Buenos Aires_ La historia de su paisaje natural.pdf"
+    "ruta_local": "Por clasificar/Athor - [BSAS] Libro Buenos Aires_ La historia de su paisaje natural.pdf",
+    "url_drive": "https://drive.google.com/file/d/1gVpSu-xeno-LWW58Co7l8VPH3EKt_MLQ/view?usp=sharing"
   },
   {
     "id": "00098",
@@ -1652,7 +1748,8 @@
     "acceso": "visor_drive",
     "alcance_geografico": null,
     "extension": ".pdf",
-    "ruta_local": "Por clasificar/Bauni; Bertonatti; Giacchino -  Inventario Biologico Argentino.pdf"
+    "ruta_local": "Por clasificar/Bauni; Bertonatti; Giacchino -  Inventario Biologico Argentino.pdf",
+    "url_drive": "https://drive.google.com/file/d/14Nz5OFop5HWSp1avVgpmWWpceVIAoBnW/view?usp=sharing"
   },
   {
     "id": "00099",
@@ -1668,7 +1765,8 @@
     "acceso": "visor_drive",
     "alcance_geografico": "SAM",
     "extension": ".pdf",
-    "ruta_local": "Por clasificar/Bebbington - [SAM] Libro Minería, movimientos sociales y respuestas campesinas_ una ecología política de transformaciones territoriales.pdf"
+    "ruta_local": "Por clasificar/Bebbington - [SAM] Libro Minería, movimientos sociales y respuestas campesinas_ una ecología política de transformaciones territoriales.pdf",
+    "url_drive": "https://drive.google.com/file/d/1-SCflPUckHRRgXICl9avoUyY9oTLP1Er/view?usp=sharing"
   },
   {
     "id": "00100",
@@ -1684,7 +1782,8 @@
     "acceso": "visor_drive",
     "alcance_geografico": "BSAS",
     "extension": ".pdf",
-    "ruta_local": "Por clasificar/Bolaños_ Vecchio_ Golluscio - [BSAS] Artículo Pastizal pampeano_ _del mar de pasto_ descripto por Darwin a la actualidad..pdf"
+    "ruta_local": "Por clasificar/Bolaños_ Vecchio_ Golluscio - [BSAS] Artículo Pastizal pampeano_ _del mar de pasto_ descripto por Darwin a la actualidad..pdf",
+    "url_drive": "https://drive.google.com/file/d/1wlMStJln5Ic-2mqUT-kpcVyoxfXIVU_a/view?usp=sharing"
   },
   {
     "id": "00101",
@@ -1701,7 +1800,8 @@
     "acceso": "visor_drive",
     "alcance_geografico": "BSAS",
     "extension": ".pdf",
-    "ruta_local": "Por clasificar/Camilloni; Morrás - [BSAS] Libro Ambiente natural.pdf"
+    "ruta_local": "Por clasificar/Camilloni; Morrás - [BSAS] Libro Ambiente natural.pdf",
+    "url_drive": "https://drive.google.com/file/d/10RCqGCgnJ3O7r2oQfaM-XtkBQ59Psn3f/view?usp=sharing"
   },
   {
     "id": "00102",
@@ -1717,7 +1817,8 @@
     "acceso": "visor_drive",
     "alcance_geografico": "BSAS",
     "extension": ".pdf",
-    "ruta_local": "Por clasificar/Dirccion General de Escuela y Educacion PBA  - [BSAS] animales de la provincia.pdf"
+    "ruta_local": "Por clasificar/Dirccion General de Escuela y Educacion PBA  - [BSAS] animales de la provincia.pdf",
+    "url_drive": "https://drive.google.com/file/d/1A1pSqdt--Zcg18lju99_8pCTH1WIcoME/view?usp=sharing"
   },
   {
     "id": "00103",
@@ -1735,7 +1836,8 @@
     "acceso": "visor_drive",
     "alcance_geografico": "BSAS",
     "extension": ".pdf",
-    "ruta_local": "Por clasificar/Imbellone; Giménez; Panigatti - [BSAS] Libro Suelos de la Región Pampeana. Procesos de Formación..pdf"
+    "ruta_local": "Por clasificar/Imbellone; Giménez; Panigatti - [BSAS] Libro Suelos de la Región Pampeana. Procesos de Formación..pdf",
+    "url_drive": "https://drive.google.com/file/d/1tuJJmgJjZGrG4-I2Wslh2I5V2oBLngcR/view?usp=sharing"
   },
   {
     "id": "00104",
@@ -1753,7 +1855,8 @@
     "acceso": "descarga",
     "alcance_geografico": "LOC",
     "extension": ".pdf",
-    "ruta_local": "Por clasificar/Klimaitis; klimaitis; Luciano - [LOC] inventario terraplen costero.pdf"
+    "ruta_local": "Por clasificar/Klimaitis; klimaitis; Luciano - [LOC] inventario terraplen costero.pdf",
+    "url_drive": "https://drive.google.com/file/d/13FMIGahsEiQ-dVF9S3vBFM3DQeqDmC95/view?usp=sharing"
   },
   {
     "id": "00105",
@@ -1770,7 +1873,8 @@
     "acceso": "visor_drive",
     "alcance_geografico": "BSAS",
     "extension": ".pdf",
-    "ruta_local": "Por clasificar/Mérida; Athor - [BSAS] Libro Talares bonaerenses y su conservación.pdf"
+    "ruta_local": "Por clasificar/Mérida; Athor - [BSAS] Libro Talares bonaerenses y su conservación.pdf",
+    "url_drive": "https://drive.google.com/file/d/1qLOzRHGQtO22LgMisLp_3DbkwkE0c9PN/view?usp=sharing"
   },
   {
     "id": "00106",
@@ -1784,7 +1888,8 @@
     "acceso": "visor_drive",
     "alcance_geografico": null,
     "extension": ".pdf",
-    "ruta_local": "Por clasificar/ROESLER;  GABRIELA AGOSTINIInventario_Vertebrados_Punta_Lara.pdf"
+    "ruta_local": "Por clasificar/ROESLER;  GABRIELA AGOSTINIInventario_Vertebrados_Punta_Lara.pdf",
+    "url_drive": "https://drive.google.com/file/d/1eN4NWE4ngW6FFmS0D19_2ciRYKTQmjGj/view?usp=sharing"
   },
   {
     "id": "00107",
@@ -1800,7 +1905,8 @@
     "acceso": "visor_drive",
     "alcance_geografico": "MUN",
     "extension": ".pdf",
-    "ruta_local": "Por clasificar/Smith - [MUN] Libro Ecología.pdf"
+    "ruta_local": "Por clasificar/Smith - [MUN] Libro Ecología.pdf",
+    "url_drive": "https://drive.google.com/file/d/1x7_WAZgSg9jRe6VU9z5CsoXISeBhjZ-Q/view?usp=sharing"
   },
   {
     "id": "00108",
@@ -1817,7 +1923,8 @@
     "acceso": "visor_drive",
     "alcance_geografico": "ARG",
     "extension": ".pdf",
-    "ruta_local": "Por clasificar/Svampa; Atonelli - [ARG] Artículo Minería transnacional, narrativas del desarrollo y resistencias sociales.pdf"
+    "ruta_local": "Por clasificar/Svampa; Atonelli - [ARG] Artículo Minería transnacional, narrativas del desarrollo y resistencias sociales.pdf",
+    "url_drive": "https://drive.google.com/file/d/1bjON9CZPWKA_37riLsMDRvQ1RCicEBRe/view?usp=sharing"
   },
   {
     "id": "00109",
@@ -1833,7 +1940,8 @@
     "acceso": "visor_drive",
     "alcance_geografico": "ARG",
     "extension": ".pdf",
-    "ruta_local": "Por clasificar/Unión de Asambleas de Comunidades Chubutenses - [ARG] Manual Hablemos de megaminería.pdf"
+    "ruta_local": "Por clasificar/Unión de Asambleas de Comunidades Chubutenses - [ARG] Manual Hablemos de megaminería.pdf",
+    "url_drive": "https://drive.google.com/file/d/1RCybiSd-bpb5ANy1kWO13v6CgQ6cj1ru/view?usp=sharing"
   },
   {
     "id": "00110",
@@ -1851,7 +1959,8 @@
     "acceso": "visor_drive",
     "alcance_geografico": "ARG",
     "extension": ".pdf",
-    "ruta_local": "Plantas nativas/fichas/Vivero Mun. San Isidro - [ARG]  ficha Tasi (Araujia hortorum).pdf"
+    "ruta_local": "Plantas nativas/fichas/Vivero Mun. San Isidro - [ARG]  ficha Tasi (Araujia hortorum).pdf",
+    "url_drive": "https://drive.google.com/file/d/1uxDuIPYZjX8QHnnlgSoRr0jAmEsZM-YN/view?usp=sharing"
   },
   {
     "id": "00111",
@@ -1869,7 +1978,8 @@
     "acceso": "visor_drive",
     "alcance_geografico": "ARG",
     "extension": ".pdf",
-    "ruta_local": "Plantas nativas/fichas/Vivero Mun. San Isidro - [ARG]  ficha Tayuyá (Cayaponia martiana).pdf"
+    "ruta_local": "Plantas nativas/fichas/Vivero Mun. San Isidro - [ARG]  ficha Tayuyá (Cayaponia martiana).pdf",
+    "url_drive": "https://drive.google.com/file/d/17iFGfrEkTvdVX59tILS52brt0rDKCao4/view?usp=sharing"
   },
   {
     "id": "00112",
@@ -1887,7 +1997,8 @@
     "acceso": "visor_drive",
     "alcance_geografico": "ARG",
     "extension": ".pdf",
-    "ruta_local": "Plantas nativas/fichas/Vivero Mun. San Isidro - [ARG]  ficha Timbó - Pacará (Enterolobium contortisiliquum).pdf"
+    "ruta_local": "Plantas nativas/fichas/Vivero Mun. San Isidro - [ARG]  ficha Timbó - Pacará (Enterolobium contortisiliquum).pdf",
+    "url_drive": "https://drive.google.com/file/d/10TpjKBVOJ3Vs7L1tOC9XjLUUYT4Wsw7V/view?usp=sharing"
   },
   {
     "id": "00113",
@@ -1905,7 +2016,8 @@
     "acceso": "visor_drive",
     "alcance_geografico": "ARG",
     "extension": ".pdf",
-    "ruta_local": "Plantas nativas/fichas/Vivero Mun. San Isidro - [ARG]  ficha Tres puntas (Herbertia lahue).pdf"
+    "ruta_local": "Plantas nativas/fichas/Vivero Mun. San Isidro - [ARG]  ficha Tres puntas (Herbertia lahue).pdf",
+    "url_drive": "https://drive.google.com/file/d/1SK9ZPuH066e0rtYZacJMBoCsriQMxnQG/view?usp=sharing"
   },
   {
     "id": "00114",
@@ -1923,7 +2035,8 @@
     "acceso": "visor_drive",
     "alcance_geografico": "ARG",
     "extension": ".pdf",
-    "ruta_local": "Plantas nativas/fichas/Vivero Mun. San Isidro - [ARG]  ficha Uña de gato (Macfadyena unguis-cati).pdf"
+    "ruta_local": "Plantas nativas/fichas/Vivero Mun. San Isidro - [ARG]  ficha Uña de gato (Macfadyena unguis-cati).pdf",
+    "url_drive": "https://drive.google.com/file/d/15icw8bPKVZzjXbyIKfp9WSW5tb3Xu5Iq/view?usp=sharing"
   },
   {
     "id": "00115",
@@ -1941,7 +2054,8 @@
     "acceso": "visor_drive",
     "alcance_geografico": "ARG",
     "extension": ".pdf",
-    "ruta_local": "Plantas nativas/fichas/Vivero Mun. San Isidro - [ARG] ficha Acacia mansa (Sesbania punicea).pdf"
+    "ruta_local": "Plantas nativas/fichas/Vivero Mun. San Isidro - [ARG] ficha Acacia mansa (Sesbania punicea).pdf",
+    "url_drive": "https://drive.google.com/file/d/1tfJ8tvDdShhxpJGoOSWko8wgQhYz0LJF/view?usp=sharing"
   },
   {
     "id": "00116",
@@ -1959,7 +2073,8 @@
     "acceso": "visor_drive",
     "alcance_geografico": "ARG",
     "extension": ".pdf",
-    "ruta_local": "Plantas nativas/fichas/Vivero Mun. San Isidro - [ARG] ficha Achira amarilla (Canna glauca).pdf"
+    "ruta_local": "Plantas nativas/fichas/Vivero Mun. San Isidro - [ARG] ficha Achira amarilla (Canna glauca).pdf",
+    "url_drive": "https://drive.google.com/file/d/1d8uzYL2yc6PPSicZqToApunqix5AN9vv/view?usp=sharing"
   },
   {
     "id": "00117",
@@ -1977,7 +2092,8 @@
     "acceso": "visor_drive",
     "alcance_geografico": "ARG",
     "extension": ".pdf",
-    "ruta_local": "Plantas nativas/fichas/Vivero Mun. San Isidro - [ARG] ficha Aguapé (Pontederia cordata).pdf"
+    "ruta_local": "Plantas nativas/fichas/Vivero Mun. San Isidro - [ARG] ficha Aguapé (Pontederia cordata).pdf",
+    "url_drive": "https://drive.google.com/file/d/16rs79pLGSptAI1VcEiFPkPh5Hc6fS2Ld/view?usp=sharing"
   },
   {
     "id": "00118",
@@ -1995,7 +2111,8 @@
     "acceso": "visor_drive",
     "alcance_geografico": "ARG",
     "extension": ".pdf",
-    "ruta_local": "Plantas nativas/fichas/Vivero Mun. San Isidro - [ARG] ficha Anacahuita (Blepharocalyx salicisfolius).pdf"
+    "ruta_local": "Plantas nativas/fichas/Vivero Mun. San Isidro - [ARG] ficha Anacahuita (Blepharocalyx salicisfolius).pdf",
+    "url_drive": "https://drive.google.com/file/d/1E5_02zj9i11oCgBIaWE86clsN8bMT530/view?usp=sharing"
   },
   {
     "id": "00119",
@@ -2013,7 +2130,8 @@
     "acceso": "visor_drive",
     "alcance_geografico": "ARG",
     "extension": ".pdf",
-    "ruta_local": "Plantas nativas/fichas/Vivero Mun. San Isidro - [ARG]  ficha Lirio celeste (Cypella coelestis).pdf"
+    "ruta_local": "Plantas nativas/fichas/Vivero Mun. San Isidro - [ARG]  ficha Lirio celeste (Cypella coelestis).pdf",
+    "url_drive": "https://drive.google.com/file/d/13iN18CvYWL4HbItQ1vDWxcckcYXGogTm/view?usp=sharing"
   },
   {
     "id": "00120",
@@ -2031,7 +2149,8 @@
     "acceso": "visor_drive",
     "alcance_geografico": "ARG",
     "extension": ".pdf",
-    "ruta_local": "Plantas nativas/fichas/Vivero Mun. San Isidro - [ARG]  ficha Lirio del bajo (Cypella herbertii).pdf"
+    "ruta_local": "Plantas nativas/fichas/Vivero Mun. San Isidro - [ARG]  ficha Lirio del bajo (Cypella herbertii).pdf",
+    "url_drive": "https://drive.google.com/file/d/1X2I4iFgatUq9C-3CAQGCoqBSH0tHyFUg/view?usp=sharing"
   },
   {
     "id": "00121",
@@ -2050,7 +2169,8 @@
     "acceso": "visor_drive",
     "alcance_geografico": "ARG",
     "extension": ".pdf",
-    "ruta_local": "Plantas nativas/fichas/Vivero Mun. San Isidro - [ARG]  ficha Mariposa (Heteropteris glabra).pdf"
+    "ruta_local": "Plantas nativas/fichas/Vivero Mun. San Isidro - [ARG]  ficha Mariposa (Heteropteris glabra).pdf",
+    "url_drive": "https://drive.google.com/file/d/12ONuIgH6iyeYWy1l3sAUwku8qRePYgb9/view?usp=sharing"
   },
   {
     "id": "00122",
@@ -2068,7 +2188,8 @@
     "acceso": "visor_drive",
     "alcance_geografico": "ARG",
     "extension": ".pdf",
-    "ruta_local": "Plantas nativas/fichas/Vivero Mun. San Isidro - [ARG]  ficha Mburucuyá - pasionaria (Passiflora caerulea).pdf"
+    "ruta_local": "Plantas nativas/fichas/Vivero Mun. San Isidro - [ARG]  ficha Mburucuyá - pasionaria (Passiflora caerulea).pdf",
+    "url_drive": "https://drive.google.com/file/d/1fk07t2mYsYoesyHoytDhxQwh-A-ZVb72/view?usp=sharing"
   },
   {
     "id": "00123",
@@ -2086,7 +2207,8 @@
     "acceso": "visor_drive",
     "alcance_geografico": "ARG",
     "extension": ".pdf",
-    "ruta_local": "Plantas nativas/fichas/Vivero Mun. San Isidro - [ARG]  ficha Mil hombres (Aristolochia triangularis).pdf"
+    "ruta_local": "Plantas nativas/fichas/Vivero Mun. San Isidro - [ARG]  ficha Mil hombres (Aristolochia triangularis).pdf",
+    "url_drive": "https://drive.google.com/file/d/1GyE30jdYe3VoCmqeCzUiP9jBkIJA6B3C/view?usp=sharing"
   },
   {
     "id": "00124",
@@ -2104,7 +2226,8 @@
     "acceso": "visor_drive",
     "alcance_geografico": "ARG",
     "extension": ".pdf",
-    "ruta_local": "Plantas nativas/fichas/Vivero Mun. San Isidro - [ARG]  ficha Patito, pajarito (Aristolochia fimbriata).pdf"
+    "ruta_local": "Plantas nativas/fichas/Vivero Mun. San Isidro - [ARG]  ficha Patito, pajarito (Aristolochia fimbriata).pdf",
+    "url_drive": "https://drive.google.com/file/d/1KOYsNppvlQsmjowTE0JcahoBmEW2dqNt/view?usp=sharing"
   },
   {
     "id": "00125",
@@ -2122,7 +2245,8 @@
     "acceso": "visor_drive",
     "alcance_geografico": "ARG",
     "extension": ".pdf",
-    "ruta_local": "Plantas nativas/fichas/Vivero Mun. San Isidro - [ARG]  ficha Rosa de río (Hibiscus striatus).pdf"
+    "ruta_local": "Plantas nativas/fichas/Vivero Mun. San Isidro - [ARG]  ficha Rosa de río (Hibiscus striatus).pdf",
+    "url_drive": "https://drive.google.com/file/d/16zCQXKyfl5Kf2eekVIYGNL25FV_DCAxj/view?usp=sharing"
   },
   {
     "id": "00126",
@@ -2140,7 +2264,8 @@
     "acceso": "visor_drive",
     "alcance_geografico": "ARG",
     "extension": ".pdf",
-    "ruta_local": "Plantas nativas/fichas/Vivero Mun. San Isidro - [ARG]  ficha Salvia (Salvia procurrens).pdf"
+    "ruta_local": "Plantas nativas/fichas/Vivero Mun. San Isidro - [ARG]  ficha Salvia (Salvia procurrens).pdf",
+    "url_drive": "https://drive.google.com/file/d/12dS_kcV41j9i4nRwvi66mY7Hd_kDLxt3/view?usp=sharing"
   },
   {
     "id": "00127",
@@ -2158,7 +2283,8 @@
     "acceso": "visor_drive",
     "alcance_geografico": "ARG",
     "extension": ".pdf",
-    "ruta_local": "Plantas nativas/fichas/Vivero Mun. San Isidro - [ARG]  ficha Azucenita (Zephyranthes candida).pdf"
+    "ruta_local": "Plantas nativas/fichas/Vivero Mun. San Isidro - [ARG]  ficha Azucenita (Zephyranthes candida).pdf",
+    "url_drive": "https://drive.google.com/file/d/1MRTJPDIcxqjQHClNgZoEqe8nHJEu9DHj/view?usp=sharing"
   },
   {
     "id": "00128",
@@ -2176,7 +2302,8 @@
     "acceso": "visor_drive",
     "alcance_geografico": "ARG",
     "extension": ".pdf",
-    "ruta_local": "Plantas nativas/fichas/Vivero Mun. San Isidro - [ARG]  ficha Canchalagua (Sisyrinchium platense).pdf"
+    "ruta_local": "Plantas nativas/fichas/Vivero Mun. San Isidro - [ARG]  ficha Canchalagua (Sisyrinchium platense).pdf",
+    "url_drive": "https://drive.google.com/file/d/1qVK3NpX9nlQJjkHfZRzPS6lTwg9jktD2/view?usp=sharing"
   },
   {
     "id": "00129",
@@ -2194,7 +2321,8 @@
     "acceso": "visor_drive",
     "alcance_geografico": "ARG",
     "extension": ".pdf",
-    "ruta_local": "Plantas nativas/fichas/Vivero Mun. San Isidro - [ARG]  ficha Caá-ovetí (Solanum granuloso-leprosum).pdf"
+    "ruta_local": "Plantas nativas/fichas/Vivero Mun. San Isidro - [ARG]  ficha Caá-ovetí (Solanum granuloso-leprosum).pdf",
+    "url_drive": "https://drive.google.com/file/d/1gLdnBCpBjN9bp3ucflAFgh_EFjUpa6V4/view?usp=sharing"
   },
   {
     "id": "00130",
@@ -2212,7 +2340,8 @@
     "acceso": "visor_drive",
     "alcance_geografico": "ARG",
     "extension": ".pdf",
-    "ruta_local": "Plantas nativas/fichas/Vivero Mun. San Isidro - [ARG]  ficha Ceibo (Erythrina crista-galli).pdf"
+    "ruta_local": "Plantas nativas/fichas/Vivero Mun. San Isidro - [ARG]  ficha Ceibo (Erythrina crista-galli).pdf",
+    "url_drive": "https://drive.google.com/file/d/1VxTQL9hAOsAZAcwaiMt1giYMGB2LLMiH/view?usp=sharing"
   },
   {
     "id": "00131",
@@ -2230,7 +2359,8 @@
     "acceso": "visor_drive",
     "alcance_geografico": "ARG",
     "extension": ".pdf",
-    "ruta_local": "Plantas nativas/fichas/Vivero Mun. San Isidro - [ARG]  ficha Isipó colorado (Camptosema rubicundum).pdf"
+    "ruta_local": "Plantas nativas/fichas/Vivero Mun. San Isidro - [ARG]  ficha Isipó colorado (Camptosema rubicundum).pdf",
+    "url_drive": "https://drive.google.com/file/d/1JFcdi5LsKgC_qkBiB-6DmnUNc_w1x4WM/view?usp=sharing"
   },
   {
     "id": "00132",
@@ -2248,7 +2378,8 @@
     "acceso": "visor_drive",
     "alcance_geografico": "ARG",
     "extension": ".pdf",
-    "ruta_local": "Plantas nativas/fichas/Vivero Mun. San Isidro - [ARG]  ficha Sangre de toro (Rivina humilis).pdf"
+    "ruta_local": "Plantas nativas/fichas/Vivero Mun. San Isidro - [ARG]  ficha Sangre de toro (Rivina humilis).pdf",
+    "url_drive": "https://drive.google.com/file/d/16fjHG-grZ-LauRwqz5H7Q0bUdNXMrqiy/view?usp=sharing"
   },
   {
     "id": "00133",
@@ -2266,7 +2397,8 @@
     "acceso": "visor_drive",
     "alcance_geografico": "ARG",
     "extension": ".pdf",
-    "ruta_local": "Plantas nativas/fichas/Vivero Mun. San Isidro - [ARG]  ficha Cola de caballo  Huiñal (Equisetum giganteum).pdf"
+    "ruta_local": "Plantas nativas/fichas/Vivero Mun. San Isidro - [ARG]  ficha Cola de caballo  Huiñal (Equisetum giganteum).pdf",
+    "url_drive": "https://drive.google.com/file/d/14GWF2929qA3G7BPlxfh4a8jVPbpz4b8R/view?usp=sharing"
   },
   {
     "id": "00134",
@@ -2284,7 +2416,8 @@
     "acceso": "visor_drive",
     "alcance_geografico": "ARG",
     "extension": ".pdf",
-    "ruta_local": "Plantas nativas/fichas/Vivero Mun. San Isidro - [ARG]  ficha Coronillo (Scutia buxifolia).pdf"
+    "ruta_local": "Plantas nativas/fichas/Vivero Mun. San Isidro - [ARG]  ficha Coronillo (Scutia buxifolia).pdf",
+    "url_drive": "https://drive.google.com/file/d/1rVjWaAReSBGgcHFIunEPZBeRg4SZiq_R/view?usp=sharing"
   },
   {
     "id": "00135",
@@ -2302,7 +2435,8 @@
     "acceso": "visor_drive",
     "alcance_geografico": "ARG",
     "extension": ".pdf",
-    "ruta_local": "Plantas nativas/fichas/Vivero Mun. San Isidro - [ARG]  ficha Cuaresma (Tibouchina nitida).pdf"
+    "ruta_local": "Plantas nativas/fichas/Vivero Mun. San Isidro - [ARG]  ficha Cuaresma (Tibouchina nitida).pdf",
+    "url_drive": "https://drive.google.com/file/d/1XqyXXmX6yIk7YyGLtCBtaykgvVl095ZP/view?usp=sharing"
   },
   {
     "id": "00136",
@@ -2320,7 +2454,8 @@
     "acceso": "visor_drive",
     "alcance_geografico": "ARG",
     "extension": ".pdf",
-    "ruta_local": "Plantas nativas/fichas/Vivero Mun. San Isidro - [ARG]  ficha Cucharero (Echinodorus grandiflorus).pdf"
+    "ruta_local": "Plantas nativas/fichas/Vivero Mun. San Isidro - [ARG]  ficha Cucharero (Echinodorus grandiflorus).pdf",
+    "url_drive": "https://drive.google.com/file/d/1GfxDeDELOXxo888ef78ibFaC1wy_I1Wr/view?usp=sharing"
   },
   {
     "id": "00137",
@@ -2338,7 +2473,8 @@
     "acceso": "visor_drive",
     "alcance_geografico": "ARG",
     "extension": ".pdf",
-    "ruta_local": "Plantas nativas/fichas/Vivero Mun. San Isidro - [ARG]  ficha Espinillo (Acacia caven).pdf"
+    "ruta_local": "Plantas nativas/fichas/Vivero Mun. San Isidro - [ARG]  ficha Espinillo (Acacia caven).pdf",
+    "url_drive": "https://drive.google.com/file/d/1fqJFoYZgFqZFdzErr8AJY8VAQJI4L5r2/view?usp=sharing"
   },
   {
     "id": "00138",
@@ -2356,7 +2492,8 @@
     "acceso": "visor_drive",
     "alcance_geografico": "ARG",
     "extension": ".pdf",
-    "ruta_local": "Plantas nativas/fichas/Vivero Mun. San Isidro - [ARG]  ficha Flor de nácar (Begonia cucullata).pdf"
+    "ruta_local": "Plantas nativas/fichas/Vivero Mun. San Isidro - [ARG]  ficha Flor de nácar (Begonia cucullata).pdf",
+    "url_drive": "https://drive.google.com/file/d/1eH6HCxVY7MSFqcgjULDHFy3aPIZK6nCk/view?usp=sharing"
   },
   {
     "id": "00139",
@@ -2374,7 +2511,8 @@
     "acceso": "visor_drive",
     "alcance_geografico": "ARG",
     "extension": ".pdf",
-    "ruta_local": "Plantas nativas/fichas/Vivero Mun. San Isidro - [ARG]  ficha Flor de patito (Oncidium bifolium).pdf"
+    "ruta_local": "Plantas nativas/fichas/Vivero Mun. San Isidro - [ARG]  ficha Flor de patito (Oncidium bifolium).pdf",
+    "url_drive": "https://drive.google.com/file/d/1JQS7-b57rewU_NfCr3xsSl9hHdTaGTe5/view?usp=sharing"
   },
   {
     "id": "00140",
@@ -2392,7 +2530,8 @@
     "acceso": "visor_drive",
     "alcance_geografico": "ARG",
     "extension": ".pdf",
-    "ruta_local": "Plantas nativas/fichas/Vivero Mun. San Isidro - [ARG]  ficha Flor de pitito (Tropaeolum pentaphyllum).pdf"
+    "ruta_local": "Plantas nativas/fichas/Vivero Mun. San Isidro - [ARG]  ficha Flor de pitito (Tropaeolum pentaphyllum).pdf",
+    "url_drive": "https://drive.google.com/file/d/1u2_K_AGl9CzAcbhiNBgvsrwxbdMHVK47/view?usp=sharing"
   },
   {
     "id": "00141",
@@ -2411,7 +2550,8 @@
     "acceso": "visor_drive",
     "alcance_geografico": "ARG",
     "extension": ".pdf",
-    "ruta_local": "Entomología/Mariposas/Nuñez  Bustos - [ARG] articulo Mariposa Bandera Argentina Biologia, ecologia y conservación en la Pcia de Bs As.pdf"
+    "ruta_local": "Entomología/Mariposas/Nuñez  Bustos - [ARG] articulo Mariposa Bandera Argentina Biologia, ecologia y conservación en la Pcia de Bs As.pdf",
+    "url_drive": "https://drive.google.com/file/d/1ionJdgOgNA9UdM5dgtAZkbGbcAgDQ6bj/view?usp=sharing"
   },
   {
     "id": "00142",
@@ -2430,7 +2570,8 @@
     "acceso": "visor_drive",
     "alcance_geografico": "ARG",
     "extension": ".pdf",
-    "ruta_local": "Entomología/Mariposas/Penco - [ARG] entomologia  Lepidóptera Argentina Parte I Castniidae .pdf"
+    "ruta_local": "Entomología/Mariposas/Penco - [ARG] entomologia  Lepidóptera Argentina Parte I Castniidae .pdf",
+    "url_drive": "https://drive.google.com/file/d/18vAEsmhLFAu9PXOwcrXe8ClVd5gljxxW/view?usp=sharing"
   },
   {
     "id": "00143",
@@ -2449,7 +2590,8 @@
     "acceso": "visor_drive",
     "alcance_geografico": "ARG",
     "extension": ".pdf",
-    "ruta_local": "Entomología/Mariposas/Penco - [ARG] entomologia catalogo Lepidóptera Argentina Parte IV Sematuridae & Uraniidae.pdf"
+    "ruta_local": "Entomología/Mariposas/Penco - [ARG] entomologia catalogo Lepidóptera Argentina Parte IV Sematuridae & Uraniidae.pdf",
+    "url_drive": "https://drive.google.com/file/d/1or6UbYAeDzK1xMSGSevqelZ-BELSWczR/view?usp=sharing"
   },
   {
     "id": "00144",
@@ -2469,7 +2611,8 @@
     "acceso": "visor_drive",
     "alcance_geografico": "ARG",
     "extension": ".pdf",
-    "ruta_local": "Entomología/Mariposas/Penco;  Di Iorio - [ARG] Catalogo entomologia Lepidóptera Argentina Parte VII Papilionidae (2014).pdf"
+    "ruta_local": "Entomología/Mariposas/Penco;  Di Iorio - [ARG] Catalogo entomologia Lepidóptera Argentina Parte VII Papilionidae (2014).pdf",
+    "url_drive": "https://drive.google.com/file/d/1trfl667rI8L9-B-qt_tmcoWYuHrYTZka/view?usp=sharing"
   },
   {
     "id": "00145",
@@ -2489,7 +2632,8 @@
     "acceso": "visor_drive",
     "alcance_geografico": "ARG",
     "extension": ".pdf",
-    "ruta_local": "Entomología/Mariposas/Bertonatti; Perez - [ARG] Articulo  mariposa bandera argentina.pdf"
+    "ruta_local": "Entomología/Mariposas/Bertonatti; Perez - [ARG] Articulo  mariposa bandera argentina.pdf",
+    "url_drive": "https://drive.google.com/file/d/13aFUcmrShV9zdqujo_-6A23MXtH19Xhd/view?usp=sharing"
   },
   {
     "id": "00146",
@@ -2508,7 +2652,8 @@
     "acceso": "visor_drive",
     "alcance_geografico": "LOC",
     "extension": ".pdf",
-    "ruta_local": "Entomología/Mariposas/Buenos Aires Ciudad - [LOC] Guia Las mariposas van a la escuela.pdf"
+    "ruta_local": "Entomología/Mariposas/Buenos Aires Ciudad - [LOC] Guia Las mariposas van a la escuela.pdf",
+    "url_drive": "https://drive.google.com/file/d/1Q_DM2le4owHoiLZT314s7E7BF07D3cCO/view?usp=sharing"
   },
   {
     "id": "00147",
@@ -2527,7 +2672,8 @@
     "acceso": "visor_drive",
     "alcance_geografico": "LOC",
     "extension": ".pdf",
-    "ruta_local": "Entomología/Mariposas/Bustos Nuñez - [LOC] entomologia  Listado de Mariposas diurnas del Parque Costero del Sur Magdalena y Punta Indio  Nuevos Temas.pdf"
+    "ruta_local": "Entomología/Mariposas/Bustos Nuñez - [LOC] entomologia  Listado de Mariposas diurnas del Parque Costero del Sur Magdalena y Punta Indio  Nuevos Temas.pdf",
+    "url_drive": "https://drive.google.com/file/d/1l_wtRvLB45hOVotOp4L0jK3z-esLTswN/view?usp=sharing"
   },
   {
     "id": "00148",
@@ -2547,7 +2693,8 @@
     "acceso": "visor_drive",
     "alcance_geografico": "ARG",
     "extension": ".pdf",
-    "ruta_local": "Entomología/Mariposas/Klimaitis; Moschione - [ARG] libro  Maravillas aladas de Argentina.pdf"
+    "ruta_local": "Entomología/Mariposas/Klimaitis; Moschione - [ARG] libro  Maravillas aladas de Argentina.pdf",
+    "url_drive": "https://drive.google.com/file/d/1KQzpmI9liUcg_BMxmrv7IcOjoWZic1qr/view?usp=sharing"
   },
   {
     "id": "00149",
@@ -2566,7 +2713,8 @@
     "acceso": "visor_drive",
     "alcance_geografico": "BSAS",
     "extension": ".pdf",
-    "ruta_local": "Entomología/Mariposas/Ministerio de Ambiente PBA  - [BSAS] Cartilla  Mariposas Bonaerenses.pdf"
+    "ruta_local": "Entomología/Mariposas/Ministerio de Ambiente PBA  - [BSAS] Cartilla  Mariposas Bonaerenses.pdf",
+    "url_drive": "https://drive.google.com/file/d/12UDuOs_9GXlyUyG2JCjRLMclGU47Fiam/view?usp=sharing"
   },
   {
     "id": "00150",
@@ -2582,7 +2730,8 @@
     "acceso": "visor_drive",
     "alcance_geografico": "ARG",
     "extension": ".pdf",
-    "ruta_local": "Aves/Revista Fauna Argentina CEAL/Revista - [ARG] CEAL Fauna Argentina 102 Los Chorlos CEAL.pdf"
+    "ruta_local": "Aves/Revista Fauna Argentina CEAL/Revista - [ARG] CEAL Fauna Argentina 102 Los Chorlos CEAL.pdf",
+    "url_drive": "https://drive.google.com/file/d/1kjrLLckuuDsWoj_Ws687FPFt67AZf4xL/view?usp=sharing"
   },
   {
     "id": "00151",
@@ -2598,7 +2747,8 @@
     "acceso": "visor_drive",
     "alcance_geografico": "ARG",
     "extension": ".pdf",
-    "ruta_local": "Aves/Revista Fauna Argentina CEAL/Revista - [ARG] CEAL Fauna Argentina 4 Garza Blanca.pdf"
+    "ruta_local": "Aves/Revista Fauna Argentina CEAL/Revista - [ARG] CEAL Fauna Argentina 4 Garza Blanca.pdf",
+    "url_drive": "https://drive.google.com/file/d/1sgdMgymQe3R8cUHxXdR83VxYFi-G6H2o/view?usp=sharing"
   },
   {
     "id": "00152",
@@ -2614,7 +2764,8 @@
     "acceso": "visor_drive",
     "alcance_geografico": "ARG",
     "extension": ".pdf",
-    "ruta_local": "Aves/Revista Fauna Argentina CEAL/Revista - [ARG] CEAL Fauna Argentina 81 El Macá común.pdf"
+    "ruta_local": "Aves/Revista Fauna Argentina CEAL/Revista - [ARG] CEAL Fauna Argentina 81 El Macá común.pdf",
+    "url_drive": "https://drive.google.com/file/d/13EyHkutDsXhx7YwNum2nDzoxlnrj9-LE/view?usp=sharing"
   },
   {
     "id": "00153",
@@ -2630,7 +2781,8 @@
     "acceso": "visor_drive",
     "alcance_geografico": "ARG",
     "extension": ".pdf",
-    "ruta_local": "Aves/Revista Fauna Argentina CEAL/Revista - [ARG] Fauna Argentina 106 Los Pecho Amarillos.pdf"
+    "ruta_local": "Aves/Revista Fauna Argentina CEAL/Revista - [ARG] Fauna Argentina 106 Los Pecho Amarillos.pdf",
+    "url_drive": "https://drive.google.com/file/d/1lNQmS5BCsvsl79tX2l73REdTSVW2p9iY/view?usp=sharing"
   },
   {
     "id": "00154",
@@ -2646,7 +2798,8 @@
     "acceso": "visor_drive",
     "alcance_geografico": "ARG",
     "extension": ".pdf",
-    "ruta_local": "Aves/Revista Fauna Argentina CEAL/Revista - [ARG] Fauna Argentina 63 El Pirincho.pdf"
+    "ruta_local": "Aves/Revista Fauna Argentina CEAL/Revista - [ARG] Fauna Argentina 63 El Pirincho.pdf",
+    "url_drive": "https://drive.google.com/file/d/1JLhwKHquywdk3vcA4Tcg-FdPTn2-Hwr6/view?usp=sharing"
   },
   {
     "id": "00155",
@@ -2663,7 +2816,8 @@
     "acceso": "visor_drive",
     "alcance_geografico": "ARG",
     "extension": ".pdf",
-    "ruta_local": "Aves/Revista Garganchillo (Berisso)/Revista - [ARG]Garganchillo 5 Nueva serie.pdf"
+    "ruta_local": "Aves/Revista Garganchillo (Berisso)/Revista - [ARG]Garganchillo 5 Nueva serie.pdf",
+    "url_drive": "https://drive.google.com/file/d/14blOiUScdyiL-0MRLw8KAzgBlHUAL-7o/view?usp=sharing"
   },
   {
     "id": "00156",
@@ -2680,7 +2834,8 @@
     "acceso": "visor_drive",
     "alcance_geografico": "ARG",
     "extension": ".pdf",
-    "ruta_local": "Aves/Revista Garganchillo (Berisso)/Revista - [ARG]Garganchillo 6 Nueva serie.pdf"
+    "ruta_local": "Aves/Revista Garganchillo (Berisso)/Revista - [ARG]Garganchillo 6 Nueva serie.pdf",
+    "url_drive": "https://drive.google.com/file/d/16wLCXzxr08M8paiu7uIJVhZU2P1gRfz_/view?usp=sharing"
   },
   {
     "id": "00157",
@@ -2697,7 +2852,8 @@
     "acceso": "visor_drive",
     "alcance_geografico": "ARG",
     "extension": ".pdf",
-    "ruta_local": "Aves/Revista Garganchillo (Berisso)/Revista - [ARG]Garganchillo 6.pdf"
+    "ruta_local": "Aves/Revista Garganchillo (Berisso)/Revista - [ARG]Garganchillo 6.pdf",
+    "url_drive": "https://drive.google.com/file/d/1QN-9FTZCdqCmQYTBE19prEYPsaO654hF/view?usp=sharing"
   },
   {
     "id": "00158",
@@ -2714,7 +2870,8 @@
     "acceso": "visor_drive",
     "alcance_geografico": "ARG",
     "extension": ".pdf",
-    "ruta_local": "Aves/Revista Garganchillo (Berisso)/Revista - [ARG]Garganchillo 7 Nueva serie.pdf"
+    "ruta_local": "Aves/Revista Garganchillo (Berisso)/Revista - [ARG]Garganchillo 7 Nueva serie.pdf",
+    "url_drive": "https://drive.google.com/file/d/1Fn_lXRbNYnbKppKF8q5ncd_tSiitVCv6/view?usp=sharing"
   },
   {
     "id": "00159",
@@ -2731,7 +2888,8 @@
     "acceso": "visor_drive",
     "alcance_geografico": "ARG",
     "extension": ".pdf",
-    "ruta_local": "Aves/Revista Garganchillo (Berisso)/Revista - [ARG]Garganchillo 7.pdf"
+    "ruta_local": "Aves/Revista Garganchillo (Berisso)/Revista - [ARG]Garganchillo 7.pdf",
+    "url_drive": "https://drive.google.com/file/d/1R2z3YFaBhMOB-t4TBtGZcbykNDWaiKR1/view?usp=sharing"
   },
   {
     "id": "00160",
@@ -2748,7 +2906,8 @@
     "acceso": "visor_drive",
     "alcance_geografico": "LOC",
     "extension": ".pdf",
-    "ruta_local": "Aves/Revista Garganchillo (Berisso)/Revista - [LOC]Garganchillo 1.pdf"
+    "ruta_local": "Aves/Revista Garganchillo (Berisso)/Revista - [LOC]Garganchillo 1.pdf",
+    "url_drive": "https://drive.google.com/file/d/12ORM2NkNS-52CuaIaMyQZHh1tmblMWIz/view?usp=sharing"
   },
   {
     "id": "00161",
@@ -2765,7 +2924,8 @@
     "acceso": "visor_drive",
     "alcance_geografico": "LOC",
     "extension": ".pdf",
-    "ruta_local": "Aves/Revista Garganchillo (Berisso)/Revista - [LOC]Garganchillo 10.pdf"
+    "ruta_local": "Aves/Revista Garganchillo (Berisso)/Revista - [LOC]Garganchillo 10.pdf",
+    "url_drive": "https://drive.google.com/file/d/1NvSUsjpVgTTWDUY8JoOVnYWnnlPbqtTo/view?usp=sharing"
   },
   {
     "id": "00162",
@@ -2782,7 +2942,8 @@
     "acceso": "visor_drive",
     "alcance_geografico": "LOC",
     "extension": ".pdf",
-    "ruta_local": "Aves/Revista Garganchillo (Berisso)/Revista - [LOC]Garganchillo 11.pdf"
+    "ruta_local": "Aves/Revista Garganchillo (Berisso)/Revista - [LOC]Garganchillo 11.pdf",
+    "url_drive": "https://drive.google.com/file/d/1kkoAKMmhmBuIphUl1yGPzFwR-JRbqt7y/view?usp=sharing"
   },
   {
     "id": "00163",
@@ -2799,7 +2960,8 @@
     "acceso": "visor_drive",
     "alcance_geografico": "LOC",
     "extension": ".pdf",
-    "ruta_local": "Aves/Revista Garganchillo (Berisso)/Revista - [LOC]Garganchillo 12.pdf"
+    "ruta_local": "Aves/Revista Garganchillo (Berisso)/Revista - [LOC]Garganchillo 12.pdf",
+    "url_drive": "https://drive.google.com/file/d/1E3eG89juqerlylQIyhxtyejKrrkfLt2R/view?usp=sharing"
   },
   {
     "id": "00164",
@@ -2816,7 +2978,8 @@
     "acceso": "visor_drive",
     "alcance_geografico": "LOC",
     "extension": ".pdf",
-    "ruta_local": "Aves/Revista Garganchillo (Berisso)/Revista - [LOC]Garganchillo 2.pdf"
+    "ruta_local": "Aves/Revista Garganchillo (Berisso)/Revista - [LOC]Garganchillo 2.pdf",
+    "url_drive": "https://drive.google.com/file/d/1WsQgao0nX1jdLHEmd827N8M9-_n4ALvz/view?usp=sharing"
   },
   {
     "id": "00165",
@@ -2833,7 +2996,8 @@
     "acceso": "visor_drive",
     "alcance_geografico": "LOC",
     "extension": ".pdf",
-    "ruta_local": "Aves/Revista Garganchillo (Berisso)/Revista - [LOC]Garganchillo 3.pdf"
+    "ruta_local": "Aves/Revista Garganchillo (Berisso)/Revista - [LOC]Garganchillo 3.pdf",
+    "url_drive": "https://drive.google.com/file/d/1Mn9Biy8bUDAhAUyHBymFsi6qWZOhPnTm/view?usp=sharing"
   },
   {
     "id": "00166",
@@ -2850,7 +3014,8 @@
     "acceso": "visor_drive",
     "alcance_geografico": "LOC",
     "extension": ".pdf",
-    "ruta_local": "Aves/Revista Garganchillo (Berisso)/Revista - [LOC]Garganchillo 4.pdf"
+    "ruta_local": "Aves/Revista Garganchillo (Berisso)/Revista - [LOC]Garganchillo 4.pdf",
+    "url_drive": "https://drive.google.com/file/d/1N1yPape6K9SYyZTIx6kfg_CO3b_Dl5Qs/view?usp=sharing"
   },
   {
     "id": "00167",
@@ -2867,7 +3032,8 @@
     "acceso": "visor_drive",
     "alcance_geografico": "LOC",
     "extension": ".pdf",
-    "ruta_local": "Aves/Revista Garganchillo (Berisso)/Revista - [LOC]Garganchillo 5.pdf"
+    "ruta_local": "Aves/Revista Garganchillo (Berisso)/Revista - [LOC]Garganchillo 5.pdf",
+    "url_drive": "https://drive.google.com/file/d/1zvZL_sWObjvxcWCUsAw3DHehXyK654uA/view?usp=sharing"
   },
   {
     "id": "00168",
@@ -2884,7 +3050,8 @@
     "acceso": "visor_drive",
     "alcance_geografico": "LOC",
     "extension": ".pdf",
-    "ruta_local": "Aves/Revista Garganchillo (Berisso)/Revista - [LOC]Garganchillo 8 Nueva serie.pdf"
+    "ruta_local": "Aves/Revista Garganchillo (Berisso)/Revista - [LOC]Garganchillo 8 Nueva serie.pdf",
+    "url_drive": "https://drive.google.com/file/d/1OI3PR7KDVVp4ikBAr84xZphyGiDFonAR/view?usp=sharing"
   },
   {
     "id": "00169",
@@ -2901,7 +3068,8 @@
     "acceso": "visor_drive",
     "alcance_geografico": "LOC",
     "extension": ".pdf",
-    "ruta_local": "Aves/Revista Garganchillo (Berisso)/Revista - [LOC]Garganchillo 8.pdf"
+    "ruta_local": "Aves/Revista Garganchillo (Berisso)/Revista - [LOC]Garganchillo 8.pdf",
+    "url_drive": "https://drive.google.com/file/d/1MhiUSpgcog1XUT4o1lZmgjZ6XCzd2NiH/view?usp=sharing"
   },
   {
     "id": "00170",
@@ -2918,7 +3086,8 @@
     "acceso": "visor_drive",
     "alcance_geografico": "LOC",
     "extension": ".pdf",
-    "ruta_local": "Aves/Revista Garganchillo (Berisso)/Revista - [LOC]Garganchillo 9.pdf"
+    "ruta_local": "Aves/Revista Garganchillo (Berisso)/Revista - [LOC]Garganchillo 9.pdf",
+    "url_drive": "https://drive.google.com/file/d/1cbGC-PSEEY0MaxBNUsSWRQbxMbFk6Bgc/view?usp=sharing"
   },
   {
     "id": "00171",
@@ -2936,7 +3105,8 @@
     "acceso": "visor_drive",
     "alcance_geografico": "BSAS",
     "extension": ".pdf",
-    "ruta_local": "Aves/Guias/ACUMAR - [BSAS] Guia Aves de la Cuenta Matanza Riachuelo.pdf"
+    "ruta_local": "Aves/Guias/ACUMAR - [BSAS] Guia Aves de la Cuenta Matanza Riachuelo.pdf",
+    "url_drive": "https://drive.google.com/file/d/1zSXc__deDmLGsKADRaHbWpHhSxK7RV7Y/view?usp=sharing"
   },
   {
     "id": "00172",
@@ -2954,7 +3124,8 @@
     "acceso": "visor_drive",
     "alcance_geografico": "ARG",
     "extension": ".pdf",
-    "ruta_local": "Aves/Guias/Arkive - [ARG] Guia Chorlos y Playeros.pdf"
+    "ruta_local": "Aves/Guias/Arkive - [ARG] Guia Chorlos y Playeros.pdf",
+    "url_drive": "https://drive.google.com/file/d/1LKWFMuOqspYNXldR4pSWaEAB9SfsrkST/view?usp=sharing"
   },
   {
     "id": "00173",
@@ -2972,7 +3143,8 @@
     "acceso": "visor_drive",
     "alcance_geografico": "LOC",
     "extension": ".pdf",
-    "ruta_local": "Aves/Guias/Asociacion Rivera Norte - [LOC] Guía aves platenses y del delta.pdf"
+    "ruta_local": "Aves/Guias/Asociacion Rivera Norte - [LOC] Guía aves platenses y del delta.pdf",
+    "url_drive": "https://drive.google.com/file/d/1R2EFhFYMTz7rMwrFWmgVps8eSbHTvr_C/view?usp=sharing"
   },
   {
     "id": "00174",
@@ -2990,7 +3162,8 @@
     "acceso": "visor_drive",
     "alcance_geografico": "SAM",
     "extension": ".pdf",
-    "ruta_local": "Aves/Guias/CARU - [SAM] Guia Aves del Rio Uruguay.pdf"
+    "ruta_local": "Aves/Guias/CARU - [SAM] Guia Aves del Rio Uruguay.pdf",
+    "url_drive": "https://drive.google.com/file/d/1FejZNR7_7EcaK-zs8dT07Fp2bW0AUfzd/view?usp=sharing"
   },
   {
     "id": "00175",
@@ -3009,7 +3182,8 @@
     "acceso": "visor_drive",
     "alcance_geografico": "LOC",
     "extension": ".pdf",
-    "ruta_local": "Aves/Guias/COA Carancho - [LOC] Guia Aves migratorias en la ciudad.pdf"
+    "ruta_local": "Aves/Guias/COA Carancho - [LOC] Guia Aves migratorias en la ciudad.pdf",
+    "url_drive": "https://drive.google.com/file/d/1B2zQV994JEgzgjgjsTKuZ6i2R7dnyiKp/view?usp=sharing"
   },
   {
     "id": "00176",
@@ -3027,7 +3201,8 @@
     "acceso": "visor_drive",
     "alcance_geografico": "LOC",
     "extension": ".jpg",
-    "ruta_local": "Aves/Guias/COA Centenario - [LOC] Guía Aves del Parque Centenario 1.jpg"
+    "ruta_local": "Aves/Guias/COA Centenario - [LOC] Guía Aves del Parque Centenario 1.jpg",
+    "url_drive": "https://drive.google.com/file/d/1dA1HuBdKRMDhJ_Vi0UV4sMBj4R9W-rou/view?usp=sharing"
   },
   {
     "id": "00177",
@@ -3045,7 +3220,8 @@
     "acceso": "visor_drive",
     "alcance_geografico": "LOC",
     "extension": ".jpg",
-    "ruta_local": "Aves/Guias/COA Centenario - [LOC] Guía Aves del Parque Centenario 2.jpg"
+    "ruta_local": "Aves/Guias/COA Centenario - [LOC] Guía Aves del Parque Centenario 2.jpg",
+    "url_drive": "https://drive.google.com/file/d/1ybp1vSIockWUavMmBULZsxF2TjUeA_d-/view?usp=sharing"
   },
   {
     "id": "00178",
@@ -3063,7 +3239,8 @@
     "acceso": "visor_drive",
     "alcance_geografico": "SAM",
     "extension": ".pdf",
-    "ruta_local": "Aves/Guias/Fundación Meri - [SAM] Guía del Flamenco y especies asociadas.pdf"
+    "ruta_local": "Aves/Guias/Fundación Meri - [SAM] Guía del Flamenco y especies asociadas.pdf",
+    "url_drive": "https://drive.google.com/file/d/1NUwVmNq_fiNVLj-9s-wZOSCnVakvabS8/view?usp=sharing"
   },
   {
     "id": "00179",
@@ -3079,7 +3256,8 @@
     "acceso": "visor_drive",
     "alcance_geografico": null,
     "extension": ".pdf",
-    "ruta_local": "Aves/Guias/guia - Procellariformes.pdf"
+    "ruta_local": "Aves/Guias/guia - Procellariformes.pdf",
+    "url_drive": "https://drive.google.com/file/d/1zkYecCYbryLCjwGVchL0Z5e4BrDG_P40/view?usp=sharing"
   },
   {
     "id": "00180",
@@ -3097,7 +3275,8 @@
     "acceso": "descarga",
     "alcance_geografico": "ARG",
     "extension": ".pdf",
-    "ruta_local": "Aves/Guias/López Lanus - [ARG]  Guía Audiornis Aves de Argentina .pdf"
+    "ruta_local": "Aves/Guias/López Lanus - [ARG]  Guía Audiornis Aves de Argentina .pdf",
+    "url_drive": "https://drive.google.com/file/d/1z8N8CxlLJY_A3BsFomPIudQC6C8espvv/view?usp=sharing"
   },
   {
     "id": "00181",
@@ -3115,7 +3294,8 @@
     "acceso": "visor_drive",
     "alcance_geografico": "LOC",
     "extension": ".pdf",
-    "ruta_local": "Aves/Guias/Márquez - [LOC] Aves porteñas.pdf"
+    "ruta_local": "Aves/Guias/Márquez - [LOC] Aves porteñas.pdf",
+    "url_drive": "https://drive.google.com/file/d/1dio_C817B0EIAy5w8xWjU-jPa8N_gLRL/view?usp=sharing"
   },
   {
     "id": "00182",
@@ -3135,7 +3315,8 @@
     "acceso": "visor_drive",
     "alcance_geografico": "SAM",
     "extension": ".pdf",
-    "ruta_local": "Aves/Guias/Petracci; Cannevari - [SAM] Guía aves marinas y migratorias sudamericanas.pdf"
+    "ruta_local": "Aves/Guias/Petracci; Cannevari - [SAM] Guía aves marinas y migratorias sudamericanas.pdf",
+    "url_drive": "https://drive.google.com/file/d/11oSsMju7QIvJno8BTCvIb9o7c9S0XXB5/view?usp=sharing"
   },
   {
     "id": "00183",
@@ -3153,7 +3334,8 @@
     "acceso": "visor_drive",
     "alcance_geografico": "ARG",
     "extension": ".pdf",
-    "ruta_local": "Aves/Guias/Savigny - [ARG] articulo Aves de la Argentina azul Pelagicas.pdf"
+    "ruta_local": "Aves/Guias/Savigny - [ARG] articulo Aves de la Argentina azul Pelagicas.pdf",
+    "url_drive": "https://drive.google.com/file/d/1wcxYBfQkJUi4jCtvJs7ygylE3a3rmLug/view?usp=sharing"
   },
   {
     "id": "00184",
@@ -3171,6 +3353,7 @@
     "acceso": "visor_drive",
     "alcance_geografico": null,
     "extension": ".pdf",
-    "ruta_local": "Aves/Guias/Sibley - Guide to Birds.pdf"
+    "ruta_local": "Aves/Guias/Sibley - Guide to Birds.pdf",
+    "url_drive": "https://drive.google.com/file/d/18RVcQ-NbxNPVs030AKcLELNtSK6SX-Wr/view?usp=sharing"
   }
 ]
