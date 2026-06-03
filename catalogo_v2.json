@@ -1002,7 +1002,7 @@
       "Camilloni",
       "Morrás"
     ],
-    "tema_principal": "legislación ambiental",
+    "tema_principal": "sin clasificar",
     "tipo": "libro",
     "etiquetas": [
       "Destinos y Áreas Protegidas"
@@ -3412,6 +3412,24 @@
   },
   {
     "id": "00189",
+    "titulo": "Erize; FVSA [ARG] El Gran Libro de la Naturaleza Argentina",
+    "autor": [
+      "Erize",
+      "FVSA"
+    ],
+    "tema_principal": "sin clasificar",
+    "tipo": "libro",
+    "etiquetas": [],
+    "coleccion": null,
+    "fuente": "local",
+    "acceso": "descarga",
+    "alcance_geografico": "ARG",
+    "extension": ".pdf",
+    "ruta_local": "Por clasificar/Erize; FVSA - [ARG] El Gran Libro de la Naturaleza Argentina.pdf",
+    "url_drive": "https://drive.google.com/file/d/1wv4ddldlG1buipP6AeclLv-6YmfuH53u/view?usp=sharing"
+  },
+  {
+    "id": "00190",
     "titulo": "Gasparri; Nigro [ARG] Libro Monumentos naturales",
     "autor": [
       "Gasparri",
@@ -3429,7 +3447,7 @@
     "url_drive": "https://drive.google.com/file/d/1_j_2TxIszIcDKQZ-iA26FZEumnsOHTwU/view?usp=sharing"
   },
   {
-    "id": "00190",
+    "id": "00191",
     "titulo": "Imbellone; Giménez; Panigatti [BSAS] Libro Suelos de la Región Pampeana. Procesos de Formación.",
     "autor": [
       "Imbellone",
@@ -3448,7 +3466,7 @@
     "url_drive": "https://drive.google.com/file/d/1tuJJmgJjZGrG4-I2Wslh2I5V2oBLngcR/view?usp=sharing"
   },
   {
-    "id": "00191",
+    "id": "00192",
     "titulo": "Mérida; Athor [BSAS] Libro Talares bonaerenses y su conservación",
     "autor": [
       "Mérida",
@@ -3466,7 +3484,7 @@
     "url_drive": "https://drive.google.com/file/d/1qLOzRHGQtO22LgMisLp_3DbkwkE0c9PN/view?usp=sharing"
   },
   {
-    "id": "00192",
+    "id": "00193",
     "titulo": "ROESLER; GABRIELA AGOSTINIInventario Vertebrados Punta Lara",
     "autor": [],
     "tema_principal": "sin clasificar",
@@ -3481,7 +3499,7 @@
     "url_drive": "https://drive.google.com/file/d/1eN4NWE4ngW6FFmS0D19_2ciRYKTQmjGj/view?usp=sharing"
   },
   {
-    "id": "00193",
+    "id": "00194",
     "titulo": "Roget [ARG] Guia del escritorio al campo Especies amenazadas",
     "autor": [
       "Roget"
@@ -3498,7 +3516,7 @@
     "url_drive": "https://drive.google.com/file/d/1g1I1bnQCMDr8PGSooHfR_JjO1vKbvYgA/view?usp=sharing"
   },
   {
-    "id": "00194",
+    "id": "00195",
     "titulo": "Smith [MUN] Libro Ecología",
     "autor": [
       "Smith"
@@ -3515,7 +3533,7 @@
     "url_drive": "https://drive.google.com/file/d/1x7_WAZgSg9jRe6VU9z5CsoXISeBhjZ-Q/view?usp=sharing"
   },
   {
-    "id": "00195",
+    "id": "00196",
     "titulo": "Svampa; Atonelli [ARG] Artículo Minería transnacional, narrativas del desarrollo y resistencias sociales",
     "autor": [
       "Svampa",
@@ -3533,7 +3551,7 @@
     "url_drive": "https://drive.google.com/file/d/1bjON9CZPWKA_37riLsMDRvQ1RCicEBRe/view?usp=sharing"
   },
   {
-    "id": "00196",
+    "id": "00197",
     "titulo": "Tazedjian; Guerreiro Martins [LOC] Guía de rastros de fauna de la ECAS",
     "autor": [
       "Tazedjian",
@@ -3551,7 +3569,7 @@
     "url_drive": "https://drive.google.com/file/d/1BXWshVmGESq8ssB5pIXax5bqoN7kTGmX/view?usp=sharing"
   },
   {
-    "id": "00197",
+    "id": "00198",
     "titulo": "Unión de Asambleas de Comunidades Chubutenses [ARG] Manual Hablemos de megaminería",
     "autor": [
       "Unión de Asambleas de Comunidades Chubutenses"
@@ -3568,7 +3586,7 @@
     "url_drive": "https://drive.google.com/file/d/1RCybiSd-bpb5ANy1kWO13v6CgQ6cj1ru/view?usp=sharing"
   },
   {
-    "id": "00198",
+    "id": "00199",
     "titulo": "Vida Silvestre [ARG] Guia del Escritorio al Campo 27 huellas del desierto",
     "autor": [
       "Vida Silvestre"
@@ -3585,7 +3603,7 @@
     "url_drive": "https://drive.google.com/file/d/10iWUNmMNnj_sV_8HSPcMQBV2gLK-aNhd/view?usp=sharing"
   },
   {
-    "id": "00199",
+    "id": "00200",
     "titulo": "Vivero Mun. San Isidro [ARG] ficha Tasi (Araujia hortorum)",
     "autor": [
       "Vivero Mun. San Isidro"
@@ -3604,7 +3622,7 @@
     "url_drive": "https://drive.google.com/file/d/1uxDuIPYZjX8QHnnlgSoRr0jAmEsZM-YN/view?usp=sharing"
   },
   {
-    "id": "00200",
+    "id": "00201",
     "titulo": "Vivero Mun. San Isidro [ARG] ficha Tayuyá (Cayaponia martiana)",
     "autor": [
       "Vivero Mun. San Isidro"
@@ -3623,7 +3641,7 @@
     "url_drive": "https://drive.google.com/file/d/17iFGfrEkTvdVX59tILS52brt0rDKCao4/view?usp=sharing"
   },
   {
-    "id": "00201",
+    "id": "00202",
     "titulo": "Vivero Mun. San Isidro [ARG] ficha Timbó Pacará (Enterolobium contortisiliquum)",
     "autor": [
       "Vivero Mun. San Isidro"
@@ -3642,7 +3660,7 @@
     "url_drive": "https://drive.google.com/file/d/10TpjKBVOJ3Vs7L1tOC9XjLUUYT4Wsw7V/view?usp=sharing"
   },
   {
-    "id": "00202",
+    "id": "00203",
     "titulo": "Vivero Mun. San Isidro [ARG] ficha Tres puntas (Herbertia lahue)",
     "autor": [
       "Vivero Mun. San Isidro"
@@ -3661,7 +3679,7 @@
     "url_drive": "https://drive.google.com/file/d/1SK9ZPuH066e0rtYZacJMBoCsriQMxnQG/view?usp=sharing"
   },
   {
-    "id": "00203",
+    "id": "00204",
     "titulo": "Vivero Mun. San Isidro [ARG] ficha Uña de gato (Macfadyena unguis cati)",
     "autor": [
       "Vivero Mun. San Isidro"
@@ -3680,7 +3698,7 @@
     "url_drive": "https://drive.google.com/file/d/15icw8bPKVZzjXbyIKfp9WSW5tb3Xu5Iq/view?usp=sharing"
   },
   {
-    "id": "00204",
+    "id": "00205",
     "titulo": "Vivero Mun. San Isidro [ARG] ficha Acacia mansa (Sesbania punicea)",
     "autor": [
       "Vivero Mun. San Isidro"
@@ -3699,7 +3717,7 @@
     "url_drive": "https://drive.google.com/file/d/1tfJ8tvDdShhxpJGoOSWko8wgQhYz0LJF/view?usp=sharing"
   },
   {
-    "id": "00205",
+    "id": "00206",
     "titulo": "Vivero Mun. San Isidro [ARG] ficha Achira amarilla (Canna glauca)",
     "autor": [
       "Vivero Mun. San Isidro"
@@ -3718,7 +3736,7 @@
     "url_drive": "https://drive.google.com/file/d/1d8uzYL2yc6PPSicZqToApunqix5AN9vv/view?usp=sharing"
   },
   {
-    "id": "00206",
+    "id": "00207",
     "titulo": "Vivero Mun. San Isidro [ARG] ficha Aguapé (Pontederia cordata)",
     "autor": [
       "Vivero Mun. San Isidro"
@@ -3737,7 +3755,7 @@
     "url_drive": "https://drive.google.com/file/d/16rs79pLGSptAI1VcEiFPkPh5Hc6fS2Ld/view?usp=sharing"
   },
   {
-    "id": "00207",
+    "id": "00208",
     "titulo": "Vivero Mun. San Isidro [ARG] ficha Anacahuita (Blepharocalyx salicisfolius)",
     "autor": [
       "Vivero Mun. San Isidro"
@@ -3756,7 +3774,7 @@
     "url_drive": "https://drive.google.com/file/d/1E5_02zj9i11oCgBIaWE86clsN8bMT530/view?usp=sharing"
   },
   {
-    "id": "00208",
+    "id": "00209",
     "titulo": "Vivero Mun. San Isidro [ARG] ficha Lirio celeste (Cypella coelestis)",
     "autor": [
       "Vivero Mun. San Isidro"
@@ -3775,7 +3793,7 @@
     "url_drive": "https://drive.google.com/file/d/13iN18CvYWL4HbItQ1vDWxcckcYXGogTm/view?usp=sharing"
   },
   {
-    "id": "00209",
+    "id": "00210",
     "titulo": "Vivero Mun. San Isidro [ARG] ficha Lirio del bajo (Cypella herbertii)",
     "autor": [
       "Vivero Mun. San Isidro"
@@ -3794,7 +3812,7 @@
     "url_drive": "https://drive.google.com/file/d/1X2I4iFgatUq9C-3CAQGCoqBSH0tHyFUg/view?usp=sharing"
   },
   {
-    "id": "00210",
+    "id": "00211",
     "titulo": "Vivero Mun. San Isidro [ARG] ficha Mariposa (Heteropteris glabra)",
     "autor": [
       "Vivero Mun. San Isidro"
@@ -3814,7 +3832,7 @@
     "url_drive": "https://drive.google.com/file/d/12ONuIgH6iyeYWy1l3sAUwku8qRePYgb9/view?usp=sharing"
   },
   {
-    "id": "00211",
+    "id": "00212",
     "titulo": "Vivero Mun. San Isidro [ARG] ficha Mburucuyá pasionaria (Passiflora caerulea)",
     "autor": [
       "Vivero Mun. San Isidro"
@@ -3833,7 +3851,7 @@
     "url_drive": "https://drive.google.com/file/d/1fk07t2mYsYoesyHoytDhxQwh-A-ZVb72/view?usp=sharing"
   },
   {
-    "id": "00212",
+    "id": "00213",
     "titulo": "Vivero Mun. San Isidro [ARG] ficha Mil hombres (Aristolochia triangularis)",
     "autor": [
       "Vivero Mun. San Isidro"
@@ -3852,7 +3870,7 @@
     "url_drive": "https://drive.google.com/file/d/1GyE30jdYe3VoCmqeCzUiP9jBkIJA6B3C/view?usp=sharing"
   },
   {
-    "id": "00213",
+    "id": "00214",
     "titulo": "Vivero Mun. San Isidro [ARG] ficha Patito, pajarito (Aristolochia fimbriata)",
     "autor": [
       "Vivero Mun. San Isidro"
@@ -3871,7 +3889,7 @@
     "url_drive": "https://drive.google.com/file/d/1KOYsNppvlQsmjowTE0JcahoBmEW2dqNt/view?usp=sharing"
   },
   {
-    "id": "00214",
+    "id": "00215",
     "titulo": "Vivero Mun. San Isidro [ARG] ficha Rosa de río (Hibiscus striatus)",
     "autor": [
       "Vivero Mun. San Isidro"
@@ -3890,7 +3908,7 @@
     "url_drive": "https://drive.google.com/file/d/16zCQXKyfl5Kf2eekVIYGNL25FV_DCAxj/view?usp=sharing"
   },
   {
-    "id": "00215",
+    "id": "00216",
     "titulo": "Vivero Mun. San Isidro [ARG] ficha Salvia (Salvia procurrens)",
     "autor": [
       "Vivero Mun. San Isidro"
@@ -3909,7 +3927,7 @@
     "url_drive": "https://drive.google.com/file/d/12dS_kcV41j9i4nRwvi66mY7Hd_kDLxt3/view?usp=sharing"
   },
   {
-    "id": "00216",
+    "id": "00217",
     "titulo": "Vivero Mun. San Isidro [ARG] ficha Azucenita (Zephyranthes candida)",
     "autor": [
       "Vivero Mun. San Isidro"
@@ -3928,7 +3946,7 @@
     "url_drive": "https://drive.google.com/file/d/1MRTJPDIcxqjQHClNgZoEqe8nHJEu9DHj/view?usp=sharing"
   },
   {
-    "id": "00217",
+    "id": "00218",
     "titulo": "Vivero Mun. San Isidro [ARG] ficha Canchalagua (Sisyrinchium platense)",
     "autor": [
       "Vivero Mun. San Isidro"
@@ -3947,7 +3965,7 @@
     "url_drive": "https://drive.google.com/file/d/1qVK3NpX9nlQJjkHfZRzPS6lTwg9jktD2/view?usp=sharing"
   },
   {
-    "id": "00218",
+    "id": "00219",
     "titulo": "Vivero Mun. San Isidro [ARG] ficha Caá ovetí (Solanum granuloso leprosum)",
     "autor": [
       "Vivero Mun. San Isidro"
@@ -3966,7 +3984,7 @@
     "url_drive": "https://drive.google.com/file/d/1gLdnBCpBjN9bp3ucflAFgh_EFjUpa6V4/view?usp=sharing"
   },
   {
-    "id": "00219",
+    "id": "00220",
     "titulo": "Vivero Mun. San Isidro [ARG] ficha Ceibo (Erythrina crista galli)",
     "autor": [
       "Vivero Mun. San Isidro"
@@ -3985,7 +4003,7 @@
     "url_drive": "https://drive.google.com/file/d/1VxTQL9hAOsAZAcwaiMt1giYMGB2LLMiH/view?usp=sharing"
   },
   {
-    "id": "00220",
+    "id": "00221",
     "titulo": "Vivero Mun. San Isidro [ARG] ficha Isipó colorado (Camptosema rubicundum)",
     "autor": [
       "Vivero Mun. San Isidro"
@@ -4004,7 +4022,7 @@
     "url_drive": "https://drive.google.com/file/d/1JFcdi5LsKgC_qkBiB-6DmnUNc_w1x4WM/view?usp=sharing"
   },
   {
-    "id": "00221",
+    "id": "00222",
     "titulo": "Vivero Mun. San Isidro [ARG] ficha Sangre de toro (Rivina humilis)",
     "autor": [
       "Vivero Mun. San Isidro"
@@ -4023,7 +4041,7 @@
     "url_drive": "https://drive.google.com/file/d/16fjHG-grZ-LauRwqz5H7Q0bUdNXMrqiy/view?usp=sharing"
   },
   {
-    "id": "00222",
+    "id": "00223",
     "titulo": "Vivero Mun. San Isidro [ARG] ficha Cola de caballo Huiñal (Equisetum giganteum)",
     "autor": [
       "Vivero Mun. San Isidro"
@@ -4042,7 +4060,7 @@
     "url_drive": "https://drive.google.com/file/d/14GWF2929qA3G7BPlxfh4a8jVPbpz4b8R/view?usp=sharing"
   },
   {
-    "id": "00223",
+    "id": "00224",
     "titulo": "Vivero Mun. San Isidro [ARG] ficha Coronillo (Scutia buxifolia)",
     "autor": [
       "Vivero Mun. San Isidro"
@@ -4061,7 +4079,7 @@
     "url_drive": "https://drive.google.com/file/d/1rVjWaAReSBGgcHFIunEPZBeRg4SZiq_R/view?usp=sharing"
   },
   {
-    "id": "00224",
+    "id": "00225",
     "titulo": "Vivero Mun. San Isidro [ARG] ficha Cuaresma (Tibouchina nitida)",
     "autor": [
       "Vivero Mun. San Isidro"
@@ -4080,7 +4098,7 @@
     "url_drive": "https://drive.google.com/file/d/1XqyXXmX6yIk7YyGLtCBtaykgvVl095ZP/view?usp=sharing"
   },
   {
-    "id": "00225",
+    "id": "00226",
     "titulo": "Vivero Mun. San Isidro [ARG] ficha Cucharero (Echinodorus grandiflorus)",
     "autor": [
       "Vivero Mun. San Isidro"
@@ -4099,7 +4117,7 @@
     "url_drive": "https://drive.google.com/file/d/1GfxDeDELOXxo888ef78ibFaC1wy_I1Wr/view?usp=sharing"
   },
   {
-    "id": "00226",
+    "id": "00227",
     "titulo": "Vivero Mun. San Isidro [ARG] ficha Espinillo (Acacia caven)",
     "autor": [
       "Vivero Mun. San Isidro"
@@ -4118,7 +4136,7 @@
     "url_drive": "https://drive.google.com/file/d/1fqJFoYZgFqZFdzErr8AJY8VAQJI4L5r2/view?usp=sharing"
   },
   {
-    "id": "00227",
+    "id": "00228",
     "titulo": "Vivero Mun. San Isidro [ARG] ficha Flor de nácar (Begonia cucullata)",
     "autor": [
       "Vivero Mun. San Isidro"
@@ -4137,7 +4155,7 @@
     "url_drive": "https://drive.google.com/file/d/1eH6HCxVY7MSFqcgjULDHFy3aPIZK6nCk/view?usp=sharing"
   },
   {
-    "id": "00228",
+    "id": "00229",
     "titulo": "Vivero Mun. San Isidro [ARG] ficha Flor de patito (Oncidium bifolium)",
     "autor": [
       "Vivero Mun. San Isidro"
@@ -4156,7 +4174,7 @@
     "url_drive": "https://drive.google.com/file/d/1JQS7-b57rewU_NfCr3xsSl9hHdTaGTe5/view?usp=sharing"
   },
   {
-    "id": "00229",
+    "id": "00230",
     "titulo": "Vivero Mun. San Isidro [ARG] ficha Flor de pitito (Tropaeolum pentaphyllum)",
     "autor": [
       "Vivero Mun. San Isidro"
@@ -4175,7 +4193,7 @@
     "url_drive": "https://drive.google.com/file/d/1u2_K_AGl9CzAcbhiNBgvsrwxbdMHVK47/view?usp=sharing"
   },
   {
-    "id": "00230",
+    "id": "00231",
     "titulo": "Nuñez Bustos [ARG] articulo Mariposa Bandera Argentina Biologia, ecologia y conservación en la Pcia de Bs As",
     "autor": [
       "Nuñez  Bustos"
@@ -4195,7 +4213,7 @@
     "url_drive": "https://drive.google.com/file/d/1ionJdgOgNA9UdM5dgtAZkbGbcAgDQ6bj/view?usp=sharing"
   },
   {
-    "id": "00231",
+    "id": "00232",
     "titulo": "Nuñez Bustos Guía del Escritorio al Campo Mariposas Misiones",
     "autor": [
       "Nuñez Bustos"
@@ -4215,7 +4233,7 @@
     "url_drive": "https://drive.google.com/file/d/1oCjO5Q0ynqAl3ofgOxGIOPS-sD9c-3xM/view?usp=sharing"
   },
   {
-    "id": "00232",
+    "id": "00233",
     "titulo": "Nuñez Bustos; Volkmann [ARG] Guía Mariposas Serranas Tomo 1",
     "autor": [
       "Nuñez Bustos",
@@ -4236,7 +4254,7 @@
     "url_drive": "https://drive.google.com/file/d/1WANyg2gUtQfJyOtrtjnL2zMTVMtivACy/view?usp=sharing"
   },
   {
-    "id": "00233",
+    "id": "00234",
     "titulo": "Nuñez Bustos; Volkmann [ARG] Guía Mariposas Serranas Tomo 2",
     "autor": [
       "Nuñez Bustos",
@@ -4257,7 +4275,7 @@
     "url_drive": "https://drive.google.com/file/d/1HS6L6BlO96mrOpCqzlLVQSCmsHBXHKtV/view?usp=sharing"
   },
   {
-    "id": "00234",
+    "id": "00235",
     "titulo": "Penco [ARG] entomologia Lepidóptera Argentina Parte I Castniidae",
     "autor": [
       "Penco"
@@ -4277,7 +4295,7 @@
     "url_drive": "https://drive.google.com/file/d/18vAEsmhLFAu9PXOwcrXe8ClVd5gljxxW/view?usp=sharing"
   },
   {
-    "id": "00235",
+    "id": "00236",
     "titulo": "Penco [ARG] entomologia catalogo Lepidóptera Argentina Parte IV Sematuridae & Uraniidae",
     "autor": [
       "Penco"
@@ -4297,7 +4315,7 @@
     "url_drive": "https://drive.google.com/file/d/1or6UbYAeDzK1xMSGSevqelZ-BELSWczR/view?usp=sharing"
   },
   {
-    "id": "00236",
+    "id": "00237",
     "titulo": "Penco; Di Iorio [ARG] Catalogo entomologia Lepidóptera Argentina Parte VII Papilionidae (2014)",
     "autor": [
       "Penco",
@@ -4318,7 +4336,7 @@
     "url_drive": "https://drive.google.com/file/d/1trfl667rI8L9-B-qt_tmcoWYuHrYTZka/view?usp=sharing"
   },
   {
-    "id": "00237",
+    "id": "00238",
     "titulo": "Reserva Natural del Pilar [BSAS] Guía de mariposas de la Reserva Natural Municipal del Pilar, parte 1",
     "autor": [
       "Reserva Natural del Pilar"
@@ -4338,7 +4356,7 @@
     "url_drive": "https://drive.google.com/file/d/12Bs0F8h_C8VFL4i3bJG8LIBRPydUrHt5/view?usp=sharing"
   },
   {
-    "id": "00238",
+    "id": "00239",
     "titulo": "Reserva Natural del Pilar [BSAS] Guía de mariposas de la Reserva Natural Municipal del Pilar, parte 2",
     "autor": [
       "Reserva Natural del Pilar"
@@ -4358,7 +4376,7 @@
     "url_drive": "https://drive.google.com/file/d/1bJueV_k5OedwSeT4HWLZ3etRAg6o_Cl_/view?usp=sharing"
   },
   {
-    "id": "00239",
+    "id": "00240",
     "titulo": "Bertonatti; Perez [ARG] Articulo mariposa bandera argentina",
     "autor": [
       "Bertonatti",
@@ -4379,7 +4397,7 @@
     "url_drive": "https://drive.google.com/file/d/13aFUcmrShV9zdqujo_-6A23MXtH19Xhd/view?usp=sharing"
   },
   {
-    "id": "00240",
+    "id": "00241",
     "titulo": "Buenos Aires Ciudad [LOC] Guia Las mariposas van a la escuela",
     "autor": [
       "Buenos Aires Ciudad"
@@ -4399,7 +4417,7 @@
     "url_drive": "https://drive.google.com/file/d/1Q_DM2le4owHoiLZT314s7E7BF07D3cCO/view?usp=sharing"
   },
   {
-    "id": "00241",
+    "id": "00242",
     "titulo": "Bustos Nuñez [LOC] entomologia Listado de Mariposas diurnas del Parque Costero del Sur Magdalena y Punta Indio Nuevos Temas",
     "autor": [
       "Bustos Nuñez"
@@ -4419,7 +4437,7 @@
     "url_drive": "https://drive.google.com/file/d/1l_wtRvLB45hOVotOp4L0jK3z-esLTswN/view?usp=sharing"
   },
   {
-    "id": "00242",
+    "id": "00243",
     "titulo": "Klimaitis [ARG] Guia Del escritorio al campo 85 Mariposas del litoral",
     "autor": [
       "Klimaitis"
@@ -4439,7 +4457,7 @@
     "url_drive": "https://drive.google.com/file/d/1aDrBdFgk-7EqUk--qcXFvUPCyfRojXRb/view?usp=sharing"
   },
   {
-    "id": "00243",
+    "id": "00244",
     "titulo": "Klimaitis; Moschione [ARG] libro Maravillas aladas de Argentina",
     "autor": [
       "Klimaitis",
@@ -4460,7 +4478,7 @@
     "url_drive": "https://drive.google.com/file/d/1KQzpmI9liUcg_BMxmrv7IcOjoWZic1qr/view?usp=sharing"
   },
   {
-    "id": "00244",
+    "id": "00245",
     "titulo": "MACN [BSAS] Lista ilustrada de mariposas y polillas del Parque Centenario",
     "autor": [
       "MACN"
@@ -4480,7 +4498,7 @@
     "url_drive": "https://drive.google.com/file/d/1nPssfpie29THDqU322x8y9oCdWsIubYs/view?usp=sharing"
   },
   {
-    "id": "00245",
+    "id": "00246",
     "titulo": "Ministerio de Ambiente PBA [BSAS] Cartilla Mariposas Bonaerenses",
     "autor": [
       "Ministerio de Ambiente PBA"
@@ -4500,7 +4518,7 @@
     "url_drive": "https://drive.google.com/file/d/12UDuOs_9GXlyUyG2JCjRLMclGU47Fiam/view?usp=sharing"
   },
   {
-    "id": "00246",
+    "id": "00247",
     "titulo": "Revista [ARG] CEAL Fauna Argentina 102 Los Chorlos CEAL",
     "autor": [],
     "tema_principal": "aves",
@@ -4517,7 +4535,7 @@
     "url_drive": "https://drive.google.com/file/d/1kjrLLckuuDsWoj_Ws687FPFt67AZf4xL/view?usp=sharing"
   },
   {
-    "id": "00247",
+    "id": "00248",
     "titulo": "Revista [ARG] CEAL Fauna Argentina 4 Garza Blanca",
     "autor": [],
     "tema_principal": "aves",
@@ -4534,7 +4552,7 @@
     "url_drive": "https://drive.google.com/file/d/1sgdMgymQe3R8cUHxXdR83VxYFi-G6H2o/view?usp=sharing"
   },
   {
-    "id": "00248",
+    "id": "00249",
     "titulo": "Revista [ARG] CEAL Fauna Argentina 81 El Macá común",
     "autor": [],
     "tema_principal": "aves",
@@ -4551,7 +4569,7 @@
     "url_drive": "https://drive.google.com/file/d/13EyHkutDsXhx7YwNum2nDzoxlnrj9-LE/view?usp=sharing"
   },
   {
-    "id": "00249",
+    "id": "00250",
     "titulo": "Revista [ARG] Fauna Argentina 106 Los Pecho Amarillos",
     "autor": [],
     "tema_principal": "aves",
@@ -4568,7 +4586,7 @@
     "url_drive": "https://drive.google.com/file/d/1lNQmS5BCsvsl79tX2l73REdTSVW2p9iY/view?usp=sharing"
   },
   {
-    "id": "00250",
+    "id": "00251",
     "titulo": "Revista [ARG] Fauna Argentina 63 El Pirincho",
     "autor": [],
     "tema_principal": "aves",
@@ -4585,7 +4603,7 @@
     "url_drive": "https://drive.google.com/file/d/1JLhwKHquywdk3vcA4Tcg-FdPTn2-Hwr6/view?usp=sharing"
   },
   {
-    "id": "00251",
+    "id": "00252",
     "titulo": "Revista [ARG]Garganchillo 5 Nueva serie",
     "autor": [],
     "tema_principal": "aves",
@@ -4603,7 +4621,7 @@
     "url_drive": "https://drive.google.com/file/d/14blOiUScdyiL-0MRLw8KAzgBlHUAL-7o/view?usp=sharing"
   },
   {
-    "id": "00252",
+    "id": "00253",
     "titulo": "Revista [ARG]Garganchillo 6 Nueva serie",
     "autor": [],
     "tema_principal": "aves",
@@ -4621,7 +4639,7 @@
     "url_drive": "https://drive.google.com/file/d/16wLCXzxr08M8paiu7uIJVhZU2P1gRfz_/view?usp=sharing"
   },
   {
-    "id": "00253",
+    "id": "00254",
     "titulo": "Revista [ARG]Garganchillo 6",
     "autor": [],
     "tema_principal": "aves",
@@ -4639,7 +4657,7 @@
     "url_drive": "https://drive.google.com/file/d/1QN-9FTZCdqCmQYTBE19prEYPsaO654hF/view?usp=sharing"
   },
   {
-    "id": "00254",
+    "id": "00255",
     "titulo": "Revista [ARG]Garganchillo 7 Nueva serie",
     "autor": [],
     "tema_principal": "aves",
@@ -4657,7 +4675,7 @@
     "url_drive": "https://drive.google.com/file/d/1Fn_lXRbNYnbKppKF8q5ncd_tSiitVCv6/view?usp=sharing"
   },
   {
-    "id": "00255",
+    "id": "00256",
     "titulo": "Revista [ARG]Garganchillo 7",
     "autor": [],
     "tema_principal": "aves",
@@ -4675,7 +4693,7 @@
     "url_drive": "https://drive.google.com/file/d/1R2z3YFaBhMOB-t4TBtGZcbykNDWaiKR1/view?usp=sharing"
   },
   {
-    "id": "00256",
+    "id": "00257",
     "titulo": "Revista [LOC]Garganchillo 1",
     "autor": [],
     "tema_principal": "aves",
@@ -4693,7 +4711,7 @@
     "url_drive": "https://drive.google.com/file/d/12ORM2NkNS-52CuaIaMyQZHh1tmblMWIz/view?usp=sharing"
   },
   {
-    "id": "00257",
+    "id": "00258",
     "titulo": "Revista [LOC]Garganchillo 10",
     "autor": [],
     "tema_principal": "aves",
@@ -4711,7 +4729,7 @@
     "url_drive": "https://drive.google.com/file/d/1NvSUsjpVgTTWDUY8JoOVnYWnnlPbqtTo/view?usp=sharing"
   },
   {
-    "id": "00258",
+    "id": "00259",
     "titulo": "Revista [LOC]Garganchillo 11",
     "autor": [],
     "tema_principal": "aves",
@@ -4729,7 +4747,7 @@
     "url_drive": "https://drive.google.com/file/d/1kkoAKMmhmBuIphUl1yGPzFwR-JRbqt7y/view?usp=sharing"
   },
   {
-    "id": "00259",
+    "id": "00260",
     "titulo": "Revista [LOC]Garganchillo 12",
     "autor": [],
     "tema_principal": "aves",
@@ -4747,7 +4765,7 @@
     "url_drive": "https://drive.google.com/file/d/1E3eG89juqerlylQIyhxtyejKrrkfLt2R/view?usp=sharing"
   },
   {
-    "id": "00260",
+    "id": "00261",
     "titulo": "Revista [LOC]Garganchillo 2",
     "autor": [],
     "tema_principal": "aves",
@@ -4765,7 +4783,7 @@
     "url_drive": "https://drive.google.com/file/d/1WsQgao0nX1jdLHEmd827N8M9-_n4ALvz/view?usp=sharing"
   },
   {
-    "id": "00261",
+    "id": "00262",
     "titulo": "Revista [LOC]Garganchillo 3",
     "autor": [],
     "tema_principal": "aves",
@@ -4783,7 +4801,7 @@
     "url_drive": "https://drive.google.com/file/d/1Mn9Biy8bUDAhAUyHBymFsi6qWZOhPnTm/view?usp=sharing"
   },
   {
-    "id": "00262",
+    "id": "00263",
     "titulo": "Revista [LOC]Garganchillo 4",
     "autor": [],
     "tema_principal": "aves",
@@ -4801,7 +4819,7 @@
     "url_drive": "https://drive.google.com/file/d/1N1yPape6K9SYyZTIx6kfg_CO3b_Dl5Qs/view?usp=sharing"
   },
   {
-    "id": "00263",
+    "id": "00264",
     "titulo": "Revista [LOC]Garganchillo 5",
     "autor": [],
     "tema_principal": "aves",
@@ -4819,7 +4837,7 @@
     "url_drive": "https://drive.google.com/file/d/1zvZL_sWObjvxcWCUsAw3DHehXyK654uA/view?usp=sharing"
   },
   {
-    "id": "00264",
+    "id": "00265",
     "titulo": "Revista [LOC]Garganchillo 8 Nueva serie",
     "autor": [],
     "tema_principal": "aves",
@@ -4837,7 +4855,7 @@
     "url_drive": "https://drive.google.com/file/d/1OI3PR7KDVVp4ikBAr84xZphyGiDFonAR/view?usp=sharing"
   },
   {
-    "id": "00265",
+    "id": "00266",
     "titulo": "Revista [LOC]Garganchillo 8",
     "autor": [],
     "tema_principal": "aves",
@@ -4855,7 +4873,7 @@
     "url_drive": "https://drive.google.com/file/d/1MhiUSpgcog1XUT4o1lZmgjZ6XCzd2NiH/view?usp=sharing"
   },
   {
-    "id": "00266",
+    "id": "00267",
     "titulo": "Revista [LOC]Garganchillo 9",
     "autor": [],
     "tema_principal": "aves",
@@ -4873,7 +4891,7 @@
     "url_drive": "https://drive.google.com/file/d/1cbGC-PSEEY0MaxBNUsSWRQbxMbFk6Bgc/view?usp=sharing"
   },
   {
-    "id": "00267",
+    "id": "00268",
     "titulo": "López Lanus [ARG] Guía Audiornis Aves de Argentina",
     "autor": [
       "López Lanus"
@@ -4892,7 +4910,7 @@
     "url_drive": "https://drive.google.com/file/d/1z8N8CxlLJY_A3BsFomPIudQC6C8espvv/view?usp=sharing"
   },
   {
-    "id": "00268",
+    "id": "00269",
     "titulo": "Moller Jensen; FVSA [LOC] Guía Del Escritorio al campo 131 Aves del sur de Entre Ríos",
     "autor": [
       "Moller Jensen",
@@ -4912,7 +4930,7 @@
     "url_drive": "https://drive.google.com/file/d/1M3XPJg1Z8comcpD2od1DgQ2sPguB_m3Q/view?usp=sharing"
   },
   {
-    "id": "00269",
+    "id": "00270",
     "titulo": "Márquez [LOC] Aves porteñas",
     "autor": [
       "Márquez"
@@ -4931,7 +4949,7 @@
     "url_drive": "https://drive.google.com/file/d/1dio_C817B0EIAy5w8xWjU-jPa8N_gLRL/view?usp=sharing"
   },
   {
-    "id": "00270",
+    "id": "00271",
     "titulo": "Pearman; Areta [ARG] Guia Birds of Argentina and the South west Atlantic",
     "autor": [
       "Pearman",
@@ -4951,7 +4969,7 @@
     "url_drive": "https://drive.google.com/file/d/1O1iBNIylwexZyFtdCBo2Da-Jj4iTQlAr/view?usp=sharing"
   },
   {
-    "id": "00271",
+    "id": "00272",
     "titulo": "Petracci; Cannevari [SAM] Guía aves marinas y migratorias sudamericanas",
     "autor": [
       "Petracci",
@@ -4972,7 +4990,7 @@
     "url_drive": "https://drive.google.com/file/d/11oSsMju7QIvJno8BTCvIb9o7c9S0XXB5/view?usp=sharing"
   },
   {
-    "id": "00272",
+    "id": "00273",
     "titulo": "Petracci; Doiny Cabré; Carrizo; Delhey [BSAS] Guía Aves del Parque de mayo y áreas verdes cercanas",
     "autor": [
       "Petracci",
@@ -4994,7 +5012,7 @@
     "url_drive": "https://drive.google.com/file/d/1bEwTdBSB0ctuyRRVZ3Ot36q4lx2sssCX/view?usp=sharing"
   },
   {
-    "id": "00273",
+    "id": "00274",
     "titulo": "Rabuffetti [ARG] Guia cartilla de identificacion de aves marinas",
     "autor": [
       "Rabuffetti [ARG]"
@@ -5013,7 +5031,7 @@
     "url_drive": "https://drive.google.com/file/d/18sa65i3QWuPAI8etH8DLdMVTz1GYTT4c/view?usp=sharing"
   },
   {
-    "id": "00274",
+    "id": "00275",
     "titulo": "Savigny [ARG] articulo Aves de la Argentina azul Pelagicas",
     "autor": [
       "Savigny"
@@ -5032,7 +5050,7 @@
     "url_drive": "https://drive.google.com/file/d/1wcxYBfQkJUi4jCtvJs7ygylE3a3rmLug/view?usp=sharing"
   },
   {
-    "id": "00275",
+    "id": "00276",
     "titulo": "Sibley Guide to Birds",
     "autor": [
       "Sibley"
@@ -5051,7 +5069,7 @@
     "url_drive": "https://drive.google.com/file/d/18RVcQ-NbxNPVs030AKcLELNtSK6SX-Wr/view?usp=sharing"
   },
   {
-    "id": "00276",
+    "id": "00277",
     "titulo": "Bertonatti; FVSA [ARG] Guia Escritorio al Campo 108 Aves de Patagonia II",
     "autor": [
       "Bertonatti",
@@ -5071,7 +5089,7 @@
     "url_drive": "https://drive.google.com/file/d/1x_XNrXbPoNmioUrT3mVLvImnJQXW0aVZ/view?usp=sharing"
   },
   {
-    "id": "00277",
+    "id": "00278",
     "titulo": "Ridgely; Tudor [SAM] Field Guide to the Songbirds of South America",
     "autor": [
       "Ridgely",
@@ -5091,7 +5109,7 @@
     "url_drive": "https://drive.google.com/file/d/1R8Cu6xvETkC6C3RM3xQjcnSJOwH_Mhh0/view?usp=sharing"
   },
   {
-    "id": "00278",
+    "id": "00279",
     "titulo": "ACUMAR [BSAS] Guia Aves de la Cuenta Matanza Riachuelo",
     "autor": [
       "ACUMAR"
@@ -5110,7 +5128,7 @@
     "url_drive": "https://drive.google.com/file/d/1zSXc__deDmLGsKADRaHbWpHhSxK7RV7Y/view?usp=sharing"
   },
   {
-    "id": "00279",
+    "id": "00280",
     "titulo": "Arkive [ARG] Guia Chorlos y Playeros",
     "autor": [
       "Arkive"
@@ -5129,7 +5147,7 @@
     "url_drive": "https://drive.google.com/file/d/1LKWFMuOqspYNXldR4pSWaEAB9SfsrkST/view?usp=sharing"
   },
   {
-    "id": "00280",
+    "id": "00281",
     "titulo": "Asociacion Rivera Norte [LOC] Guía aves platenses y del delta",
     "autor": [
       "Asociacion Rivera Norte"
@@ -5148,7 +5166,7 @@
     "url_drive": "https://drive.google.com/file/d/1R2EFhFYMTz7rMwrFWmgVps8eSbHTvr_C/view?usp=sharing"
   },
   {
-    "id": "00281",
+    "id": "00282",
     "titulo": "Bertonatti; FVSA [ARG] Guia del Escritorio al Campo Aves de la Patagonia I",
     "autor": [
       "Bertonatti",
@@ -5168,7 +5186,7 @@
     "url_drive": "https://drive.google.com/file/d/1ojJDVILveCY8TDlk6LzEWGWzLQk_ycpq/view?usp=sharing"
   },
   {
-    "id": "00282",
+    "id": "00283",
     "titulo": "Bertonatti; FVSA [LOC] Guia Del Escritorio al Campo99 Aves urbanas de Buenos Aires",
     "autor": [
       "Bertonatti",
@@ -5188,7 +5206,7 @@
     "url_drive": "https://drive.google.com/file/d/1NZtXfAwVPS3q387c3Mo9SHtaXe6QLGxW/view?usp=sharing"
   },
   {
-    "id": "00283",
+    "id": "00284",
     "titulo": "CARU [SAM] Guia Aves del Rio Uruguay",
     "autor": [
       "CARU"
@@ -5207,7 +5225,7 @@
     "url_drive": "https://drive.google.com/file/d/1FejZNR7_7EcaK-zs8dT07Fp2bW0AUfzd/view?usp=sharing"
   },
   {
-    "id": "00284",
+    "id": "00285",
     "titulo": "COA Centenario [LOC] Guía Aves del Parque Centenario 1",
     "autor": [
       "COA Centenario"
@@ -5226,7 +5244,7 @@
     "url_drive": "https://drive.google.com/file/d/1dA1HuBdKRMDhJ_Vi0UV4sMBj4R9W-rou/view?usp=sharing"
   },
   {
-    "id": "00285",
+    "id": "00286",
     "titulo": "COA Centenario [LOC] Guía Aves del Parque Centenario 2",
     "autor": [
       "COA Centenario"
@@ -5245,7 +5263,7 @@
     "url_drive": "https://drive.google.com/file/d/1ybp1vSIockWUavMmBULZsxF2TjUeA_d-/view?usp=sharing"
   },
   {
-    "id": "00286",
+    "id": "00287",
     "titulo": "Coria [BSAS] Guía Aves de la ciudad de Santiago del Estero. Especies comunes en la época estival",
     "autor": [
       "Coria"
@@ -5264,7 +5282,7 @@
     "url_drive": "https://drive.google.com/file/d/1NOz3bbWG3d2lTfk_uWW2HrpSHXsICud4/view?usp=sharing"
   },
   {
-    "id": "00287",
+    "id": "00288",
     "titulo": "Echevarria [ARG] Guía de aves de Humedales del NOA Embalse La Angostura Tafí",
     "autor": [
       "Echevarria"
@@ -5283,7 +5301,7 @@
     "url_drive": "https://drive.google.com/file/d/1oRgN0SjBICfrJ6pOeiyWaTxb-BOizLNG/view?usp=sharing"
   },
   {
-    "id": "00288",
+    "id": "00289",
     "titulo": "Elijo crecer [ARG] Guía Miniguía de aves de Tucumán",
     "autor": [
       "Elijo crecer"
@@ -5302,7 +5320,7 @@
     "url_drive": "https://drive.google.com/file/d/1ohl2nzxcNj1kGmIdocSEBjHdnJWH0HgI/view?usp=sharing"
   },
   {
-    "id": "00289",
+    "id": "00290",
     "titulo": "Fundación Meri [SAM] Guía del Flamenco y especies asociadas",
     "autor": [
       "Fundación Meri"
@@ -5321,7 +5339,7 @@
     "url_drive": "https://drive.google.com/file/d/1NUwVmNq_fiNVLj-9s-wZOSCnVakvabS8/view?usp=sharing"
   },
   {
-    "id": "00290",
+    "id": "00291",
     "titulo": "guia Procellariformes",
     "autor": [],
     "tema_principal": "aves",
@@ -5338,7 +5356,7 @@
     "url_drive": "https://drive.google.com/file/d/1zkYecCYbryLCjwGVchL0Z5e4BrDG_P40/view?usp=sharing"
   },
   {
-    "id": "00291",
+    "id": "00292",
     "titulo": "COA Carancho [LOC] Guia Aves migratorias en la ciudad",
     "autor": [
       "COA Carancho"
@@ -5358,7 +5376,7 @@
     "url_drive": "https://drive.google.com/file/d/1B2zQV994JEgzgjgjsTKuZ6i2R7dnyiKp/view?usp=sharing"
   },
   {
-    "id": "00292",
+    "id": "00293",
     "titulo": "Ibáñez Piedrahita Pinasco Homberg [ARG] Guía Aves del Área Protegida Parque Provincial Presidente Sarmiento, provincia de San Juan",
     "autor": [
       "Ibáñez_ Piedrahita_ Pinasco_ Homberg"
