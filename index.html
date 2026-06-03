@@ -4,6 +4,10 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Biblioteca Virtual COA La Plata</title>
+
+    
+
+
     <style>
         body {
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -210,7 +214,86 @@
         }
         .btn-local { background-color: #2e7d32; }
         .btn-web { background-color: #0288d1; }
+
+        /* ==========================================================================
+           📱 OPTIMIZACIÓN PARA MÓVILES (RESPONSIVE DESIGN)
+           ========================================================================== */
+        @media (max-width: 768px) {
+            /* 1. Encabezado adaptable */
+            header {
+                flex-direction: column;
+                gap: 15px;
+                padding: 15px;
+                text-align: center;
+            }
+            .logos-container {
+                gap: 15px;
+                justify-content: center;
+            }
+            .logo-coa { height: 65px !important; }
+            .logo-aves { height: 45px !important; }
+            header h1 { font-size: 20px; }
+
+            /* 2. Contenedor general con más aire */
+            .container { padding: 10px; }
+
+            /* 3. El buscador pasa de fila horizontal a columna vertical */
+            .search-box {
+                flex-direction: column;
+                gap: 8px;
+            }
+            #searchBar, #filtroTipo, #filtroGeo, #btnBuscar, #btnLimpiar {
+                width: 100%;
+                box-sizing: border-box;
+                font-size: 16px;
+            }
+            #btnLimpiar {
+                padding: 10px;
+                text-align: center;
+            }
+
+            /* 4. Pastillas de categorías fluidas */
+            .categorias-exploracion {
+                justify-content: center;
+            }
+            .btn-categoria {
+                font-size: 13px;
+                padding: 6px 10px;
+            }
+
+            /* 5. Botones de repositorios externos al 100% de ancho */
+            .links-group {
+                flex-direction: column;
+                gap: 8px;
+            }
+            .btn-link {
+                width: 100%;
+                box-sizing: border-box;
+                text-align: center;
+                padding: 10px;
+            }
+
+            /* 6. Filas del catálogo adaptables */
+            .item-row {
+                flex-direction: column;
+                align-items: stretch;
+                gap: 15px;
+                padding: 15px;
+            }
+            .item-meta {
+                flex-direction: column;
+                gap: 5px;
+            }
+            .btn-action {
+                display: block;
+                text-align: center;
+                padding: 10px;
+                font-size: 14px;
+            }
+        }
     </style>
+
+
 </head>
 <body>
 
@@ -252,6 +335,8 @@
                 <button class="btn-categoria" onclick="buscarCategoria('herpetología')">🐸 Herpetología</button>
                 <button class="btn-categoria" onclick="buscarCategoria('mamíferos')">🦊 Mamíferos</button>
                 <button class="btn-categoria" onclick="buscarCategoria('hongos')">🍄 Funga / Hongos</button>
+                <button class="btn-categoria" onclick="buscarCategoria('peces')">🐟 Peces</button>
+                <button class="btn-categoria" onclick="buscarCategoria('destinos y areas protegidas')">🗺️ Destinos y Áreas Protegidas</button>
                 <button class="btn-categoria" onclick="buscarCategoria('material didáctico')">🎒 Material didáctico</button>
                 <button class="btn-categoria" onclick="buscarCategoria('revista')">📚 Revistas y artículos</button>
             </div>
