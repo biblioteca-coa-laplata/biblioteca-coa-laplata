@@ -41,13 +41,14 @@ EXTENSIONES_VALIDAS = {
 TEMAS = {
     "aves": ["ave", "aves", "bird", "ornitologia", "ornitología"],
     "flora nativa": ["flora", "planta", "plantas", "nativa", "botanica", "botánica"],
-    "entomología": ["entomologia", "entomología", "insecto", "insectos", "mariposa", "mariposas", "lepidoptero", "lepidóptero", "lepidopteros", "lepidópteros"],
+    "entomología": ["entomologia", "entomología", "insecto", "insectos", "mariposa", "mariposas", "lepidoptero", "coleópteros", "lepidóptero", "lepidopteros", "lepidópteros", "chinches", "arañas","tarántulas"],
     "hongos": ["hongo", "hongos", "fungi", "funga"],
-    "mamíferos": ["mamifero", "mamífero", "mamiferos", "mamíferos"],
-    "anfibios": ["anfibio", "herpetologia", "herpetología", "ranas", "sapos", "anfibios"],
-    "reptiles": ["herpetología", "herpetologia", "serpeintes", "culebras", "lagartos", "lagartijas", "reptil", "reptiles"],
+    "mamíferos": ["mamifero", "mamífero", "mamiferos", "mamíferos", "ballenas", "cetáceos", "cetaceos", "roedores", "murcielagos", "murciélagos", "xenartros", "aguará guazú"],
+    "anfibios": ["anfibio", "herpetologia", "herpetología", "ranas", "sapos", "anfibios", "anphibians"],
+    "reptiles": ["herpetología", "herpetologia", "serpientes", "culebras", "lagartos", "lagartijas", "reptil", "reptiles"],
     "peces": ["pez", "peces"],
-    "legislación ambiental": ["ley", "legislacion", "legislación", "normativa", "ordenanza", "ambiente"]
+    "legislación ambiental": ["ley", "legislacion", "legislación", "normativa", "ordenanza", "ambiente"],
+    "destinos y áreas protegidas": ["__carpeta_destinos__"],
 }
 
 TIPOS = {
@@ -77,7 +78,8 @@ ETIQUETAS_CARPETAS = {
     "revista garganchillo": "El Garganchillo",
     "guias": "Guías",
     "fichas": "Fichas",
-    "material didactico": "Material Didáctico"
+    "material didactico": "Material Didáctico",
+    "destinos y areas protegidas": "Destinos y Áreas Protegidas"  # <- ¡Agregamos esta línea!
 }
 
 ALCANCE_GEOGRAFICO = {

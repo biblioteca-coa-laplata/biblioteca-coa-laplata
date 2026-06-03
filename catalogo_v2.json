@@ -4216,6 +4216,48 @@
   },
   {
     "id": "00232",
+    "titulo": "Nuñez Bustos; Volkmann [ARG] Guía Mariposas Serranas Tomo 1",
+    "autor": [
+      "Nuñez Bustos",
+      "Volkmann"
+    ],
+    "tema_principal": "entomología",
+    "tipo": "guía",
+    "etiquetas": [
+      "Mariposas",
+      "mariposas"
+    ],
+    "coleccion": null,
+    "fuente": "local",
+    "acceso": "visor_drive",
+    "alcance_geografico": "ARG",
+    "extension": ".pdf",
+    "ruta_local": "Entomología/Mariposas/Nuñez Bustos; Volkmann - [ARG] Guía  Mariposas Serranas Tomo 1.pdf",
+    "url_drive": "https://drive.google.com/file/d/1WANyg2gUtQfJyOtrtjnL2zMTVMtivACy/view?usp=sharing"
+  },
+  {
+    "id": "00233",
+    "titulo": "Nuñez Bustos; Volkmann [ARG] Guía Mariposas Serranas Tomo 2",
+    "autor": [
+      "Nuñez Bustos",
+      "Volkmann"
+    ],
+    "tema_principal": "entomología",
+    "tipo": "guía",
+    "etiquetas": [
+      "Mariposas",
+      "mariposas"
+    ],
+    "coleccion": null,
+    "fuente": "local",
+    "acceso": "descarga",
+    "alcance_geografico": "ARG",
+    "extension": ".pdf",
+    "ruta_local": "Entomología/Mariposas/Nuñez Bustos; Volkmann - [ARG] Guía  Mariposas Serranas Tomo 2.pdf",
+    "url_drive": "https://drive.google.com/file/d/1HS6L6BlO96mrOpCqzlLVQSCmsHBXHKtV/view?usp=sharing"
+  },
+  {
+    "id": "00234",
     "titulo": "Penco [ARG] entomologia Lepidóptera Argentina Parte I Castniidae",
     "autor": [
       "Penco"
@@ -4235,7 +4277,7 @@
     "url_drive": "https://drive.google.com/file/d/18vAEsmhLFAu9PXOwcrXe8ClVd5gljxxW/view?usp=sharing"
   },
   {
-    "id": "00233",
+    "id": "00235",
     "titulo": "Penco [ARG] entomologia catalogo Lepidóptera Argentina Parte IV Sematuridae & Uraniidae",
     "autor": [
       "Penco"
@@ -4255,7 +4297,7 @@
     "url_drive": "https://drive.google.com/file/d/1or6UbYAeDzK1xMSGSevqelZ-BELSWczR/view?usp=sharing"
   },
   {
-    "id": "00234",
+    "id": "00236",
     "titulo": "Penco; Di Iorio [ARG] Catalogo entomologia Lepidóptera Argentina Parte VII Papilionidae (2014)",
     "autor": [
       "Penco",
@@ -4276,7 +4318,7 @@
     "url_drive": "https://drive.google.com/file/d/1trfl667rI8L9-B-qt_tmcoWYuHrYTZka/view?usp=sharing"
   },
   {
-    "id": "00235",
+    "id": "00237",
     "titulo": "Reserva Natural del Pilar [BSAS] Guía de mariposas de la Reserva Natural Municipal del Pilar, parte 1",
     "autor": [
       "Reserva Natural del Pilar"
@@ -4296,7 +4338,7 @@
     "url_drive": "https://drive.google.com/file/d/12Bs0F8h_C8VFL4i3bJG8LIBRPydUrHt5/view?usp=sharing"
   },
   {
-    "id": "00236",
+    "id": "00238",
     "titulo": "Reserva Natural del Pilar [BSAS] Guía de mariposas de la Reserva Natural Municipal del Pilar, parte 2",
     "autor": [
       "Reserva Natural del Pilar"
@@ -4316,7 +4358,7 @@
     "url_drive": "https://drive.google.com/file/d/1bJueV_k5OedwSeT4HWLZ3etRAg6o_Cl_/view?usp=sharing"
   },
   {
-    "id": "00237",
+    "id": "00239",
     "titulo": "Bertonatti; Perez [ARG] Articulo mariposa bandera argentina",
     "autor": [
       "Bertonatti",
@@ -4337,7 +4379,7 @@
     "url_drive": "https://drive.google.com/file/d/13aFUcmrShV9zdqujo_-6A23MXtH19Xhd/view?usp=sharing"
   },
   {
-    "id": "00238",
+    "id": "00240",
     "titulo": "Buenos Aires Ciudad [LOC] Guia Las mariposas van a la escuela",
     "autor": [
       "Buenos Aires Ciudad"
@@ -4357,7 +4399,7 @@
     "url_drive": "https://drive.google.com/file/d/1Q_DM2le4owHoiLZT314s7E7BF07D3cCO/view?usp=sharing"
   },
   {
-    "id": "00239",
+    "id": "00241",
     "titulo": "Bustos Nuñez [LOC] entomologia Listado de Mariposas diurnas del Parque Costero del Sur Magdalena y Punta Indio Nuevos Temas",
     "autor": [
       "Bustos Nuñez"
@@ -4377,7 +4419,7 @@
     "url_drive": "https://drive.google.com/file/d/1l_wtRvLB45hOVotOp4L0jK3z-esLTswN/view?usp=sharing"
   },
   {
-    "id": "00240",
+    "id": "00242",
     "titulo": "Klimaitis [ARG] Guia Del escritorio al campo 85 Mariposas del litoral",
     "autor": [
       "Klimaitis"
@@ -4397,7 +4439,7 @@
     "url_drive": "https://drive.google.com/file/d/1aDrBdFgk-7EqUk--qcXFvUPCyfRojXRb/view?usp=sharing"
   },
   {
-    "id": "00241",
+    "id": "00243",
     "titulo": "Klimaitis; Moschione [ARG] libro Maravillas aladas de Argentina",
     "autor": [
       "Klimaitis",
@@ -4418,7 +4460,7 @@
     "url_drive": "https://drive.google.com/file/d/1KQzpmI9liUcg_BMxmrv7IcOjoWZic1qr/view?usp=sharing"
   },
   {
-    "id": "00242",
+    "id": "00244",
     "titulo": "MACN [BSAS] Lista ilustrada de mariposas y polillas del Parque Centenario",
     "autor": [
       "MACN"
@@ -4438,7 +4480,7 @@
     "url_drive": "https://drive.google.com/file/d/1nPssfpie29THDqU322x8y9oCdWsIubYs/view?usp=sharing"
   },
   {
-    "id": "00243",
+    "id": "00245",
     "titulo": "Ministerio de Ambiente PBA [BSAS] Cartilla Mariposas Bonaerenses",
     "autor": [
       "Ministerio de Ambiente PBA"
@@ -4456,48 +4498,6 @@
     "extension": ".pdf",
     "ruta_local": "Entomología/Mariposas/Ministerio de Ambiente PBA  - [BSAS] Cartilla  Mariposas Bonaerenses.pdf",
     "url_drive": "https://drive.google.com/file/d/12UDuOs_9GXlyUyG2JCjRLMclGU47Fiam/view?usp=sharing"
-  },
-  {
-    "id": "00244",
-    "titulo": "Nuñes Bustos; Volkmann [ARG] Guía Mariposas Serranas Tomo 1",
-    "autor": [
-      "Nuñes Bustos",
-      "Volkmann"
-    ],
-    "tema_principal": "entomología",
-    "tipo": "guía",
-    "etiquetas": [
-      "Mariposas",
-      "mariposas"
-    ],
-    "coleccion": null,
-    "fuente": "local",
-    "acceso": "visor_drive",
-    "alcance_geografico": "ARG",
-    "extension": ".pdf",
-    "ruta_local": "Entomología/Mariposas/Nuñes Bustos; Volkmann - [ARG] Guía  Mariposas Serranas Tomo 1.pdf",
-    "url_drive": "https://drive.google.com/file/d/1WANyg2gUtQfJyOtrtjnL2zMTVMtivACy/view?usp=sharing"
-  },
-  {
-    "id": "00245",
-    "titulo": "Nuñes Bustos; Volkmann [ARG] Guía Mariposas Serranas Tomo 2",
-    "autor": [
-      "Nuñes Bustos",
-      "Volkmann"
-    ],
-    "tema_principal": "entomología",
-    "tipo": "guía",
-    "etiquetas": [
-      "Mariposas",
-      "mariposas"
-    ],
-    "coleccion": null,
-    "fuente": "local",
-    "acceso": "descarga",
-    "alcance_geografico": "ARG",
-    "extension": ".pdf",
-    "ruta_local": "Entomología/Mariposas/Nuñes Bustos; Volkmann - [ARG] Guía  Mariposas Serranas Tomo 2.pdf",
-    "url_drive": "https://drive.google.com/file/d/1HS6L6BlO96mrOpCqzlLVQSCmsHBXHKtV/view?usp=sharing"
   },
   {
     "id": "00246",
