@@ -4472,11 +4472,11 @@
     ],
     "coleccion": null,
     "fuente": "local",
-    "acceso": "descarga",
+    "acceso": "visor_drive",
     "alcance_geografico": "ARG",
     "extension": ".pdf",
     "ruta_local": "Entomología/Mariposas/Nuñes Bustos; Volkmann - [ARG] Guía  Mariposas Serranas Tomo 1.pdf",
-    "url_drive": "https://drive.google.com/file/d/1LjKFQ8yTZU79hfGKiB9PcDNCLLYDyhNM/view?usp=sharing"
+    "url_drive": "https://drive.google.com/file/d/1WANyg2gUtQfJyOtrtjnL2zMTVMtivACy/view?usp=sharing"
   },
   {
     "id": "00245",
@@ -4497,7 +4497,7 @@
     "alcance_geografico": "ARG",
     "extension": ".pdf",
     "ruta_local": "Entomología/Mariposas/Nuñes Bustos; Volkmann - [ARG] Guía  Mariposas Serranas Tomo 2.pdf",
-    "url_drive": "https://drive.google.com/file/d/1oqAtgQxZPng7BrnKgJQir3ZRb9SbL5jm/view?usp=sharing"
+    "url_drive": "https://drive.google.com/file/d/1HS6L6BlO96mrOpCqzlLVQSCmsHBXHKtV/view?usp=sharing"
   },
   {
     "id": "00246",
