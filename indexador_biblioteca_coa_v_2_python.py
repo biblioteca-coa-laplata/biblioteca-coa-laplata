@@ -47,7 +47,8 @@ TEMAS = {
     "anfibios": ["anfibio", "herpetologia", "herpetología", "ranas", "sapos", "anfibios", "anphibians"],
     "reptiles": ["herpetología", "herpetologia", "serpientes", "culebras", "lagartos", "lagartijas", "reptil", "reptiles"],
     "peces": ["pez", "peces"],
-    "legislación ambiental": ["ley", "legislacion", "legislación", "normativa", "ordenanza", "ambiente"],
+    "legislación ambiental": ["ley", "legislacion", "legislación", "normativa", "ordenanza", " decreto ", " decretos ", " resolucion ", " resolución ", " resoluciones "],
+    "ecorregiones y ambientes": ["__carpeta_ambientes__"],
     "destinos y áreas protegidas": ["__carpeta_destinos__"],
 }
 
@@ -79,7 +80,8 @@ ETIQUETAS_CARPETAS = {
     "guias": "Guías",
     "fichas": "Fichas",
     "material didactico": "Material Didáctico",
-    "destinos y areas protegidas": "Destinos y Áreas Protegidas"  # <- ¡Agregamos esta línea!
+    "destinos y areas protegidas": "Destinos y Áreas Protegidas",  
+    "ecorregiones y ambientes": "Ecorregiones y Ambientes"         
 }
 
 ALCANCE_GEOGRAFICO = {
