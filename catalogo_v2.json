@@ -4958,6 +4958,26 @@
   },
   {
     "id": "00271",
+    "titulo": "Narosky; Yzurieta [ARG] Guía Aves Argentina Uruguay",
+    "autor": [
+      "Narosky",
+      "Yzurieta"
+    ],
+    "tema_principal": "aves",
+    "tipo": "guía",
+    "etiquetas": [
+      "Guías"
+    ],
+    "coleccion": null,
+    "fuente": "local",
+    "acceso": "descarga",
+    "alcance_geografico": "ARG",
+    "extension": ".pdf",
+    "ruta_local": "Aves/Guias/Narosky; Yzurieta - [ARG] Guía Aves Argentina Uruguay.pdf",
+    "url_drive": "https://drive.google.com/file/d/14m8daxu7QITV-WRt4IGu4rzEhfYwvj_4/view?usp=sharing"
+  },
+  {
+    "id": "00272",
     "titulo": "Pearman; Areta [ARG] Guia Birds of Argentina and the South west Atlantic",
     "autor": [
       "Pearman",
@@ -4977,7 +4997,7 @@
     "url_drive": "https://drive.google.com/file/d/1O1iBNIylwexZyFtdCBo2Da-Jj4iTQlAr/view?usp=sharing"
   },
   {
-    "id": "00272",
+    "id": "00273",
     "titulo": "Petracci; Cannevari [SAM] Guía aves marinas y migratorias sudamericanas",
     "autor": [
       "Petracci",
@@ -4998,7 +5018,7 @@
     "url_drive": "https://drive.google.com/file/d/11oSsMju7QIvJno8BTCvIb9o7c9S0XXB5/view?usp=sharing"
   },
   {
-    "id": "00273",
+    "id": "00274",
     "titulo": "Petracci; Doiny Cabré; Carrizo; Delhey [BSAS] Guía Aves del Parque de mayo y áreas verdes cercanas",
     "autor": [
       "Petracci",
@@ -5020,7 +5040,7 @@
     "url_drive": "https://drive.google.com/file/d/1bEwTdBSB0ctuyRRVZ3Ot36q4lx2sssCX/view?usp=sharing"
   },
   {
-    "id": "00274",
+    "id": "00275",
     "titulo": "Rabuffetti [ARG] Guia cartilla de identificacion de aves marinas",
     "autor": [
       "Rabuffetti [ARG]"
@@ -5039,7 +5059,7 @@
     "url_drive": "https://drive.google.com/file/d/18sa65i3QWuPAI8etH8DLdMVTz1GYTT4c/view?usp=sharing"
   },
   {
-    "id": "00275",
+    "id": "00276",
     "titulo": "Savigny [ARG] articulo Aves de la Argentina azul Pelagicas",
     "autor": [
       "Savigny"
@@ -5058,7 +5078,7 @@
     "url_drive": "https://drive.google.com/file/d/1wcxYBfQkJUi4jCtvJs7ygylE3a3rmLug/view?usp=sharing"
   },
   {
-    "id": "00276",
+    "id": "00277",
     "titulo": "Sibley Guide to Birds Aves",
     "autor": [
       "Sibley"
@@ -5077,7 +5097,7 @@
     "url_drive": "https://drive.google.com/file/d/18RVcQ-NbxNPVs030AKcLELNtSK6SX-Wr/view?usp=sharing"
   },
   {
-    "id": "00277",
+    "id": "00278",
     "titulo": "Bertonatti; FVSA [ARG] Guia Escritorio al Campo 108 Aves de Patagonia II",
     "autor": [
       "Bertonatti",
@@ -5097,7 +5117,7 @@
     "url_drive": "https://drive.google.com/file/d/1x_XNrXbPoNmioUrT3mVLvImnJQXW0aVZ/view?usp=sharing"
   },
   {
-    "id": "00278",
+    "id": "00279",
     "titulo": "Ridgely; Tudor [SAM] Field Guide to the Songbirds of South America",
     "autor": [
       "Ridgely",
@@ -5117,7 +5137,7 @@
     "url_drive": "https://drive.google.com/file/d/1R8Cu6xvETkC6C3RM3xQjcnSJOwH_Mhh0/view?usp=sharing"
   },
   {
-    "id": "00279",
+    "id": "00280",
     "titulo": "ACUMAR [BSAS] Guia Aves de la Cuenta Matanza Riachuelo",
     "autor": [
       "ACUMAR"
@@ -5136,7 +5156,7 @@
     "url_drive": "https://drive.google.com/file/d/1zSXc__deDmLGsKADRaHbWpHhSxK7RV7Y/view?usp=sharing"
   },
   {
-    "id": "00280",
+    "id": "00281",
     "titulo": "Arkive [ARG] Guia Chorlos y Playeros",
     "autor": [
       "Arkive"
@@ -5155,7 +5175,7 @@
     "url_drive": "https://drive.google.com/file/d/1LKWFMuOqspYNXldR4pSWaEAB9SfsrkST/view?usp=sharing"
   },
   {
-    "id": "00281",
+    "id": "00282",
     "titulo": "Asociacion Rivera Norte [LOC] Guía aves platenses y del delta",
     "autor": [
       "Asociacion Rivera Norte"
@@ -5174,7 +5194,7 @@
     "url_drive": "https://drive.google.com/file/d/1R2EFhFYMTz7rMwrFWmgVps8eSbHTvr_C/view?usp=sharing"
   },
   {
-    "id": "00282",
+    "id": "00283",
     "titulo": "Bertonatti; FVSA [ARG] Guia del Escritorio al Campo Aves de la Patagonia I",
     "autor": [
       "Bertonatti",
@@ -5194,7 +5214,7 @@
     "url_drive": "https://drive.google.com/file/d/1ojJDVILveCY8TDlk6LzEWGWzLQk_ycpq/view?usp=sharing"
   },
   {
-    "id": "00283",
+    "id": "00284",
     "titulo": "Bertonatti; FVSA [LOC] Guia Del Escritorio al Campo99 Aves urbanas de Buenos Aires",
     "autor": [
       "Bertonatti",
@@ -5214,7 +5234,7 @@
     "url_drive": "https://drive.google.com/file/d/1NZtXfAwVPS3q387c3Mo9SHtaXe6QLGxW/view?usp=sharing"
   },
   {
-    "id": "00284",
+    "id": "00285",
     "titulo": "CARU [SAM] Guia Aves del Rio Uruguay",
     "autor": [
       "CARU"
@@ -5233,7 +5253,7 @@
     "url_drive": "https://drive.google.com/file/d/1FejZNR7_7EcaK-zs8dT07Fp2bW0AUfzd/view?usp=sharing"
   },
   {
-    "id": "00285",
+    "id": "00286",
     "titulo": "COA Centenario [LOC] Guía Aves del Parque Centenario 1",
     "autor": [
       "COA Centenario"
@@ -5252,7 +5272,7 @@
     "url_drive": "https://drive.google.com/file/d/1dA1HuBdKRMDhJ_Vi0UV4sMBj4R9W-rou/view?usp=sharing"
   },
   {
-    "id": "00286",
+    "id": "00287",
     "titulo": "COA Centenario [LOC] Guía Aves del Parque Centenario 2",
     "autor": [
       "COA Centenario"
@@ -5271,7 +5291,7 @@
     "url_drive": "https://drive.google.com/file/d/1ybp1vSIockWUavMmBULZsxF2TjUeA_d-/view?usp=sharing"
   },
   {
-    "id": "00287",
+    "id": "00288",
     "titulo": "Coria [BSAS] Guía Aves de la ciudad de Santiago del Estero. Especies comunes en la época estival",
     "autor": [
       "Coria"
@@ -5290,7 +5310,7 @@
     "url_drive": "https://drive.google.com/file/d/1NOz3bbWG3d2lTfk_uWW2HrpSHXsICud4/view?usp=sharing"
   },
   {
-    "id": "00288",
+    "id": "00289",
     "titulo": "Echevarria [ARG] Guía de aves de Humedales del NOA Embalse La Angostura Tafí",
     "autor": [
       "Echevarria"
@@ -5309,7 +5329,7 @@
     "url_drive": "https://drive.google.com/file/d/1oRgN0SjBICfrJ6pOeiyWaTxb-BOizLNG/view?usp=sharing"
   },
   {
-    "id": "00289",
+    "id": "00290",
     "titulo": "Elijo crecer [ARG] Guía Miniguía de aves de Tucumán",
     "autor": [
       "Elijo crecer"
@@ -5328,7 +5348,7 @@
     "url_drive": "https://drive.google.com/file/d/1ohl2nzxcNj1kGmIdocSEBjHdnJWH0HgI/view?usp=sharing"
   },
   {
-    "id": "00290",
+    "id": "00291",
     "titulo": "Fundación Meri [SAM] Guía del Flamenco y especies asociadas",
     "autor": [
       "Fundación Meri"
@@ -5347,7 +5367,7 @@
     "url_drive": "https://drive.google.com/file/d/1NUwVmNq_fiNVLj-9s-wZOSCnVakvabS8/view?usp=sharing"
   },
   {
-    "id": "00291",
+    "id": "00292",
     "titulo": "guia Aves Procellariformes",
     "autor": [],
     "tema_principal": "aves",
@@ -5364,7 +5384,7 @@
     "url_drive": "https://drive.google.com/file/d/1zkYecCYbryLCjwGVchL0Z5e4BrDG_P40/view?usp=sharing"
   },
   {
-    "id": "00292",
+    "id": "00293",
     "titulo": "COA Carancho [LOC] Guia Aves migratorias en la ciudad",
     "autor": [
       "COA Carancho"
@@ -5384,7 +5404,7 @@
     "url_drive": "https://drive.google.com/file/d/1B2zQV994JEgzgjgjsTKuZ6i2R7dnyiKp/view?usp=sharing"
   },
   {
-    "id": "00293",
+    "id": "00294",
     "titulo": "Ibáñez Piedrahita Pinasco Homberg [ARG] Guía Aves del Área Protegida Parque Provincial Presidente Sarmiento, provincia de San Juan",
     "autor": [
       "Ibáñez_ Piedrahita_ Pinasco_ Homberg"
