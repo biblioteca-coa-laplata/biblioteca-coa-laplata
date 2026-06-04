@@ -523,6 +523,7 @@
 
     // Motor de búsqueda general cruzado e INTERSECTADO por todas las variables
     // Motor de búsqueda general unificado (Intersección limpia)
+    // Motor de búsqueda general unificado con exclusión inteligente para Miscelánea
     function ejecutarBusqueda() {
         const termino = normalizarTexto(searchBar.value);
         const tipoSel = filtroTipo.value;
@@ -538,10 +539,24 @@
                 const temaMatch = item.tema_principal ? normalizarTexto(item.tema_principal).includes(termino) : false;
                 const rutaMatch = item.ruta_local ? normalizarTexto(item.ruta_local).includes(termino) : false;
                 
-                // Si presionás "Miscelánea", hacemos que busque los que dicen "sin clasificar" o no tienen tema
+                // Si presionás "Miscelánea", hacemos el embudo residual estricto
                 if (termino === "sin clasificar") {
-                    textMatch = !item.tema_principal || normalizarTexto(item.tema_principal) === "sin clasificar";
+                    // Es potencialmente miscelánea si no tiene tema o dice "sin clasificar"
+                    const sinTema = !item.tema_principal || normalizarTexto(item.tema_principal) === "sin clasificar";
+                    
+                    // Verificamos si en tema o ruta ya figuran las carpetas nuevas oficiales
+                    const temaTexto = item.tema_principal ? normalizarTexto(item.tema_principal) : "";
+                    const rutaTexto = item.ruta_local ? normalizarTexto(item.ruta_local) : "";
+                    
+                    const yaClasificado = temaTexto.includes("destino") || 
+                                          rutaTexto.includes("destinos y areas protegidas") ||
+                                          temaTexto.includes("ambiente") || 
+                                          rutaTexto.includes("ecorregiones y ambientes");
+
+                    // Solo entra a Miscelánea si califica como sin tema Y NO está en las nuevas carpetas
+                    textMatch = sinTema && !yaClasificado;
                 } else {
+                    // ¡Acá está el rescate! Si es cualquier otra búsqueda, usa tu lógica general
                     textMatch = titMatch || autMatch || tagMatch || temaMatch || rutaMatch;
                 }
             }
