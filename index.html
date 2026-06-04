@@ -5,9 +5,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Biblioteca Virtual COA La Plata</title>
 
-    
-
-
     <style>
         body {
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -219,7 +216,6 @@
            📱 OPTIMIZACIÓN PARA MÓVILES (RESPONSIVE DESIGN)
            ========================================================================== */
         @media (max-width: 768px) {
-            /* 1. Encabezado adaptable */
             header {
                 flex-direction: column;
                 gap: 15px;
@@ -234,10 +230,8 @@
             .logo-aves { height: 45px !important; }
             header h1 { font-size: 20px; }
 
-            /* 2. Contenedor general con más aire */
             .container { padding: 10px; }
 
-            /* 3. El buscador pasa de fila horizontal a columna vertical */
             .search-box {
                 flex-direction: column;
                 gap: 8px;
@@ -252,7 +246,6 @@
                 text-align: center;
             }
 
-            /* 4. Pastillas de categorías fluidas */
             .categorias-exploracion {
                 justify-content: center;
             }
@@ -261,7 +254,6 @@
                 padding: 6px 10px;
             }
 
-            /* 5. Botones de repositorios externos al 100% de ancho */
             .links-group {
                 flex-direction: column;
                 gap: 8px;
@@ -273,7 +265,6 @@
                 padding: 10px;
             }
 
-            /* 6. Filas del catálogo adaptables */
             .item-row {
                 flex-direction: column;
                 align-items: stretch;
@@ -292,8 +283,6 @@
             }
         }
     </style>
-
-
 </head>
 <body>
 
@@ -329,16 +318,18 @@
         <div style="margin-bottom:20px;">
             <strong style="color:#2e7d32;">¿Qué podés encontrar en esta biblioteca?</strong>
             <div class="categorias-exploracion">
-                <button class="btn-categoria" onclick="buscarCategoria('aves')">🐦 Aves</button>
-                <button class="btn-categoria" onclick="buscarCategoria('plantas')">🌱 Plantas nativas</button>
-                <button class="btn-categoria" onclick="buscarCategoria('entomología')">🦋 Entomología</button>
-                <button class="btn-categoria" onclick="buscarCategoria('herpetología')">🐸 Herpetología</button>
-                <button class="btn-categoria" onclick="buscarCategoria('mamíferos')">🦊 Mamíferos</button>
-                <button class="btn-categoria" onclick="buscarCategoria('hongos')">🍄 Funga / Hongos</button>
-                <button class="btn-categoria" onclick="buscarCategoria('peces')">🐟 Peces</button>
-                <button class="btn-categoria" onclick="buscarCategoria('destinos y areas protegidas')">🗺️ Destinos y Áreas Protegidas</button>
-                <button class="btn-categoria" onclick="buscarCategoria('material didáctico')">🎒 Material didáctico</button>
-                <button class="btn-categoria" onclick="buscarCategoria('revista')">📚 Revistas y artículos</button>
+                <button class="btn-categoria" onclick="buscarCategoria('aves', event)">🐦 Aves</button>
+                <button class="btn-categoria" onclick="buscarCategoria('plantas', event)">🌱 Plantas nativas</button>
+                <button class="btn-categoria" onclick="buscarCategoria('entomologia', event)">🦋 Entomología</button>
+                <button class="btn-categoria" onclick="buscarCategoria('herpetologia', event)">🐸 Herpetología</button>
+                <button class="btn-categoria" onclick="buscarCategoria('mamiferos', event)">🦊 Mamíferos</button>
+                <button class="btn-categoria" onclick="buscarCategoria('hongos', event)">🍄 Funga / Hongos</button>
+                <button class="btn-categoria" onclick="buscarCategoria('peces', event)">🐟 Peces</button>
+                <button class="btn-categoria" onclick="buscarCategoria('destinos y areas protegidas', event)">🗺️ Destinos y Áreas Protegidas</button>
+                <button class="btn-categoria" onclick="buscarCategoria('ecorregiones y ambientes', event)">🏞️ Ecorregiones y Ambientes</button>
+                <button class="btn-categoria" onclick="buscarCategoria('didactico', event)">🎒 Material didáctico</button>
+                <button class="btn-categoria" onclick="buscarCategoria('revista', event)">📚 Revistas y artículos</button>
+                <button class="btn-categoria" onclick="buscarCategoria('sin clasificar', event)" style="border-color: #ffa726;">📦 Miscelánea / Otros</button>
             </div>
         </div>
         <h3>Consultas y Repositorios Externos</h3>
@@ -358,6 +349,7 @@
     let bibliotecaCompleta = [];
     let tiposUnicos = new Set();
     let alcancesUnicos = new Set();
+    let categoriaSeleccionada = "";
 
     // Diccionario de equivalencias idéntico al de tu script de Python
     const ALCANCE_GEOGRAFICO = {
@@ -396,10 +388,9 @@
                 bibliotecaCompleta.forEach(item => {
                     if (item.tipo) tiposUnicos.add(item.tipo);
                     
-                    // Buscamos la sigla en el JSON
                     const siglaGeo = item.alcance_geografico_decodificado || item.alcance_geografico || item.alcance;
                     if (siglaGeo && ALCANCE_GEOGRAFICO[siglaGeo]) {
-                        alcancesUnicos.add(siglaGeo); // Guardamos la sigla para filtrar de forma estricta
+                        alcancesUnicos.add(siglaGeo);
                     }
                 });
 
@@ -426,11 +417,9 @@
             if (e.key === 'Enter') ejecutarBusqueda();
         });
 
-        // Evento para eBird: Busca en Google para saltear el inicio de sesión
+        // Eventos para repositorios externos
         btnEbird.addEventListener('click', () => {
             const t = searchBar.value.trim();
-            // Si hay algo escrito en la barra (ej: "chingolo"), busca en Google agregando los modificadores
-            // Si la barra está vacía, te manda a la portada general de eBird Argentina
             const url = t ? `https://www.google.com/search?q=${encodeURIComponent(t)}+ebird+argentina` : 'https://ebird.org/argentina/home';
             window.open(url, '_blank');
         });
@@ -469,7 +458,6 @@
             const autoresStr = (item.autor && item.autor.length > 0) ? item.autor.join('; ') : 'Autor no especificado';
             const tagsStr = (item.etiquetas && item.etiquetas.length > 0) ? `🏷️ ${item.etiquetas.join(', ')}` : '';
             
-            // Decodificación de la sigla para el texto que va entre corchetes
             const siglaGeo = item.alcance_geografico_decodificado || item.alcance_geografico || item.alcance;
             const palabraGeo = ALCANCE_GEOGRAFICO[siglaGeo] || siglaGeo;
             const geoLabel = siglaGeo ? ` [${palabraGeo}]` : '';
@@ -504,9 +492,8 @@
         });
     }
 
-    // Función para llenar los filtros desplegables decodificando las siglas
+    // Función para llenar los filtros desplegables
     function poblarDesplegables() {
-        // Tipos
         Array.from(tiposUnicos).sort().forEach(tipo => {
             const opt = document.createElement('option');
             opt.value = tipo;
@@ -514,15 +501,14 @@
             filtroTipo.appendChild(opt);
         });
 
-        // Alcances Geográficos ordenados por el nombre legible
         const listaAlcancesOrdenada = Array.from(alcancesUnicos).map(sigla => {
             return { sigla: sigla, nombre: ALCANCE_GEOGRAFICO[sigla] || sigla };
         }).sort((a, b) => a.nombre.localeCompare(b.nombre));
 
         listaAlcancesOrdenada.forEach(alcance => {
             const opt = document.createElement('option');
-            opt.value = alcance.sigla; // Filtra internamente por la sigla (estricto)
-            opt.innerText = alcance.nombre; // Muestra la palabra legible ("Sudamérica")
+            opt.value = alcance.sigla;
+            opt.innerText = alcance.nombre;
             filtroGeo.appendChild(opt);
         });
     }
@@ -535,14 +521,15 @@
                   .replace(/[\u0300-\u036f]/g, "");
     }
 
-    // Motor de búsqueda general cruzado por todas las variables
+    // Motor de búsqueda general cruzado e INTERSECTADO por todas las variables
+    // Motor de búsqueda general unificado (Intersección limpia)
     function ejecutarBusqueda() {
         const termino = normalizarTexto(searchBar.value);
         const tipoSel = filtroTipo.value;
         const geoSel = filtroGeo.value;
 
         const resultadosFiltrados = bibliotecaCompleta.filter(item => {
-            // 1. Filtro por caja de texto libre
+            // 1. Filtro por caja de texto libre (Se alimenta de los botones o del teclado)
             let textMatch = true;
             if (termino !== "") {
                 const titMatch = normalizarTexto(item.titulo).includes(termino);
@@ -550,33 +537,64 @@
                 const tagMatch = item.etiquetas ? item.etiquetas.some(t => normalizarTexto(t).includes(termino)) : false;
                 const temaMatch = item.tema_principal ? normalizarTexto(item.tema_principal).includes(termino) : false;
                 const rutaMatch = item.ruta_local ? normalizarTexto(item.ruta_local).includes(termino) : false;
-                textMatch = titMatch || autMatch || tagMatch || temaMatch || rutaMatch;
+                
+                // Si presionás "Miscelánea", hacemos que busque los que dicen "sin clasificar" o no tienen tema
+                if (termino === "sin clasificar") {
+                    textMatch = !item.tema_principal || normalizarTexto(item.tema_principal) === "sin clasificar";
+                } else {
+                    textMatch = titMatch || autMatch || tagMatch || temaMatch || rutaMatch;
+                }
             }
 
-            // 2. Filtro estricto por tipo de documento
+            // 2. Filtro estricto por tipo de documento (Desplegable)
             const tipoMatch = !tipoSel || (item.tipo && item.tipo === tipoSel);
 
-            // 3. Filtro estricto por la sigla del alcance geográfico
+            // 3. Filtro estricto por la sigla del alcance geográfico (Desplegable)
             const itemSiglaGeo = item.alcance_geografico_decodificado || item.alcance_geografico || item.alcance;
             const geoMatch = !geoSel || (itemSiglaGeo && itemSiglaGeo === geoSel);
 
+            // Retorna solo si cumple la palabra clave Y los desplegables seleccionados
             return textMatch && tipoMatch && geoMatch;
         });
 
         renderBiblioteca(resultadosFiltrados);
     }
 
-    // Botones de exploración rápida
-    function buscarCategoria(categoria) {
+    // Botones de exploración rápida vinculados
+    // Botones de exploración rápida vinculados
+    // Botones de exploración rápida (Vuelven a usar tu lógica de texto libre)
+    function buscarCategoria(categoria, e) {
+        // Escribimos la palabra directamente en tu buscador como hacías antes
         searchBar.value = categoria;
+        
+        // Efecto visual para pintar el botón de verde
+        document.querySelectorAll('.btn-categoria').forEach(btn => {
+            btn.style.backgroundColor = "white";
+            btn.style.color = "#333";
+        });
+        if (e && e.currentTarget) {
+            e.currentTarget.style.backgroundColor = "#2e7d32";
+            e.currentTarget.style.color = "white";
+        }
+
         ejecutarBusqueda();
     }
 
-    // Limpiar todos los filtros y restablecer la vista
+    // Limpiar todos los filtros y restablecer la vista de fábrica
     function limpiarBusqueda() {
         searchBar.value = "";
         filtroTipo.value = "";
         filtroGeo.value = "";
+        categoriaSeleccionada = "";
+        
+        document.querySelectorAll('.btn-categoria').forEach(btn => {
+            btn.style.backgroundColor = "white";
+            btn.style.color = "#333";
+        });
+
         renderBiblioteca(bibliotecaCompleta);
     }
 </script>
+
+</body>
+</html>
