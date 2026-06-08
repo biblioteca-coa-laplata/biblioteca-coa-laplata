@@ -22,14 +22,6 @@ El sistema está diseñado de forma híbrida e inteligente para funcionar de man
 Cada vez que se incorpore nuevo material a la biblioteca física y se desee sincronizar con el sitio web, se debe seguir la siguiente secuencia establecida:
 
 ### Fase 1: Trabajo de Campo e Ingesta (Manual)
-
----
-
-## 📂 Flujo y Secuencia de Trabajo para Actualizaciones
-
-Cada vez que se incorpore nuevo material a la biblioteca física y se desee sincronizar con el sitio web, se debe seguir la siguiente secuencia establecida:
-
-### Fase 1: Trabajo de Campo e Ingesta (Manual)
 1. Conectar el disco **Seagate Expansion Drive**.
 2. Limpiar y renombrar los nuevos archivos PDF/imágenes utilizando el divisor `;` para separar múltiples coautores si los hubiera.
 3. Subir las copias de los nuevos documentos a sus carpetas correspondientes en la cuenta institucional de **Google Drive**.
