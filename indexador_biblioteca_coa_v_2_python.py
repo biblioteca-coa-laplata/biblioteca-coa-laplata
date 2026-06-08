@@ -39,15 +39,15 @@ EXTENSIONES_VALIDAS = {
 # =========================================================
 
 TEMAS = {
-    "aves": ["ave", "aves", "bird", "ornitologia", "ornitología"],
-    "flora nativa": ["flora", "planta", "plantas", "nativa", "botanica", "botánica"],
-    "entomología": ["entomologia", "entomología", "insecto", "insectos", "mariposa", "mariposas", "lepidoptero", "coleópteros", "lepidóptero", "lepidopteros", "lepidópteros", "chinches", "arañas","tarántulas"],
-    "hongos": ["hongo", "hongos", "fungi", "funga"],
-    "mamíferos": ["mamifero", "mamífero", "mamiferos", "mamíferos", "ballenas", "cetáceos", "cetaceos", "roedores", "murcielagos", "murciélagos", "xenartros", "aguará guazú"],
-    "anfibios": ["anfibio", "herpetologia", "herpetología", "ranas", "sapos", "anfibios", "anphibians"],
-    "reptiles": ["herpetología", "herpetologia", "serpientes", "culebras", "lagartos", "lagartijas", "reptil", "reptiles"],
-    "peces": ["pez", "peces"],
-    "legislación ambiental": ["ley", "legislacion", "legislación", "normativa", "ordenanza", " decreto ", " decretos ", " resolucion ", " resolución ", " resoluciones "],
+    "aves": [" ave ", " aves ", " bird ", " ornitologia ", " ornitología "],
+    "flora nativa": [" flora ", " planta ", " plantas ", " nativa ", " botanica ", " botánica "],
+    "entomología": [" entomologia ", " entomología ", " insecto ", " insectos ", " mariposa ", " mariposas ", " lepidoptero ", " coleópteros ", " lepidóptero ", " lepidopteros ", " lepidópteros ", " chinches ", " libélulas ", " libelulas " " arañas "," tarántulas "],
+    "hongos": [" hongo ", " hongos ", " fungi ", " funga "],
+    "mamíferos": [" mamifero ", " mamífero ", " mamiferos ", " mamíferos ", " ballenas ", " cetáceos ", " cetaceos ", " roedores ", " murcielagos ", " murciélagos ", " xenartros ", " aguará guazú "],
+    "anfibios": [" anfibio ", " herpetologia ", " herpetología ", " ranas ", " sapos ", " anfibios ", " anphibians "],
+    "reptiles": [" herpetología ", " herpetologia ", " serpientes ", " culebras ", " lagartos ", " lagartijas ", " reptil ", " reptiles "],
+    "peces": [" pez ", " peces "],
+    "legislación ambiental": [" ley ", " legislacion ", " legislación ", " normativa ", " ordenanza ", " decreto ", " decretos ", " resolucion ", " resolución ", " resoluciones "],
     "ecorregiones y ambientes": ["__carpeta_ambientes__"],
     "destinos y áreas protegidas": ["__carpeta_destinos__"],
 }
@@ -124,12 +124,32 @@ def limpiar_titulo(nombre_archivo):
     nombre = re.sub(r"\s+", " ", nombre)
     return nombre.strip()
 
-def detectar_tema(texto):
-    texto = normalizar(texto)
+def detectar_tema(ruta_relativa, texto_analisis):
+    # 1. PASADA POR CARPETA RAÍZ: Miramos el nombre de la carpeta madre
+    # .parts[0] nos da el primer elemento de la ruta (ej: "Aves", "Ecorregiones y Ambientes")
+    carpeta_raiz = normalizar(ruta_relativa.parts[0])
+    
+    if carpeta_raiz == "aves":
+        return "aves"
+    elif "ecorregiones" in carpeta_raiz or "ambientes" in carpeta_raiz:
+        return "ecorregiones y ambientes"
+    elif "destinos" in carpeta_raiz or "areas protegidas" in carpeta_raiz:
+        return "destinos y áreas protegidas"
+    elif "legislacion" in carpeta_raiz or "normativa" in carpeta_raiz:
+        return "legislación ambiental"
+    
+    # 2. PASADA POR DICCIONARIO (Red de seguridad):
+    # Si la carpeta es "sin clasificar", "miscelanea", "otros" o está suelto en la raíz,
+    # usamos tu heurística original de palabras clave.
+    texto_normalizado = normalizar(texto_analisis)
     for tema, palabras in TEMAS.items():
+        # Saltamos las marcas de posición que tenías en el diccionario antiguo
+        if "__carpeta_" in "".join(palabras):
+            continue
         for palabra in palabras:
-            if palabra in texto:
+            if palabra in texto_normalizado:
                 return tema
+                
     return "sin clasificar"
 
 def detectar_tipo(texto):
@@ -235,7 +255,7 @@ for archivo in RUTA_BIBLIOTECA.rglob("*"):
 
     # Extracción de metadatos heurísticos
     titulo = limpiar_titulo(archivo)
-    tema = detectar_tema(texto_analisis)
+    tema = detectar_tema(ruta_relativa, texto_analisis)
     tipo = detectar_tipo(texto_analisis)
     etiquetas = detectar_etiquetas(texto_analisis)
     coleccion = detectar_coleccion(texto_analisis)
