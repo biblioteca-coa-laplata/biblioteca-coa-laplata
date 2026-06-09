@@ -47,6 +47,7 @@
             margin: 0 auto;
             padding: 20px;
         }
+
         .search-box {
             display: flex;
             gap: 10px;
@@ -156,6 +157,64 @@
         .bg-ebird { background-color: #2b579a; }
         .bg-aves { background-color: #555555; }
 
+        /* ==========================================================================
+           🔥 NUEVO DISEÑO COMPACTO PARA EL PANEL DE NOVEDADES (TIPO FILAS LARGAS)
+           ========================================================================== */
+        .seccion-novedades {
+            background-color: #fffde7;
+            border: 2px dashed #fbc02d;
+            padding: 20px;
+            border-radius: 8px;
+            margin-bottom: 25px;
+            box-shadow: 0 2px 8px rgba(251, 192, 45, 0.12);
+        }
+        .seccion-novedades h2 {
+            margin-top: 0;
+            margin-bottom: 15px;
+            color: #f57f17;
+            font-size: 18px;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+        .lista-novedades-compacta {
+            display: flex;
+            flex-direction: column;
+            gap: 10px;
+        }
+        .fila-novedad {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            background: white;
+            padding: 12px 20px;
+            border-radius: 4px;
+            border-left: 5px solid #fbc02d; /* Distintivo dorado para la novedad */
+            box-shadow: 0 1px 3px rgba(0,0,0,0.03);
+        }
+        .fila-novedad h3 {
+            margin: 0 0 5px 0;
+            font-size: 16px;
+            color: #333;
+        }
+        .btn-novedad {
+            padding: 8px 15px;
+            background-color: #fbc02d;
+            color: #5d4037;
+            text-decoration: none;
+            font-size: 13px;
+            font-weight: bold;
+            border-radius: 4px;
+            transition: background 0.2s;
+            white-space: nowrap;
+        }
+        .btn-novedad:hover {
+            background-color: #f9a825;
+        }
+
+        /* ==========================================================================
+           ESTILOS DEL LISTADO GENERAL
+           ========================================================================== */
         #infoCount {
             font-weight: bold;
             margin-bottom: 15px;
@@ -208,13 +267,11 @@
             font-weight: bold;
             border-radius: 4px;
             color: white;
+            white-space: nowrap;
         }
         .btn-local { background-color: #2e7d32; }
         .btn-web { background-color: #0288d1; }
 
-        /* ==========================================================================
-           📱 OPTIMIZACIÓN PARA MÓVILES (RESPONSIVE DESIGN)
-           ========================================================================== */
         @media (max-width: 768px) {
             header {
                 flex-direction: column;
@@ -265,7 +322,7 @@
                 padding: 10px;
             }
 
-            .item-row {
+            .fila-novedad, .item-row {
                 flex-direction: column;
                 align-items: stretch;
                 gap: 15px;
@@ -275,7 +332,7 @@
                 flex-direction: column;
                 gap: 5px;
             }
-            .btn-action {
+            .btn-novedad, .btn-action {
                 display: block;
                 text-align: center;
                 padding: 10px;
@@ -295,6 +352,7 @@
 </header>
 
 <div class="container">
+    
     <div class="search-box">
         <input
             type="text"
@@ -340,18 +398,21 @@
         </div>
     </div>
 
+    <div id="panelNovedades" class="seccion-novedades" style="display: none;">
+        <h2>✨ Últimas Incorporaciones a la Biblioteca</h2>
+        <div id="listaNovedades" class="lista-novedades-compacta"></div>
+    </div>
+
     <div id="infoCount">Cargando biblioteca...</div>
     <div id="catalogoList"></div>
 </div>
 
 <script>
-    // Variables globales que manejan los datos
     let bibliotecaCompleta = [];
     let tiposUnicos = new Set();
     let alcancesUnicos = new Set();
     let categoriaSeleccionada = "";
 
-    // Diccionario de equivalencias idéntico al de tu script de Python
     const ALCANCE_GEOGRAFICO = {
         "LOC": "Local / Regional",
         "SAM": "Sudamérica",
@@ -360,7 +421,6 @@
         "MUN": "Mundial"
     };
 
-    // Elementos del DOM
     const listElement = document.getElementById('catalogoList');
     const infoCount = document.getElementById('infoCount');
     const searchBar = document.getElementById('searchBar');
@@ -369,12 +429,13 @@
     const btnBuscar = document.getElementById('btnBuscar');
     const btnLimpiar = document.getElementById('btnLimpiar');
 
-    // Elementos de Repositorios Externos
     const btnEbird = document.getElementById('btnEbird');
     const btnHornero = document.getElementById('btnHornero');
     const btnNuestrasAves = document.getElementById('btnNuestrasAves');
 
-    // Cargar la biblioteca al iniciar la página apuntando a catalogo_v2.json
+    const panelNovedades = document.getElementById('panelNovedades');
+    const listaNovedades = document.getElementById('listaNovedades');
+
     document.addEventListener("DOMContentLoaded", () => {
         fetch('catalogo_v2.json')
             .then(response => {
@@ -384,7 +445,6 @@
             .then(data => {
                 bibliotecaCompleta = data;
                 
-                // Extraer valores únicos para los desplegables
                 bibliotecaCompleta.forEach(item => {
                     if (item.tipo) tiposUnicos.add(item.tipo);
                     
@@ -394,8 +454,8 @@
                     }
                 });
 
-                // Inicializar la interfaz
                 poblarDesplegables();
+                verificarYRenderizarNovedades(); 
                 renderBiblioteca(bibliotecaCompleta);
                 asignarEventos();
             })
@@ -405,7 +465,52 @@
             });
     });
 
-    // Escuchar interacciones del usuario
+    // 🛠️ FUNCIÓN CONVERTIDA: Renderiza las novedades en formato lineal prolijo
+    function verificarYRenderizarNovedades() {
+        listaNovedades.innerHTML = "";
+        
+        const novedades = bibliotecaCompleta.filter(item => item.titulo && item.titulo.startsWith("✨"));
+        
+        if (novedades.length === 0) {
+            panelNovedades.style.display = "none"; 
+            return;
+        }
+        
+        panelNovedades.style.display = "block";
+        
+        novedades.forEach(item => {
+            const fila = document.createElement('div');
+            fila.className = "fila-novedad";
+            
+            const autoresStr = (item.autor && item.autor.length > 0) ? item.autor.join('; ') : 'Autor no especificado';
+            const siglaGeo = item.alcance_geografico_decodificado || item.alcance_geografico || item.alcance;
+            const palabraGeo = ALCANCE_GEOGRAFICO[siglaGeo] || siglaGeo;
+            const geoLabel = siglaGeo ? ` [${palabraGeo}]` : '';
+
+            let urlDestino = "";
+            if (item.fuente === "local") {
+                urlDestino = item.url_drive ? item.url_drive : `/Biblioteca COA La Plata/${item.ruta_local || item.archivo}`;
+            } else {
+                urlDestino = item.ruta_externa || item.ruta_local;
+            }
+            
+            fila.innerHTML = `
+                <div>
+                    <h3>${item.titulo}</h3>
+                    <div class="item-meta">
+                        <span>✍️ <strong>Autores:</strong> ${autoresStr}</span>
+                        <span>📄 <strong>Tipo:</strong> ${(item.tipo || 'DOCUMENTO').toUpperCase()}${geoLabel}</span>
+                        <span>🧭 <strong>Tema:</strong> ${item.tema_principal || 'Sin clasificar'}</span>
+                    </div>
+                </div>
+                <a href="${urlDestino}" target="_blank" class="btn-novedad">
+                    👁️ Ver Ingreso Reciente
+                </a>
+            `;
+            listaNovedades.appendChild(fila);
+        });
+    }
+
     function asignarEventos() {
         btnBuscar.addEventListener('click', ejecutarBusqueda);
         btnLimpiar.addEventListener('click', limpiarBusqueda);
@@ -417,7 +522,6 @@
             if (e.key === 'Enter') ejecutarBusqueda();
         });
 
-        // Eventos para repositorios externos
         btnEbird.addEventListener('click', () => {
             const t = searchBar.value.trim();
             const url = t ? `https://www.google.com/search?q=${encodeURIComponent(t)}+ebird+argentina` : 'https://ebird.org/argentina/home';
@@ -437,7 +541,6 @@
         });
     }
 
-    // Función para dibujar los elementos en la pantalla
     function renderBiblioteca(items) {
         listElement.innerHTML = "";
         
@@ -492,7 +595,6 @@
         });
     }
 
-    // Función para llenar los filtros desplegables
     function poblarDesplegables() {
         Array.from(tiposUnicos).sort().forEach(tipo => {
             const opt = document.createElement('option');
@@ -513,24 +615,20 @@
         });
     }
 
-    // Normalizar cadenas de texto (quitar acentos y mayúsculas)
     function normalizarTexto(txt) {
         if (!txt) return "";
         return txt.toLowerCase()
                   .normalize("NFD")
-                  .replace(/[\u0300-\u036f]/g, "");
+                  .replace(/[\u0300-\u036f]/g, "")
+                  .replace(/✨/g, "").trim(); 
     }
 
-    // Motor de búsqueda general cruzado e INTERSECTADO por todas las variables
-    // Motor de búsqueda general unificado (Intersección limpia)
-    // Motor de búsqueda general unificado con exclusión inteligente para Miscelánea
     function ejecutarBusqueda() {
         const termino = normalizarTexto(searchBar.value);
         const tipoSel = filtroTipo.value;
         const geoSel = filtroGeo.value;
 
         const resultadosFiltrados = bibliotecaCompleta.filter(item => {
-            // 1. Filtro por caja de texto libre (Se alimenta de los botones o del teclado)
             let textMatch = true;
             if (termino !== "") {
                 const titMatch = normalizarTexto(item.titulo).includes(termino);
@@ -539,12 +637,8 @@
                 const temaMatch = item.tema_principal ? normalizarTexto(item.tema_principal).includes(termino) : false;
                 const rutaMatch = item.ruta_local ? normalizarTexto(item.ruta_local).includes(termino) : false;
                 
-                // Si presionás "Miscelánea", hacemos el embudo residual estricto
                 if (termino === "sin clasificar") {
-                    // Es potencialmente miscelánea si no tiene tema o dice "sin clasificar"
                     const sinTema = !item.tema_principal || normalizarTexto(item.tema_principal) === "sin clasificar";
-                    
-                    // Verificamos si en tema o ruta ya figuran las carpetas nuevas oficiales
                     const temaTexto = item.tema_principal ? normalizarTexto(item.tema_principal) : "";
                     const rutaTexto = item.ruta_local ? normalizarTexto(item.ruta_local) : "";
                     
@@ -553,36 +647,25 @@
                                           temaTexto.includes("ambiente") || 
                                           rutaTexto.includes("ecorregiones y ambientes");
 
-                    // Solo entra a Miscelánea si califica como sin tema Y NO está en las nuevas carpetas
                     textMatch = sinTema && !yaClasificado;
                 } else {
-                    // ¡Acá está el rescate! Si es cualquier otra búsqueda, usa tu lógica general
                     textMatch = titMatch || autMatch || tagMatch || temaMatch || rutaMatch;
                 }
             }
 
-            // 2. Filtro estricto por tipo de documento (Desplegable)
             const tipoMatch = !tipoSel || (item.tipo && item.tipo === tipoSel);
-
-            // 3. Filtro estricto por la sigla del alcance geográfico (Desplegable)
             const itemSiglaGeo = item.alcance_geografico_decodificado || item.alcance_geografico || item.alcance;
             const geoMatch = !geoSel || (itemSiglaGeo && itemSiglaGeo === geoSel);
 
-            // Retorna solo si cumple la palabra clave Y los desplegables seleccionados
             return textMatch && tipoMatch && geoMatch;
         });
 
         renderBiblioteca(resultadosFiltrados);
     }
 
-    // Botones de exploración rápida vinculados
-    // Botones de exploración rápida vinculados
-    // Botones de exploración rápida (Vuelven a usar tu lógica de texto libre)
     function buscarCategoria(categoria, e) {
-        // Escribimos la palabra directamente en tu buscador como hacías antes
         searchBar.value = categoria;
         
-        // Efecto visual para pintar el botón de verde
         document.querySelectorAll('.btn-categoria').forEach(btn => {
             btn.style.backgroundColor = "white";
             btn.style.color = "#333";
@@ -595,7 +678,6 @@
         ejecutarBusqueda();
     }
 
-    // Limpiar todos los filtros y restablecer la vista de fábrica
     function limpiarBusqueda() {
         searchBar.value = "";
         filtroTipo.value = "";
