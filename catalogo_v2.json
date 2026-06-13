@@ -373,7 +373,7 @@
   },
   {
     "id": "00021",
-    "titulo": "✨ IBAÑEZ; GIRINI; PALACIO; MONTALTI [BSAS] Artículo Nidificación y alimentación de psittácidos introducidos en el noreste de la provincia de Buenos Aires",
+    "titulo": "IBAÑEZ; GIRINI; PALACIO; MONTALTI [BSAS] Artículo Nidificación y alimentación de psittácidos introducidos en el noreste de la provincia de Buenos Aires",
     "autor": [
       "IBAÑEZ",
       "GIRINI",
@@ -924,29 +924,6 @@
   },
   {
     "id": "00050",
-    "titulo": "Contreras; Agnolin; Davies; Godoy; Giacchino [ARG] Libro atlas ornitogeografico formosa no aves passeriformes",
-    "autor": [
-      "Contreras",
-      "Agnolin",
-      "Davies",
-      "Godoy",
-      "Giacchino"
-    ],
-    "tema_principal": "aves",
-    "tipo": "libro",
-    "etiquetas": [
-      "aves"
-    ],
-    "coleccion": null,
-    "fuente": "local",
-    "acceso": "visor_drive",
-    "alcance_geografico": "ARG",
-    "extension": ".pdf",
-    "ruta_local": "Aves/Contreras; Agnolin; Davies; Godoy; Giacchino - [ARG] Libro\natlas ornitogeografico formosa  no aves passeriformes.pdf",
-    "url_drive": "https://drive.google.com/file/d/1CYkTdodDQlfdwHf5SA5jO6IFw8Mvtlic/view?usp=sharing"
-  },
-  {
-    "id": "00051",
     "titulo": "Darrieu; Camperi; Piloni; Bogado [BSAS] listado actualizado aves PBA",
     "autor": [
       "Darrieu",
@@ -968,7 +945,7 @@
     "url_drive": "https://drive.google.com/file/d/1-KMfyStZbL9g5rNwILnrJByDMlPxQjuC/view?usp=sharing"
   },
   {
-    "id": "00052",
+    "id": "00051",
     "titulo": "De la Peña Libro AVES ARGENTINAS DESCRIPCIÓN, COMPORTAMIENTO, REPRODUCCIÓN Y DISTRIBUCIÓN Trogonidae a Furnariidae",
     "autor": [
       "De la Peña"
@@ -987,7 +964,7 @@
     "url_drive": "https://drive.google.com/file/d/1qFe_OC8NNjKg6qZbBA2El5DDU9LuKNNy/view?usp=sharing"
   },
   {
-    "id": "00053",
+    "id": "00052",
     "titulo": "De la Peña [ARG] Libro AVES ARGENTINAS DESCRIPCIÓN, COMPORTAMIENTO, REPRODUCCIÓN Y DISTRIBUCIÓN Charadriidae a Trochilidae",
     "autor": [
       "De la Peña"
@@ -1006,7 +983,7 @@
     "url_drive": "https://drive.google.com/file/d/1L6xUuoNTHoNovstsdyI9ZoMynoKxngNA/view?usp=sharing"
   },
   {
-    "id": "00054",
+    "id": "00053",
     "titulo": "De la Peña [ARG] Libro AVES ARGENTINAS DESCRIPCIÓN, COMPORTAMIENTO, REPRODUCCIÓN Y DISTRIBUCIÓN Ciconiidae a Heliornithidae",
     "autor": [
       "De la Peña"
@@ -1025,7 +1002,7 @@
     "url_drive": "https://drive.google.com/file/d/1sYIDceOSL-OvSfih0lnY1BbgVDucwcve/view?usp=sharing"
   },
   {
-    "id": "00055",
+    "id": "00054",
     "titulo": "De la Peña [ARG] Libro AVES ARGENTINAS DESCRIPCIÓN, COMPORTAMIENTO, REPRODUCCIÓN Y DISTRIBUCIÓN Mimidae a Passeridae",
     "autor": [
       "De la Peña"
@@ -1044,7 +1021,7 @@
     "url_drive": "https://drive.google.com/file/d/1XY1fEeF-H7YvPZq6S1a2vzBbUqTafIUQ/view?usp=sharing"
   },
   {
-    "id": "00056",
+    "id": "00055",
     "titulo": "Amigos de la reserva Costanera Sur [LOC] Material Didáctico Observadores de Naturaleza RECS",
     "autor": [
       "Amigos de la reserva Costanera Sur"
@@ -1061,7 +1038,7 @@
     "url_drive": "https://drive.google.com/file/d/1jOZYOzRGC2tp97J-Y_29pHPAaArREwpA/view?usp=sharing"
   },
   {
-    "id": "00057",
+    "id": "00056",
     "titulo": "APN [ARG] El Palmar Veo Veo",
     "autor": [
       "APN"
@@ -1078,7 +1055,7 @@
     "url_drive": "https://drive.google.com/file/d/1Ra5Zuh5MdKnydA2OUOUjsMKNAKbPxHkK/view?usp=sharing"
   },
   {
-    "id": "00058",
+    "id": "00057",
     "titulo": "APN [ARG] Ficha chuñas",
     "autor": [
       "APN"
@@ -1095,7 +1072,7 @@
     "url_drive": "https://drive.google.com/file/d/1IHMWwE02b_YKN37W_twntGjjZbZLXzyw/view?usp=sharing"
   },
   {
-    "id": "00059",
+    "id": "00058",
     "titulo": "APN [ARG] ficha Cóndor Andino Generalidades",
     "autor": [
       "APN"
@@ -1112,7 +1089,7 @@
     "url_drive": "https://drive.google.com/file/d/1pprP9v7uWkNeF7dkue7xjATFbpGlXhy7/view?usp=sharing"
   },
   {
-    "id": "00060",
+    "id": "00059",
     "titulo": "APN [ARG] Ficha Jabiru",
     "autor": [
       "APN"
@@ -1129,7 +1106,7 @@
     "url_drive": "https://drive.google.com/file/d/1njhkz2CDgxuIv6zMa-cvIS_c5DJV2eI9/view?usp=sharing"
   },
   {
-    "id": "00061",
+    "id": "00060",
     "titulo": "APN [ARG] Ficha Muitu",
     "autor": [
       "APN"
@@ -1146,7 +1123,7 @@
     "url_drive": "https://drive.google.com/file/d/1msl0m0wjOS_r9x3BhrIwQyYNa7butBuT/view?usp=sharing"
   },
   {
-    "id": "00062",
+    "id": "00061",
     "titulo": "APN [ARG] Ficha Tucanes del PN Iguazú 2011",
     "autor": [
       "APN"
@@ -1163,7 +1140,7 @@
     "url_drive": "https://drive.google.com/file/d/1sItIHk-A7GRUO0VpLn5_r4wBetoemvrH/view?usp=sharing"
   },
   {
-    "id": "00063",
+    "id": "00062",
     "titulo": "APN [ARG] Ficha Yetapa",
     "autor": [
       "APN"
@@ -1180,7 +1157,7 @@
     "url_drive": "https://drive.google.com/file/d/1p8WwkGG9z43cZdzxgsm5VZKObKmwFupe/view?usp=sharing"
   },
   {
-    "id": "00064",
+    "id": "00063",
     "titulo": "APN [ARG] Ficha Ñandu",
     "autor": [
       "APN"
@@ -1197,7 +1174,7 @@
     "url_drive": "https://drive.google.com/file/d/1xCiU5Vyltn-SFXSBEVrE1LH1TEFFT518/view?usp=sharing"
   },
   {
-    "id": "00065",
+    "id": "00064",
     "titulo": "APN [ARG] Iguazú Veo Veo",
     "autor": [
       "APN"
@@ -1214,7 +1191,7 @@
     "url_drive": "https://drive.google.com/file/d/1X6gopa7ZoBJ7CsMRlcvuIa1PRKVlXJZC/view?usp=sharing"
   },
   {
-    "id": "00066",
+    "id": "00065",
     "titulo": "APN [ARG] Lámina Aves del bosque Andino Patagónico 2011",
     "autor": [
       "APN"
@@ -1233,7 +1210,7 @@
     "url_drive": "https://drive.google.com/file/d/19ApOfJuy9ZDaSkQV6L9b7bKyRtqHtCbu/view?usp=sharing"
   },
   {
-    "id": "00067",
+    "id": "00066",
     "titulo": "APN [ARG] Lámina Aves del Mar Argentino 2011",
     "autor": [
       "APN"
@@ -1252,7 +1229,7 @@
     "url_drive": "https://drive.google.com/file/d/1QnKl2WVaNiPJUCYwG3H9iHwMxJQFUuZa/view?usp=sharing"
   },
   {
-    "id": "00068",
+    "id": "00067",
     "titulo": "APN Aves Argentinas [ARG] Lista de las aves argentinas",
     "autor": [
       "APN_ Aves Argentinas"
@@ -1271,7 +1248,7 @@
     "url_drive": "https://drive.google.com/file/d/1mvgOuLkfuoc24lpQdF3YCPp5L1y0Vfeg/view?usp=sharing"
   },
   {
-    "id": "00069",
+    "id": "00068",
     "titulo": "Ares [MUN] Libro Aves vida y conducta",
     "autor": [
       "Ares"
@@ -1290,7 +1267,7 @@
     "url_drive": "https://drive.google.com/file/d/1M_ph34CR00OB_ylMaY7mZ5J4yiu9bXMg/view?usp=sharing"
   },
   {
-    "id": "00070",
+    "id": "00069",
     "titulo": "Aves Argentinas Material Didactico Observación Aves Silvestres",
     "autor": [
       "Aves Argentinas"
@@ -1309,7 +1286,7 @@
     "url_drive": "https://drive.google.com/file/d/18zl42XCwMY_ryKB_D6Xqkihoir5KjSNA/view?usp=sharing"
   },
   {
-    "id": "00071",
+    "id": "00070",
     "titulo": "Bertonatti [ARG] Libro El Impenetrable del Chaco y sus secretos",
     "autor": [
       "Bertonatti"
@@ -1328,7 +1305,7 @@
     "url_drive": "https://drive.google.com/file/d/13hDLYF2spcd8ahUjWoOGxugIyM_wodGn/view?usp=sharing"
   },
   {
-    "id": "00072",
+    "id": "00071",
     "titulo": "Bertonatti; Fernández Balboa Libro Un parque nacional para la historia",
     "autor": [
       "Bertonatti",
@@ -1348,7 +1325,7 @@
     "url_drive": "https://drive.google.com/file/d/1jPIGhQAXvcwH5Ceb_fXw2pUbod1N62Ji/view?usp=sharing"
   },
   {
-    "id": "00073",
+    "id": "00072",
     "titulo": "Buenos Aires Ciudad [LOC] Libro Reserva Costanera Sur",
     "autor": [
       "Buenos Aires Ciudad"
@@ -1367,7 +1344,7 @@
     "url_drive": "https://drive.google.com/file/d/1QhddVTRnE4S9hY3FD43Iyw1WPHgSK7R8/view?usp=sharing"
   },
   {
-    "id": "00074",
+    "id": "00073",
     "titulo": "Camilloni; Morrás [BSAS] Libro Ambiente natural",
     "autor": [
       "Camilloni",
@@ -1387,7 +1364,7 @@
     "url_drive": "https://drive.google.com/file/d/10RCqGCgnJ3O7r2oQfaM-XtkBQ59Psn3f/view?usp=sharing"
   },
   {
-    "id": "00075",
+    "id": "00074",
     "titulo": "CEAMSE [LOC]Guia de Biodiversidad Avellaneda Quilmes",
     "autor": [
       "CEAMSE"
@@ -1406,7 +1383,7 @@
     "url_drive": "https://drive.google.com/file/d/1yLN8TMDb9RRfv-4I9QjnAFFgXgnfmvTq/view?usp=sharing"
   },
   {
-    "id": "00076",
+    "id": "00075",
     "titulo": "Di Giacomo; Krapovickas [ARG] Monografía Inventario vertebrados El Bagual Formosa",
     "autor": [
       "Di Giacomo",
@@ -1426,7 +1403,7 @@
     "url_drive": "https://drive.google.com/file/d/11xPUlCtAk0w19oCaVHHyQWfWldZyFrPI/view?usp=sharing"
   },
   {
-    "id": "00077",
+    "id": "00076",
     "titulo": "Fernandez Balboa; FVSA [BSAS] Guia del escritorio al campo 141 Reservas Naturales de Buenos Aires la biodiversidad está cerca de casa",
     "autor": [
       "Fernandez Balboa",
@@ -1446,7 +1423,7 @@
     "url_drive": "https://drive.google.com/file/d/1rEDiz5XxmhhGjmySSurbiNWe6uX1bTLf/view?usp=sharing"
   },
   {
-    "id": "00078",
+    "id": "00077",
     "titulo": "Fundación de Historia Natural Félix de Azara [ARG] Campo San Juan",
     "autor": [
       "Fundación de Historia Natural Félix de Azara"
@@ -1465,7 +1442,7 @@
     "url_drive": "https://drive.google.com/file/d/1aDYF1u_REQP3heKJggO2JBC8RufYqHAQ/view?usp=sharing"
   },
   {
-    "id": "00079",
+    "id": "00078",
     "titulo": "FVSA [BSAS] Guía Del Escritorio al Campo 106 Flora ­y ­fauna ­del Parque Nacional ­Campos ­del Tuyú",
     "autor": [
       "FVSA"
@@ -1485,7 +1462,7 @@
     "url_drive": "https://drive.google.com/file/d/1ee0xpU70Xyab6-JkiAXFI0u5ypKqnhBN/view?usp=sharing"
   },
   {
-    "id": "00080",
+    "id": "00079",
     "titulo": "Genzano [LOC] Libro La vida en el mar. Costa de Mar del Plata",
     "autor": [
       "Genzano"
@@ -1504,7 +1481,7 @@
     "url_drive": "https://drive.google.com/file/d/1-mGX5RKbS8tgiHQz33PGkN6Rg7wRWYQX/view?usp=sharing"
   },
   {
-    "id": "00081",
+    "id": "00080",
     "titulo": "Haene; Pereira [BSAS] Monografia Inventario de Otamendi",
     "autor": [
       "Haene",
@@ -1524,7 +1501,7 @@
     "url_drive": "https://drive.google.com/file/d/1f9YjZCXlr-tZvoau35zVB0sY0ndVAACW/view?usp=sharing"
   },
   {
-    "id": "00082",
+    "id": "00081",
     "titulo": "Klimaitis; klimaitis; Luciano [LOC] inventario terraplen costero",
     "autor": [
       "Klimaitis",
@@ -1545,7 +1522,7 @@
     "url_drive": "https://drive.google.com/file/d/13FMIGahsEiQ-dVF9S3vBFM3DQeqDmC95/view?usp=sharing"
   },
   {
-    "id": "00083",
+    "id": "00082",
     "titulo": "Olivera [ARG] Libro Reflejos en las aguas del Moconá",
     "autor": [
       "Olivera"
@@ -1564,7 +1541,7 @@
     "url_drive": "https://drive.google.com/file/d/15wddQkxPl0Cx1XIjUeUAW5zsbqMPy2Bu/view?usp=sharing"
   },
   {
-    "id": "00084",
+    "id": "00083",
     "titulo": "Erize; INCAFO [ARG] Los Parques nacionales de la Argentina y otras de sus áreas 1981",
     "autor": [
       "Erize",
@@ -1584,7 +1561,7 @@
     "url_drive": "https://drive.google.com/file/d/1I7lApSEKaXKx6Otqot-sCv4WmG-Er_BV/view?usp=sharing"
   },
   {
-    "id": "00085",
+    "id": "00084",
     "titulo": "Luppi; Isacch; Iribarne [BSAS] Libro Laguna Costera Mar Chiquita",
     "autor": [
       "Luppi",
@@ -1605,7 +1582,7 @@
     "url_drive": "https://drive.google.com/file/d/15A3LsmHBR1UK-wkBK89GjtZMiqRZqsms/view?usp=sharing"
   },
   {
-    "id": "00086",
+    "id": "00085",
     "titulo": "APN [ARG] Emblemas de los parques nacionales",
     "autor": [
       "APN"
@@ -1624,7 +1601,7 @@
     "url_drive": "https://drive.google.com/file/d/1ClzI90P_55ykosEZLtLgTC1ec-d08BzX/view?usp=sharing"
   },
   {
-    "id": "00087",
+    "id": "00086",
     "titulo": "APN [ARG] Guía visual PN de Argentina",
     "autor": [
       "APN"
@@ -1643,7 +1620,7 @@
     "url_drive": "https://drive.google.com/file/d/1YPlNSNejjU6YIIesUdRb-ZRZ6Jmoqaox/view?usp=sharing"
   },
   {
-    "id": "00088",
+    "id": "00087",
     "titulo": "Athor [BSAS] Libro Buenos Aires a historia de su paisaje natural",
     "autor": [
       "Athor"
@@ -1662,7 +1639,7 @@
     "url_drive": "https://drive.google.com/file/d/1HnK2tuJStVMP_Gi0LsbBhH751BVvsEMZ/view?usp=sharing"
   },
   {
-    "id": "00089",
+    "id": "00088",
     "titulo": "Athor [BSAS] Libro El Delta bonaerense naturaleza, conservación y patrimonio cultural",
     "autor": [
       "Athor"
@@ -1681,7 +1658,7 @@
     "url_drive": "https://drive.google.com/file/d/1Y3ejDrKj2Fz01xBNkOJ2DPFoYOGfQOag/view?usp=sharing"
   },
   {
-    "id": "00090",
+    "id": "00089",
     "titulo": "Athor Albareda [BSAS] Libro Parque Costero del Sur. Nuevos temas sobre naturaleza, conservación y patrimonio cultural",
     "autor": [
       "Athor_ Albareda"
@@ -1700,7 +1677,7 @@
     "url_drive": "https://drive.google.com/file/d/1PEHGzQSVVnO9L8vmovcZ6Q_w-m1DHd2s/view?usp=sharing"
   },
   {
-    "id": "00091",
+    "id": "00090",
     "titulo": "AZARA [ARG] Libro Reserva faunística provincial Punta Bermeja, provincia de Río Negro",
     "autor": [
       "AZARA"
@@ -1719,7 +1696,7 @@
     "url_drive": "https://drive.google.com/file/d/1bVBeDme3RHtQJv3HrpY7GmlOy6TNdvlg/view?usp=sharing"
   },
   {
-    "id": "00092",
+    "id": "00091",
     "titulo": "AZARA [BSAS] Libro La costa atlantica de buenos aires",
     "autor": [
       "AZARA"
@@ -1738,7 +1715,7 @@
     "url_drive": "https://drive.google.com/file/d/17Xfxhn4ys50J_0l2gkMpmd5vl0LB37pA/view?usp=sharing"
   },
   {
-    "id": "00093",
+    "id": "00092",
     "titulo": "AZARA; Universidad Maimmónides [ARG] Libro Programa de investigación y monitoreo del Golfo San Jorge",
     "autor": [
       "AZARA",
@@ -1758,7 +1735,7 @@
     "url_drive": "https://drive.google.com/file/d/1EBTWSLAKP6EvwGjjlKM8tRY_JaWVxTUq/view?usp=sharing"
   },
   {
-    "id": "00094",
+    "id": "00093",
     "titulo": "Bauni; Homberg; Capmourteres [ARG] Libro El patrimonio natural y cultural en el área de influencia del embalse de Yacyretá Argentina",
     "autor": [
       "Bauni",
@@ -1779,7 +1756,7 @@
     "url_drive": "https://drive.google.com/file/d/1qOsLT4CZaGA6oRXrtmQAzJeMb7gMsXfP/view?usp=sharing"
   },
   {
-    "id": "00095",
+    "id": "00094",
     "titulo": "APN [ARG] Lámina Mapa de Áreas Protegidas de Argentina",
     "autor": [
       "APN"
@@ -1798,7 +1775,7 @@
     "url_drive": "https://drive.google.com/file/d/1GLqUbCIJ313WFWWSxq8H5YK5MGJO18rY/view?usp=sharing"
   },
   {
-    "id": "00096",
+    "id": "00095",
     "titulo": "AZARA [ARG] Lámina Ecorregión Las pampas",
     "autor": [
       "AZARA"
@@ -1817,7 +1794,7 @@
     "url_drive": "https://drive.google.com/file/d/1A4xFHo9AkMSSlSwd-wad6Pn94Dc-cIa4/view?usp=sharing"
   },
   {
-    "id": "00097",
+    "id": "00096",
     "titulo": "AZARA [BSAS] Lámina Bajo Delta del Parana",
     "autor": [
       "AZARA"
@@ -1836,7 +1813,7 @@
     "url_drive": "https://drive.google.com/file/d/1ppRQzL2vKCY0zgU9HPwnoWUUX8ThLUf6/view?usp=sharing"
   },
   {
-    "id": "00098",
+    "id": "00097",
     "titulo": "AZARA [BSAS] Lámina Biodiversidad de los talares bonaerenses",
     "autor": [
       "AZARA"
@@ -1855,7 +1832,7 @@
     "url_drive": "https://drive.google.com/file/d/14XUw6BNJ-d4OrSposZ4bbylnPigcx7pX/view?usp=sharing"
   },
   {
-    "id": "00099",
+    "id": "00098",
     "titulo": "Bertonatti; FVSA [ARG] Libro El horizonte infinito 2006",
     "autor": [
       "Bertonatti",
@@ -1875,7 +1852,7 @@
     "url_drive": "https://drive.google.com/file/d/1JhDCdqb7oaTupwEecVOcn5QZ9NGpARQs/view?usp=sharing"
   },
   {
-    "id": "00100",
+    "id": "00099",
     "titulo": "Bolaños; Vecchio; Golluscio [BSAS] Artículo Pastizal pampeano del mar de pasto descripto por Darwin a la actualidad",
     "autor": [
       "Bolaños",
@@ -1896,7 +1873,7 @@
     "url_drive": "https://drive.google.com/file/d/1qErp_H8ImXRKqnReXemenu3clapkYOvh/view?usp=sharing"
   },
   {
-    "id": "00101",
+    "id": "00100",
     "titulo": "Canevari; FVSA [ARG] Guía del Escritorio al campo Especies que habitan las dunas",
     "autor": [
       "Canevari",
@@ -1916,7 +1893,7 @@
     "url_drive": "https://drive.google.com/file/d/1Fjc5lR1jzrBkKEEuOPjPGDc0mOfWeWOw/view?usp=sharing"
   },
   {
-    "id": "00102",
+    "id": "00101",
     "titulo": "Carrizo; FVSA [ARG] Lámina espinal mesopotamico",
     "autor": [
       "Carrizo",
@@ -1936,7 +1913,7 @@
     "url_drive": "https://drive.google.com/file/d/1BaQsDnkZ-rCRIE-4GYBT22SanrkPOv7r/view?usp=sharing"
   },
   {
-    "id": "00103",
+    "id": "00102",
     "titulo": "Celsi; Mac lean; Yezzi; Triches [BSAS] Manual sobre dunas costeras",
     "autor": [
       "Celsi",
@@ -1958,7 +1935,7 @@
     "url_drive": "https://drive.google.com/file/d/1mYZLQt_nhre4_3bpRPCBjSVtq5prOZzy/view?usp=sharing"
   },
   {
-    "id": "00104",
+    "id": "00103",
     "titulo": "Chicappe ; FVSA [BSAS] Lámina Lagunas y bañados pampeanos",
     "autor": [
       "Chicappe",
@@ -1978,7 +1955,7 @@
     "url_drive": "https://drive.google.com/file/d/170ETDYjcPCGrQC_r2O-KVngE3Ay2wBfL/view?usp=sharing"
   },
   {
-    "id": "00105",
+    "id": "00104",
     "titulo": "FVSA [BSAS] Guía Del Escritorio al campo Anfibios de la llanura pampeana",
     "autor": [
       "FVSA"
@@ -1998,7 +1975,7 @@
     "url_drive": "https://drive.google.com/file/d/1V6PmCbxAU1Rko5MeZYS6oAlvbojDuGY7/view?usp=sharing"
   },
   {
-    "id": "00106",
+    "id": "00105",
     "titulo": "Imbellone; Giménez; Panigatti [BSAS] Libro Suelos de la Región Pampeana. Procesos de Formación.",
     "autor": [
       "Imbellone",
@@ -2019,7 +1996,7 @@
     "url_drive": "https://drive.google.com/file/d/1tuJJmgJjZGrG4-I2Wslh2I5V2oBLngcR/view?usp=sharing"
   },
   {
-    "id": "00107",
+    "id": "00106",
     "titulo": "Marino; Miñarro; Zaccagnini; López Lanus [SAM] Monografía Pastizales y sabanas del cono sur",
     "autor": [
       "Marino",
@@ -2041,7 +2018,7 @@
     "url_drive": "https://drive.google.com/file/d/18eiMypPfKH33wasFKFtPVDHfVN8Yz6cY/view?usp=sharing"
   },
   {
-    "id": "00108",
+    "id": "00107",
     "titulo": "Mérida; Athor [BSAS] Libro Talares bonaerenses y su conservación",
     "autor": [
       "Mérida",
@@ -2061,7 +2038,7 @@
     "url_drive": "https://drive.google.com/file/d/1qLOzRHGQtO22LgMisLp_3DbkwkE0c9PN/view?usp=sharing"
   },
   {
-    "id": "00109",
+    "id": "00108",
     "titulo": "Parques Nacionales [ARG] Ficha Ecorregiones de la Argentina",
     "autor": [
       "Parques Nacionales"
@@ -2080,7 +2057,7 @@
     "url_drive": "https://drive.google.com/file/d/1iGvIBdJDaTDIZtNjOr92heFmR0iyM9VF/view?usp=sharing"
   },
   {
-    "id": "00110",
+    "id": "00109",
     "titulo": "Roget; FVSA [BSAS] Guía del escritorio al campo 134 Pastizales de la provincia de Bs As",
     "autor": [
       "Roget",
@@ -2100,7 +2077,7 @@
     "url_drive": "https://drive.google.com/file/d/1NhZQ_0Vs8QRD-9vIRKeU47ghIqynjqbw/view?usp=sharing"
   },
   {
-    "id": "00111",
+    "id": "00110",
     "titulo": "Roitman; Preliasco [ARG] guia de reconocimiento de herbaceas de la pampa deprimida",
     "autor": [
       "Roitman",
@@ -2120,180 +2097,7 @@
     "url_drive": "https://drive.google.com/file/d/1KH3gtnkKwJiSJEUoQVs7X1z55wmpIXD5/view?usp=sharing"
   },
   {
-    "id": "00112",
-    "titulo": "Canevari [LOC) Didactico Veo Veo en Buenos Aires la Naturaleza cerca",
-    "autor": [
-      "Canevari"
-    ],
-    "tema_principal": "sin clasificar",
-    "tipo": "material didáctico",
-    "etiquetas": [
-      "Material Didáctico"
-    ],
-    "coleccion": null,
-    "fuente": "local",
-    "acceso": "visor_drive",
-    "alcance_geografico": null,
-    "extension": ".pdf",
-    "ruta_local": "Educación Ambiental - Material didáctico/ Canevari - [LOC) Didactico Veo Veo en Buenos Aires la Naturaleza cerca.pdf",
-    "url_drive": "https://drive.google.com/file/d/1H01cAp6n1PdRkVuwbPCFFHB2IzIRHi0l/view?usp=sharing"
-  },
-  {
-    "id": "00113",
-    "titulo": "Ministerio de justicia [ARG] Material didactico Ley Educacion Ambiental integral (lectura facil)",
-    "autor": [
-      "Ministerio de justicia"
-    ],
-    "tema_principal": "legislación ambiental",
-    "tipo": "material didáctico",
-    "etiquetas": [
-      "Material Didáctico",
-      "legislación ambiental"
-    ],
-    "coleccion": null,
-    "fuente": "local",
-    "acceso": "visor_drive",
-    "alcance_geografico": "ARG",
-    "extension": ".pdf",
-    "ruta_local": "Educación Ambiental - Material didáctico/ Ministerio de justicia - [ARG] Material didactico Ley Educacion Ambiental integral (lectura-facil).pdf",
-    "url_drive": "https://drive.google.com/file/d/150rYCilHUPlosxV9vI5vg1kt5w5WLz77/view?usp=sharing"
-  },
-  {
-    "id": "00114",
-    "titulo": "A4 REGLITAS COA CIENTIFICO FINAL",
-    "autor": [],
-    "tema_principal": "sin clasificar",
-    "tipo": "material didáctico",
-    "etiquetas": [
-      "Material Didáctico"
-    ],
-    "coleccion": null,
-    "fuente": "local",
-    "acceso": "visor_drive",
-    "alcance_geografico": null,
-    "extension": ".pdf",
-    "ruta_local": "Educación Ambiental - Material didáctico/A4-REGLITAS-COA-CIENTIFICO-FINAL.pdf",
-    "url_drive": "https://drive.google.com/file/d/1bxuKN1Vyq0-vrHMswdFYL8L-H4u9EBow/view?usp=sharing"
-  },
-  {
-    "id": "00115",
-    "titulo": "ACUMAR [LOC]Didactico La garza carlota acumar",
-    "autor": [
-      "ACUMAR"
-    ],
-    "tema_principal": "sin clasificar",
-    "tipo": "material didáctico",
-    "etiquetas": [
-      "Material Didáctico"
-    ],
-    "coleccion": null,
-    "fuente": "local",
-    "acceso": "visor_drive",
-    "alcance_geografico": "LOC",
-    "extension": ".pdf",
-    "ruta_local": "Educación Ambiental - Material didáctico/ACUMAR - [LOC]Didactico La garza carlota acumar.pdf",
-    "url_drive": "https://drive.google.com/file/d/1Z7BFGDpGzeFklSWUuYOAoCsfYlJes0MY/view?usp=sharing"
-  },
-  {
-    "id": "00116",
-    "titulo": "Alba; AZARA [ARG] Didactico Cuento las doce pruebas de hercules el cauquén colorado",
-    "autor": [
-      "Alba",
-      "AZARA"
-    ],
-    "tema_principal": "sin clasificar",
-    "tipo": "material didáctico",
-    "etiquetas": [
-      "Material Didáctico"
-    ],
-    "coleccion": null,
-    "fuente": "local",
-    "acceso": "visor_drive",
-    "alcance_geografico": "ARG",
-    "extension": ".pdf",
-    "ruta_local": "Educación Ambiental - Material didáctico/Alba; AZARA - [ARG] Didactico Cuento  las doce pruebas de hercules el cauquén-colorado.pdf",
-    "url_drive": "https://drive.google.com/file/d/1m3jX5Dch-JOll50XBIRMf2gqqIGqfLTi/view?usp=sharing"
-  },
-  {
-    "id": "00117",
-    "titulo": "APN [ARG] Didáctico Emblemas de los Parques Nacionales para colorear",
-    "autor": [
-      "APN"
-    ],
-    "tema_principal": "sin clasificar",
-    "tipo": "material didáctico",
-    "etiquetas": [
-      "Material Didáctico"
-    ],
-    "coleccion": null,
-    "fuente": "local",
-    "acceso": "visor_drive",
-    "alcance_geografico": "ARG",
-    "extension": ".pdf",
-    "ruta_local": "Educación Ambiental - Material didáctico/APN - [ARG] Didáctico Emblemas de los Parques Nacionales para colorear.pdf",
-    "url_drive": "https://drive.google.com/file/d/1swIukK8YdjcS4FAL2uwWsYeR5xLgdLxE/view?usp=sharing"
-  },
-  {
-    "id": "00118",
-    "titulo": "Aves Silvestres Didáctico Cuadernillo Observar aves silvestres",
-    "autor": [
-      "Aves Silvestres"
-    ],
-    "tema_principal": "aves",
-    "tipo": "material didáctico",
-    "etiquetas": [
-      "Material Didáctico",
-      "aves"
-    ],
-    "coleccion": null,
-    "fuente": "local",
-    "acceso": "visor_drive",
-    "alcance_geografico": null,
-    "extension": ".pdf",
-    "ruta_local": "Educación Ambiental - Material didáctico/Aves Silvestres - Didáctico Cuadernillo Observar aves silvestres.pdf",
-    "url_drive": "https://drive.google.com/file/d/1XglJtXh7gPCh0XW9RzrxcMubIps751Qd/view?usp=sharing"
-  },
-  {
-    "id": "00119",
-    "titulo": "Aves Silvestres Didáctico Cuadernillo prevención del trafico de fauna silvestre",
-    "autor": [
-      "Aves Silvestres"
-    ],
-    "tema_principal": "aves",
-    "tipo": "material didáctico",
-    "etiquetas": [
-      "Material Didáctico",
-      "aves"
-    ],
-    "coleccion": null,
-    "fuente": "local",
-    "acceso": "visor_drive",
-    "alcance_geografico": null,
-    "extension": ".pdf",
-    "ruta_local": "Educación Ambiental - Material didáctico/Aves Silvestres - Didáctico Cuadernillo prevención del trafico de fauna silvestre.pdf",
-    "url_drive": "https://drive.google.com/file/d/1qpY9ef93OiuCc36qeLc1GnyiSDGmmQNT/view?usp=sharing"
-  },
-  {
-    "id": "00120",
-    "titulo": "AZARA Didáctico Cuadernillo de actividades sobre dunas y playas",
-    "autor": [
-      "AZARA"
-    ],
-    "tema_principal": "sin clasificar",
-    "tipo": "material didáctico",
-    "etiquetas": [
-      "Material Didáctico"
-    ],
-    "coleccion": null,
-    "fuente": "local",
-    "acceso": "visor_drive",
-    "alcance_geografico": null,
-    "extension": ".pdf",
-    "ruta_local": "Educación Ambiental - Material didáctico/AZARA - Didáctico Cuadernillo de actividades sobre dunas y playas.pdf",
-    "url_drive": "https://drive.google.com/file/d/1bgLjjFbU-Zks12VF4ZrEFGZ6pMT6nixq/view?usp=sharing"
-  },
-  {
-    "id": "00121",
+    "id": "00111",
     "titulo": "AZARA [BSAS] Didactico Animales de las islas del delta del parana para colorear",
     "autor": [
       "AZARA"
@@ -2312,7 +2116,7 @@
     "url_drive": "https://drive.google.com/file/d/1xjSUZz9E7BFFzH4M47SqsZBX0bcaSke4/view?usp=sharing"
   },
   {
-    "id": "00122",
+    "id": "00112",
     "titulo": "Bertonatti; Nardini [ARG] Manual de observacion de aves para chicos",
     "autor": [
       "Bertonatti",
@@ -2333,7 +2137,7 @@
     "url_drive": "https://drive.google.com/file/d/1wAEMU6AX5btKYRUmSfCWV5Yo0xuRmO_j/view?usp=sharing"
   },
   {
-    "id": "00123",
+    "id": "00113",
     "titulo": "Buenos Aires Ciudad Didactico Cubos A4",
     "autor": [
       "Buenos Aires Ciudad"
@@ -2352,7 +2156,7 @@
     "url_drive": "https://drive.google.com/file/d/1PZOxBSQMiw9QCop1XEfS7X-iG7MFrLw1/view?usp=sharing"
   },
   {
-    "id": "00124",
+    "id": "00114",
     "titulo": "Cartilla [LOC] Didactico Infantil RECS",
     "autor": [],
     "tema_principal": "sin clasificar",
@@ -2369,7 +2173,41 @@
     "url_drive": "https://drive.google.com/file/d/1hOmjw2_kOpYGHKjd5NEB94dzoviugRqQ/view?usp=sharing"
   },
   {
-    "id": "00125",
+    "id": "00115",
+    "titulo": "✨ Ciancio; Rodríguez; Soibelzon [SAM] Caminando hacia tierras nuevas. Cuando se unieron las Américas.",
+    "autor": [],
+    "tema_principal": "sin clasificar",
+    "tipo": "material didáctico",
+    "etiquetas": [
+      "Material Didáctico"
+    ],
+    "coleccion": null,
+    "fuente": "local",
+    "acceso": "visor_drive",
+    "alcance_geografico": "SAM",
+    "extension": ".pdf",
+    "ruta_local": "Educación Ambiental - Material didáctico/Ciancio; Rodríguez; Soibelzon [SAM] Caminando hacia tierras nuevas. Cuando se unieron las Américas..pdf",
+    "url_drive": "https://drive.google.com/file/d/1FogPF2B9lktZQwS21QlbgjuXQp593w2V/view?usp=sharing"
+  },
+  {
+    "id": "00116",
+    "titulo": "✨ Ciancio; Soibelzon; Francia [BSAS] Libro Caminando sobre gliptodontes y tigres dientes de sable",
+    "autor": [],
+    "tema_principal": "sin clasificar",
+    "tipo": "material didáctico",
+    "etiquetas": [
+      "Material Didáctico"
+    ],
+    "coleccion": null,
+    "fuente": "local",
+    "acceso": "visor_drive",
+    "alcance_geografico": "BSAS",
+    "extension": ".pdf",
+    "ruta_local": "Educación Ambiental - Material didáctico/Ciancio; Soibelzon; Francia [BSAS] Libro Caminando sobre gliptodontes y tigres dientes de sable.pdf",
+    "url_drive": "https://drive.google.com/file/d/1SPrZEg8yQfdbd4SA7zA6ZyQTD4NGV23j/view?usp=sharing"
+  },
+  {
+    "id": "00117",
     "titulo": "Ciccale Smit [BSAS] Material didáctico Jardines de mariposas educativos Guía básica para armar espacios biodiversos en CABA",
     "autor": [
       "Ciccale Smit"
@@ -2390,7 +2228,7 @@
     "url_drive": "https://drive.google.com/file/d/1xSvSckw-kPbBGPfxXnDThZekSenP3gLk/view?usp=sharing"
   },
   {
-    "id": "00126",
+    "id": "00118",
     "titulo": "COANA [ARG] Material didáctico Cuaderno de Campo",
     "autor": [
       "COANA"
@@ -2409,7 +2247,7 @@
     "url_drive": "https://drive.google.com/file/d/1mtwAT9vUyWG2DGC8DRXL9nSG8CeRWWYp/view?usp=sharing"
   },
   {
-    "id": "00127",
+    "id": "00119",
     "titulo": "COANA [ARG] Material didáctico Libro de actividades",
     "autor": [
       "COANA"
@@ -2428,7 +2266,7 @@
     "url_drive": "https://drive.google.com/file/d/1S1tUCvVygUlF5ifK_Jq1AOde8kl_gpe6/view?usp=sharing"
   },
   {
-    "id": "00128",
+    "id": "00120",
     "titulo": "Didactico Ciclo vital hormigas",
     "autor": [],
     "tema_principal": "sin clasificar",
@@ -2445,7 +2283,180 @@
     "url_drive": "https://drive.google.com/file/d/1edCrJrXp0eVVrSmkeiLazt7MlGCAb4EN/view?usp=sharing"
   },
   {
+    "id": "00121",
+    "titulo": "Canevari [LOC) Didactico Veo Veo en Buenos Aires la Naturaleza cerca",
+    "autor": [
+      "Canevari"
+    ],
+    "tema_principal": "sin clasificar",
+    "tipo": "material didáctico",
+    "etiquetas": [
+      "Material Didáctico"
+    ],
+    "coleccion": null,
+    "fuente": "local",
+    "acceso": "visor_drive",
+    "alcance_geografico": null,
+    "extension": ".pdf",
+    "ruta_local": "Educación Ambiental - Material didáctico/ Canevari - [LOC) Didactico Veo Veo en Buenos Aires la Naturaleza cerca.pdf",
+    "url_drive": "https://drive.google.com/file/d/1H01cAp6n1PdRkVuwbPCFFHB2IzIRHi0l/view?usp=sharing"
+  },
+  {
+    "id": "00122",
+    "titulo": "Ministerio de justicia [ARG] Material didactico Ley Educacion Ambiental integral (lectura facil)",
+    "autor": [
+      "Ministerio de justicia"
+    ],
+    "tema_principal": "legislación ambiental",
+    "tipo": "material didáctico",
+    "etiquetas": [
+      "Material Didáctico",
+      "legislación ambiental"
+    ],
+    "coleccion": null,
+    "fuente": "local",
+    "acceso": "visor_drive",
+    "alcance_geografico": "ARG",
+    "extension": ".pdf",
+    "ruta_local": "Educación Ambiental - Material didáctico/ Ministerio de justicia - [ARG] Material didactico Ley Educacion Ambiental integral (lectura-facil).pdf",
+    "url_drive": "https://drive.google.com/file/d/150rYCilHUPlosxV9vI5vg1kt5w5WLz77/view?usp=sharing"
+  },
+  {
+    "id": "00123",
+    "titulo": "A4 REGLITAS COA CIENTIFICO FINAL",
+    "autor": [],
+    "tema_principal": "sin clasificar",
+    "tipo": "material didáctico",
+    "etiquetas": [
+      "Material Didáctico"
+    ],
+    "coleccion": null,
+    "fuente": "local",
+    "acceso": "visor_drive",
+    "alcance_geografico": null,
+    "extension": ".pdf",
+    "ruta_local": "Educación Ambiental - Material didáctico/A4-REGLITAS-COA-CIENTIFICO-FINAL.pdf",
+    "url_drive": "https://drive.google.com/file/d/1bxuKN1Vyq0-vrHMswdFYL8L-H4u9EBow/view?usp=sharing"
+  },
+  {
+    "id": "00124",
+    "titulo": "ACUMAR [LOC]Didactico La garza carlota acumar",
+    "autor": [
+      "ACUMAR"
+    ],
+    "tema_principal": "sin clasificar",
+    "tipo": "material didáctico",
+    "etiquetas": [
+      "Material Didáctico"
+    ],
+    "coleccion": null,
+    "fuente": "local",
+    "acceso": "visor_drive",
+    "alcance_geografico": "LOC",
+    "extension": ".pdf",
+    "ruta_local": "Educación Ambiental - Material didáctico/ACUMAR - [LOC]Didactico La garza carlota acumar.pdf",
+    "url_drive": "https://drive.google.com/file/d/1Z7BFGDpGzeFklSWUuYOAoCsfYlJes0MY/view?usp=sharing"
+  },
+  {
+    "id": "00125",
+    "titulo": "Alba; AZARA [ARG] Didactico Cuento las doce pruebas de hercules el cauquén colorado",
+    "autor": [
+      "Alba",
+      "AZARA"
+    ],
+    "tema_principal": "sin clasificar",
+    "tipo": "material didáctico",
+    "etiquetas": [
+      "Material Didáctico"
+    ],
+    "coleccion": null,
+    "fuente": "local",
+    "acceso": "visor_drive",
+    "alcance_geografico": "ARG",
+    "extension": ".pdf",
+    "ruta_local": "Educación Ambiental - Material didáctico/Alba; AZARA - [ARG] Didactico Cuento  las doce pruebas de hercules el cauquén-colorado.pdf",
+    "url_drive": "https://drive.google.com/file/d/1m3jX5Dch-JOll50XBIRMf2gqqIGqfLTi/view?usp=sharing"
+  },
+  {
+    "id": "00126",
+    "titulo": "APN [ARG] Didáctico Emblemas de los Parques Nacionales para colorear",
+    "autor": [
+      "APN"
+    ],
+    "tema_principal": "sin clasificar",
+    "tipo": "material didáctico",
+    "etiquetas": [
+      "Material Didáctico"
+    ],
+    "coleccion": null,
+    "fuente": "local",
+    "acceso": "visor_drive",
+    "alcance_geografico": "ARG",
+    "extension": ".pdf",
+    "ruta_local": "Educación Ambiental - Material didáctico/APN - [ARG] Didáctico Emblemas de los Parques Nacionales para colorear.pdf",
+    "url_drive": "https://drive.google.com/file/d/1swIukK8YdjcS4FAL2uwWsYeR5xLgdLxE/view?usp=sharing"
+  },
+  {
+    "id": "00127",
+    "titulo": "Aves Silvestres Didáctico Cuadernillo Observar aves silvestres",
+    "autor": [
+      "Aves Silvestres"
+    ],
+    "tema_principal": "aves",
+    "tipo": "material didáctico",
+    "etiquetas": [
+      "Material Didáctico",
+      "aves"
+    ],
+    "coleccion": null,
+    "fuente": "local",
+    "acceso": "visor_drive",
+    "alcance_geografico": null,
+    "extension": ".pdf",
+    "ruta_local": "Educación Ambiental - Material didáctico/Aves Silvestres - Didáctico Cuadernillo Observar aves silvestres.pdf",
+    "url_drive": "https://drive.google.com/file/d/1XglJtXh7gPCh0XW9RzrxcMubIps751Qd/view?usp=sharing"
+  },
+  {
+    "id": "00128",
+    "titulo": "Aves Silvestres Didáctico Cuadernillo prevención del trafico de fauna silvestre",
+    "autor": [
+      "Aves Silvestres"
+    ],
+    "tema_principal": "aves",
+    "tipo": "material didáctico",
+    "etiquetas": [
+      "Material Didáctico",
+      "aves"
+    ],
+    "coleccion": null,
+    "fuente": "local",
+    "acceso": "visor_drive",
+    "alcance_geografico": null,
+    "extension": ".pdf",
+    "ruta_local": "Educación Ambiental - Material didáctico/Aves Silvestres - Didáctico Cuadernillo prevención del trafico de fauna silvestre.pdf",
+    "url_drive": "https://drive.google.com/file/d/1qpY9ef93OiuCc36qeLc1GnyiSDGmmQNT/view?usp=sharing"
+  },
+  {
     "id": "00129",
+    "titulo": "AZARA Didáctico Cuadernillo de actividades sobre dunas y playas",
+    "autor": [
+      "AZARA"
+    ],
+    "tema_principal": "sin clasificar",
+    "tipo": "material didáctico",
+    "etiquetas": [
+      "Material Didáctico"
+    ],
+    "coleccion": null,
+    "fuente": "local",
+    "acceso": "visor_drive",
+    "alcance_geografico": null,
+    "extension": ".pdf",
+    "ruta_local": "Educación Ambiental - Material didáctico/AZARA - Didáctico Cuadernillo de actividades sobre dunas y playas.pdf",
+    "url_drive": "https://drive.google.com/file/d/1bgLjjFbU-Zks12VF4ZrEFGZ6pMT6nixq/view?usp=sharing"
+  },
+  {
+    "id": "00130",
     "titulo": "Didactico Ciclo vital mariposa",
     "autor": [],
     "tema_principal": "sin clasificar",
@@ -2463,7 +2474,7 @@
     "url_drive": "https://drive.google.com/file/d/1osBfYPAEoNw0dDkIqiv_g6zEacurseCG/view?usp=sharing"
   },
   {
-    "id": "00130",
+    "id": "00131",
     "titulo": "Didactico Ciclo vital mariquita",
     "autor": [],
     "tema_principal": "sin clasificar",
@@ -2480,7 +2491,7 @@
     "url_drive": "https://drive.google.com/file/d/1DpmtBXhQZOpwqxyPvD5KupjFMCWdMR07/view?usp=sharing"
   },
   {
-    "id": "00131",
+    "id": "00132",
     "titulo": "Hart [MUN] Didactico Manual la senda de la naturaleza pajaros",
     "autor": [
       "Hart"
@@ -2499,7 +2510,7 @@
     "url_drive": "https://drive.google.com/file/d/1mjEf3Bfqcmn_WhlpkVneYHGok5dcbWff/view?usp=sharing"
   },
   {
-    "id": "00132",
+    "id": "00133",
     "titulo": "Ministerio de Ambiente PBA [BSAS] Didactico jugando flora y fauna",
     "autor": [
       "Ministerio de Ambiente PBA"
@@ -2519,7 +2530,7 @@
     "url_drive": "https://drive.google.com/file/d/1lSMcCBz9QpZKmvpt8hCSVfbmJ4ZEAEE_/view?usp=sharing"
   },
   {
-    "id": "00133",
+    "id": "00134",
     "titulo": "Mun Almirante Brown [LOC] Didactico Biodiversidad Brown Verde en el Aula",
     "autor": [
       "Mun Almirante Brown"
@@ -2538,7 +2549,7 @@
     "url_drive": "https://drive.google.com/file/d/1ILvzwWciN3TUXt1hT-mqNy5l0ZrWBebR/view?usp=sharing"
   },
   {
-    "id": "00134",
+    "id": "00135",
     "titulo": "Municipio Itazaingo [LOC] Didactico Memotest flora y fauna de Ituzaingó",
     "autor": [
       "Municipio Itazaingo"
@@ -2558,7 +2569,7 @@
     "url_drive": "https://drive.google.com/file/d/1o8SrcMl9wYdT8kgCV8EehlvG181K08qa/view?usp=sharing"
   },
   {
-    "id": "00135",
+    "id": "00136",
     "titulo": "Parques Nacionales [ARG] Didactico Pintar Pato de los Torrentes",
     "autor": [
       "Parques Nacionales"
@@ -2577,7 +2588,7 @@
     "url_drive": "https://drive.google.com/file/d/1ZP0EDZEI3JPzSKRRxPHFtrINZejpUn6W/view?usp=sharing"
   },
   {
-    "id": "00136",
+    "id": "00137",
     "titulo": "Rebeca aprendiendode3 Material didactico estudio de Serpientes",
     "autor": [
       "Rebeca"
@@ -2596,7 +2607,7 @@
     "url_drive": "https://drive.google.com/file/d/1Nb7IoP1K9aoz8ozhD3IkhC0AZAdlCv48/view?usp=sharing"
   },
   {
-    "id": "00137",
+    "id": "00138",
     "titulo": "Rebeca aprendiendode3 Material didactico Estudio de Hormigas",
     "autor": [
       "Rebeca"
@@ -2615,7 +2626,7 @@
     "url_drive": "https://drive.google.com/file/d/10E53nZCdAQFcfdP-744yuu1DqgvAYxLc/view?usp=sharing"
   },
   {
-    "id": "00138",
+    "id": "00139",
     "titulo": "Rebeca aprendiendode3 Material didactico Estudio de Mariposas",
     "autor": [
       "Rebeca"
@@ -2636,7 +2647,7 @@
     "url_drive": "https://drive.google.com/file/d/1hcuaY0rfq6SYuultgYlPrtmMM6SPtZvW/view?usp=sharing"
   },
   {
-    "id": "00139",
+    "id": "00140",
     "titulo": "Rebeca aprendiendode3 Material didactico Estudio de Abejas",
     "autor": [
       "Rebeca"
@@ -2655,7 +2666,7 @@
     "url_drive": "https://drive.google.com/file/d/1H0uQTyCZa1WIDoF7Whyaue11-FKpLXMX/view?usp=sharing"
   },
   {
-    "id": "00140",
+    "id": "00141",
     "titulo": "RECS [LOC] Material Didactico GuiaInfantil",
     "autor": [],
     "tema_principal": "sin clasificar",
@@ -2672,7 +2683,7 @@
     "url_drive": "https://drive.google.com/file/d/1UtsIFlONi7jfGchH9co7f8WqmwCdO7Ck/view?usp=sharing"
   },
   {
-    "id": "00141",
+    "id": "00142",
     "titulo": "Serrano [MUN] Libro Bichos La vida secreta de los animales",
     "autor": [
       "Serrano"
@@ -2691,7 +2702,7 @@
     "url_drive": "https://drive.google.com/file/d/1Lwr98fXDd4T2ebiXnrgCK40etu3oHvvs/view?usp=sharing"
   },
   {
-    "id": "00142",
+    "id": "00143",
     "titulo": "Sosa [ARG] Material didáctico Tips para dibujar aves",
     "autor": [
       "Sosa"
@@ -2710,7 +2721,7 @@
     "url_drive": "https://drive.google.com/file/d/1eE-5slu1kyLE6vOwxKUCjmgX3lf2BJzY/view?usp=sharing"
   },
   {
-    "id": "00143",
+    "id": "00144",
     "titulo": "Swallow [MUN] Didactico la senda de la naturaleza lagos y arroyos",
     "autor": [
       "Swallow"
@@ -2729,7 +2740,7 @@
     "url_drive": "https://drive.google.com/file/d/1F_qTy9_FIauWB7TexXHxfeghSaR4r5ek/view?usp=sharing"
   },
   {
-    "id": "00144",
+    "id": "00145",
     "titulo": "Lopez Pacheco [BSAS] entomologia escarabajos Crisomélidos y Coccinélidos Aires",
     "autor": [
       "Lopez Pacheco"
@@ -2748,7 +2759,7 @@
     "url_drive": "https://drive.google.com/file/d/1WKtn_dMH-rVeoo3EIPCMsyYZPyB8X-1x/view?usp=sharing"
   },
   {
-    "id": "00145",
+    "id": "00146",
     "titulo": "Lopez Pacheco [ARG] entomologia Guía Insectos",
     "autor": [],
     "tema_principal": "entomología",
@@ -2765,7 +2776,7 @@
     "url_drive": "https://drive.google.com/file/d/1DdoDuSnupuNo6jLgGG5TJx9OQUqdAO0R/view?usp=sharing"
   },
   {
-    "id": "00146",
+    "id": "00147",
     "titulo": "Minist. Ciencia Tecologia [ARG] lamina artropodos argentina",
     "autor": [
       "Minist. Ciencia Tecologia"
@@ -2782,7 +2793,7 @@
     "url_drive": "https://drive.google.com/file/d/1UB9PbWccL3CL6WBl64ZzykJ-LEtd6PyH/view?usp=sharing"
   },
   {
-    "id": "00147",
+    "id": "00148",
     "titulo": "Peralta; Zubarn; FVSA [ARG] Guia del Escritorio al Campo 2013 Arañas en casa",
     "autor": [
       "Peralta",
@@ -2801,7 +2812,7 @@
     "url_drive": "https://drive.google.com/file/d/1lIqL0gpHy79iE70yw810wKu5vSGUnoZi/view?usp=sharing"
   },
   {
-    "id": "00148",
+    "id": "00149",
     "titulo": "Revista [ARG] CEAL Fauna Argentina Las Arañas II",
     "autor": [],
     "tema_principal": "entomología",
@@ -2816,7 +2827,7 @@
     "url_drive": "https://drive.google.com/file/d/1hJR9xXyv1Y6I8dp67NPZ1el2BFq01428/view?usp=sharing"
   },
   {
-    "id": "00149",
+    "id": "00150",
     "titulo": "Revista [ARG] CEAL Fauna Argentina 82 Las Arañas",
     "autor": [],
     "tema_principal": "entomología",
@@ -2831,7 +2842,7 @@
     "url_drive": "https://drive.google.com/file/d/1CyE76f0bwDU8q_-o6_UwjdgBFHcArsZL/view?usp=sharing"
   },
   {
-    "id": "00150",
+    "id": "00151",
     "titulo": "Rubio; Baigorria; Scioscia [ARG] Guía Arañas saltícidas de Misiones",
     "autor": [
       "Rubio",
@@ -2850,7 +2861,7 @@
     "url_drive": "https://drive.google.com/file/d/1_fjb9ulv0lz3XT_ei32cg3VDJAzDQAtP/view?usp=sharing"
   },
   {
-    "id": "00151",
+    "id": "00152",
     "titulo": "Zapata; Grismado [BSAS] Artículo Lista sistemática de arañas de la Reserva Ecológica Costanera Sur",
     "autor": [
       "Zapata",
@@ -2868,7 +2879,7 @@
     "url_drive": "https://drive.google.com/file/d/12a3d6Mpb0h-aOjSz9px4x3Fu-sy_sNkF/view?usp=sharing"
   },
   {
-    "id": "00152",
+    "id": "00153",
     "titulo": "Zubaran; FVSA [LOC] Guía Del Escritorio al campo Coleópteros de Buenos Aires y alrededores",
     "autor": [
       "Zubaran",
@@ -2886,7 +2897,7 @@
     "url_drive": "https://drive.google.com/file/d/10KUFBic8GiIxgiBC_W6MDo1_6A7Ik-Oq/view?usp=sharing"
   },
   {
-    "id": "00153",
+    "id": "00154",
     "titulo": "Botsford Comstock [MUN] entomologia Manual de Estudios de La Naturaleza Insecto insectos",
     "autor": [
       "Botsford Comstock"
@@ -2905,7 +2916,7 @@
     "url_drive": "https://drive.google.com/file/d/1JakqDeUBcHoNqzNvXrYO9JYTEBYjTN3N/view?usp=sharing"
   },
   {
-    "id": "00154",
+    "id": "00155",
     "titulo": "Braun [ARG] Entomologia Tettigoniidae Cap 6 en CLAPS JUÑENT MORRONE Biodiversidad de Artrópodos Argentinos",
     "autor": [
       "Braun"
@@ -2924,7 +2935,7 @@
     "url_drive": "https://drive.google.com/file/d/1ru4rKnVdZjEBqm98WurtEWjmV2vs__D4/view?usp=sharing"
   },
   {
-    "id": "00155",
+    "id": "00156",
     "titulo": "Buckley [MUN] Entomologia Articulo Vida de los Insectos",
     "autor": [
       "Buckley"
@@ -2943,7 +2954,7 @@
     "url_drive": "https://drive.google.com/file/d/1POqXMQDkFEUD9SIX3yE2ltcpqALe6NJD/view?usp=sharing"
   },
   {
-    "id": "00156",
+    "id": "00157",
     "titulo": "Carpintero; Güller; AZARA [BSAS] Libro Chinches terrestres de Buenos Aires",
     "autor": [
       "Carpintero",
@@ -2964,7 +2975,7 @@
     "url_drive": "https://drive.google.com/file/d/1_sfOUIg1aph3wEhLe5CuU2PN0k5Ujvqw/view?usp=sharing"
   },
   {
-    "id": "00157",
+    "id": "00158",
     "titulo": "Ferretti; Pompozzi; Copperi; Barneche [ARG] Libro Tarántulas de Argentina",
     "autor": [
       "Ferretti",
@@ -2984,7 +2995,7 @@
     "url_drive": "https://drive.google.com/file/d/1fcLVfxIIhooN9UTRe-cJbldkhyOo-7Ko/view?usp=sharing"
   },
   {
-    "id": "00158",
+    "id": "00159",
     "titulo": "FMCN [MUN] Entomologia Guia escarabajos peloteros",
     "autor": [
       "FMCN"
@@ -3003,7 +3014,7 @@
     "url_drive": "https://drive.google.com/file/d/1iqRCRtvVxGDeBkeGSGt8xzrhSgqdk8SX/view?usp=sharing"
   },
   {
-    "id": "00159",
+    "id": "00160",
     "titulo": "FVSA Guía del escritorio al campo 129 Libélulas y caballitos del diablo",
     "autor": [
       "FVSA"
@@ -3022,7 +3033,7 @@
     "url_drive": "https://drive.google.com/file/d/1mHrc4fhZ5R2hUbv0ffoMI-9-_YJkbtYO/view?usp=sharing"
   },
   {
-    "id": "00160",
+    "id": "00161",
     "titulo": "Gualtieri [ARG] Libro Arañas argentinas, una introducción",
     "autor": [
       "Gualtieri"
@@ -3039,7 +3050,7 @@
     "url_drive": "https://drive.google.com/file/d/1xyLQF28F1qbeKO8ZMl5OTg3VWwTBuAgL/view?usp=sharing"
   },
   {
-    "id": "00161",
+    "id": "00162",
     "titulo": "Agostini [LOC] Guía Ranas y sapos del fondo de tu casa. Anfibios de agroecosistemas de La Plata y alrededores",
     "autor": [
       "Agostini"
@@ -3058,7 +3069,7 @@
     "url_drive": "https://drive.google.com/file/d/16RAs4gI3VCUbCnEzTpSsNnnk5dWBuk9M/view?usp=sharing"
   },
   {
-    "id": "00162",
+    "id": "00163",
     "titulo": "Akmentis; Pereyra; Bonduri; Garcia; Contreras; Lopez; Vaira [ARG] Guía Anfibios Yungas",
     "autor": [
       "Akmentis",
@@ -3084,7 +3095,7 @@
     "url_drive": "https://drive.google.com/file/d/18fI89vpj-7WCUPTJa4aGe_CPgFN0hXId/view?usp=sharing"
   },
   {
-    "id": "00163",
+    "id": "00164",
     "titulo": "APN [ARG] Guía Lámina Anfibios de la Región Chaqueña 2018",
     "autor": [
       "APN"
@@ -3103,7 +3114,7 @@
     "url_drive": "https://drive.google.com/file/d/1qZvSpg-55WwTyWsx6UOEbky78JewMmeK/view?usp=sharing"
   },
   {
-    "id": "00164",
+    "id": "00165",
     "titulo": "Cabrera; Stazzonelli; Scrocchi [ARG] Herpetologia Articulo Ranas sapos serpientes Valles Calchaquíes",
     "autor": [
       "Cabrera",
@@ -3125,7 +3136,7 @@
     "url_drive": "https://drive.google.com/file/d/1aVfFDciDw9ZefDF8FgJi314Ue_41QYGE/view?usp=sharing"
   },
   {
-    "id": "00165",
+    "id": "00166",
     "titulo": "Cei [ARG] Monografia Amphibians of Argentina",
     "autor": [
       "Cei"
@@ -3142,7 +3153,7 @@
     "url_drive": "https://drive.google.com/file/d/1GT70CV3v_3zYnnxoPSMEZ_r_Kh84g2r9/view?usp=sharing"
   },
   {
-    "id": "00166",
+    "id": "00167",
     "titulo": "FVSA Guía del Escritorio al campo 101 Anfibios de la selva misionera",
     "autor": [
       "FVSA"
@@ -3161,7 +3172,7 @@
     "url_drive": "https://drive.google.com/file/d/1Wcilqudv0jJfORYi8VDuFxKDz6CZIwcu/view?usp=sharing"
   },
   {
-    "id": "00167",
+    "id": "00168",
     "titulo": "Giambelluca [BSAS] Guía Serpientes bonaerenses",
     "autor": [
       "Giambelluca"
@@ -3180,7 +3191,7 @@
     "url_drive": "https://drive.google.com/file/d/1PEkXTL7XP0HS0r1loeMHAe56Ue1dCxV4/view?usp=sharing"
   },
   {
-    "id": "00168",
+    "id": "00169",
     "titulo": "Giraudo [ARG] Libro Serpientes de la Selva Paranaense y Chaco Humedo",
     "autor": [
       "Giraudo"
@@ -3199,7 +3210,7 @@
     "url_drive": "https://drive.google.com/file/d/19Y49ndUNPafe4esKVfXUD7efq15DjVKw/view?usp=sharing"
   },
   {
-    "id": "00169",
+    "id": "00170",
     "titulo": "PRADO; HERNÁN IBÁÑEZ; MERIGGI [LOC] herpetologia Guía anfibios dique ingeniero roggero",
     "autor": [
       "PRADO",
@@ -3221,7 +3232,7 @@
     "url_drive": "https://drive.google.com/file/d/1MNlaDuDQDp-MV9_EjcdbBkwnonJFBCuQ/view?usp=sharing"
   },
   {
-    "id": "00170",
+    "id": "00171",
     "titulo": "Scolaro [ARG] Guía Reptiles patagónicos norte",
     "autor": [
       "Scolaro"
@@ -3240,7 +3251,7 @@
     "url_drive": "https://drive.google.com/file/d/1ltXTizJB6i09eDcS_rUH8KVRiW1qdQlU/view?usp=sharing"
   },
   {
-    "id": "00171",
+    "id": "00172",
     "titulo": "Williams; Di Pietro; Vera [BSAS] Listado Anfibios y reptiles de las sierras de ventania",
     "autor": [
       "Williams",
@@ -3262,7 +3273,7 @@
     "url_drive": "https://drive.google.com/file/d/1L_vGWkPFXOS710wO5uv9VKxXp68kDh7R/view?usp=sharing"
   },
   {
-    "id": "00172",
+    "id": "00173",
     "titulo": "Garavaglia; Centi Ferrei [ARG] guia didactico A buscar hongos",
     "autor": [
       "Garavaglia",
@@ -3280,8 +3291,8 @@
     "url_drive": "https://drive.google.com/file/d/1fwiAXEF7D_3znH39DO2b-T3GZd_8G5pP/view?usp=sharing"
   },
   {
-    "id": "00173",
-    "titulo": "✨ CAZAU; SPINEDI; ARAMBARRI; SUNESSEN; GONZALEZ IBAÑEZ [LOC] guia de Hongos del Parque Pereyra ultima edicion2024",
+    "id": "00174",
+    "titulo": "CAZAU; SPINEDI; ARAMBARRI; SUNESSEN; GONZALEZ IBAÑEZ [LOC] guia de Hongos del Parque Pereyra ultima edicion2024",
     "autor": [
       "CAZAU",
       "SPINEDI",
@@ -3304,7 +3315,7 @@
     "url_drive": "https://drive.google.com/file/d/1gZl-YuyYFex20PkJVZAXqFEX1UT-TPIA/view?usp=sharing"
   },
   {
-    "id": "00174",
+    "id": "00175",
     "titulo": "CAZAU; SPINEDI; ARAMBARRI; SUNESSEN; GONZALEZ IBAÑEZ [LOC] guia de Hongos del Parque Pereyra",
     "autor": [
       "CAZAU",
@@ -3328,7 +3339,7 @@
     "url_drive": "https://drive.google.com/file/d/1RYlQfAgDV4l34nGgydBsF5fdks45nnv2/view?usp=sharing"
   },
   {
-    "id": "00175",
+    "id": "00176",
     "titulo": "Editorial Universidad Nacional de Luján [BSAS] Guía Hongos de la Reserva Forestal Los Robles partido de Moreno Buenos Aires",
     "autor": [
       "Editorial Universidad Nacional de Luján"
@@ -3347,7 +3358,7 @@
     "url_drive": "https://drive.google.com/file/d/1p8mwtrZK0wuafFlfvo8sZS10l300Cn75/view?usp=sharing"
   },
   {
-    "id": "00176",
+    "id": "00177",
     "titulo": "hongos comestibles latinoamerica",
     "autor": [],
     "tema_principal": "hongos",
@@ -3364,7 +3375,7 @@
     "url_drive": "https://drive.google.com/file/d/1taW00QQp2QxbZCqHgMT3oATTsS5A5GEp/view?usp=sharing"
   },
   {
-    "id": "00177",
+    "id": "00178",
     "titulo": "Romano [ARG] Breve Guia de Nomenclatura de Hongos HongosAR",
     "autor": [
       "Romano"
@@ -3383,7 +3394,7 @@
     "url_drive": "https://drive.google.com/file/d/10dAppe2KgTHv144XHthmg2z9gnSomq-n/view?usp=sharing"
   },
   {
-    "id": "00178",
+    "id": "00179",
     "titulo": "Romano [ARG] Guia de identificacion de hongos con laminillas HongosAR",
     "autor": [
       "Romano"
@@ -3402,7 +3413,7 @@
     "url_drive": "https://drive.google.com/file/d/1pbysVm4D8tMZUoCNHVvpqfBAX6QQDum-/view?usp=sharing"
   },
   {
-    "id": "00179",
+    "id": "00180",
     "titulo": "Mouchard [ARG] Libro etimologia los nombres científicos de los mamiferos",
     "autor": [
       "Mouchard"
@@ -3419,7 +3430,7 @@
     "url_drive": "https://drive.google.com/file/d/1NWwoi3oygjhDTi6V9FmEA23YDDGPernm/view?usp=sharing"
   },
   {
-    "id": "00180",
+    "id": "00181",
     "titulo": "Nigro; Gasparri Steger [ARG] Guía Xenartros argentinos",
     "autor": [
       "Nigro",
@@ -3439,7 +3450,7 @@
     "url_drive": "https://drive.google.com/file/d/1flnG31mXelaXDfVAtckzrkGJ82iIWLM1/view?usp=sharing"
   },
   {
-    "id": "00181",
+    "id": "00182",
     "titulo": "OJEDA; BORGHI; ROIG [ARG] articulo MAMIFEROS DE ARGENTINA",
     "autor": [
       "OJEDA",
@@ -3460,7 +3471,7 @@
     "url_drive": "https://drive.google.com/file/d/1X2bGstZ6dNQlKOb4nnSWbXit8WnPVtDJ/view?usp=sharing"
   },
   {
-    "id": "00182",
+    "id": "00183",
     "titulo": "Olrog; Lucero [ARG] Mamiferos Argentinos Fundacion Miguel Lillo",
     "autor": [
       "Olrog",
@@ -3480,7 +3491,7 @@
     "url_drive": "https://drive.google.com/file/d/1_N8dvNeDQZv0O8KbO5HZjkWJdCSK-nPR/view?usp=sharing"
   },
   {
-    "id": "00183",
+    "id": "00184",
     "titulo": "Orozco; Gonzalez Ciccia Soler [ARG] Libro El aguará guazú (Chrysocyon brachyurus) en la Argentina",
     "autor": [
       "Orozco",
@@ -3498,7 +3509,7 @@
     "url_drive": "https://drive.google.com/file/d/1zwQyMHhyfyiGrK3lFSH9bhBeDdY29c4e/view?usp=sharing"
   },
   {
-    "id": "00184",
+    "id": "00185",
     "titulo": "Prates; Pérez [SAM] Artículo Los seres humanos y la extinción de la megafauna en Sudamérica durante el Pleistoceno final",
     "autor": [
       "Prates",
@@ -3516,7 +3527,7 @@
     "url_drive": "https://drive.google.com/file/d/1KSHNjkVNNRRxjXVenyj9ojOxE30Rb-vA/view?usp=sharing"
   },
   {
-    "id": "00185",
+    "id": "00186",
     "titulo": "Revista [ARG] CEAL Fauna Argentina 002 El Carpincho",
     "autor": [],
     "tema_principal": "mamíferos",
@@ -3531,7 +3542,7 @@
     "url_drive": "https://drive.google.com/file/d/1LNe2xOsBZfG8wd4JMYYqIZGpbmgSL_Qq/view?usp=sharing"
   },
   {
-    "id": "00186",
+    "id": "00187",
     "titulo": "Lichter; Hooper [ARG] Guía para el reconocimiento de cetáceos del Mar Argentino FVSA",
     "autor": [
       "Lichter",
@@ -3551,7 +3562,7 @@
     "url_drive": "https://drive.google.com/file/d/1fwfoZDzqI3NeIMt5mBEeXkov5TvKpgYL/view?usp=sharing"
   },
   {
-    "id": "00187",
+    "id": "00188",
     "titulo": "APN [ARG] Guía de huellas, rastros y señales de los pequeños mamíferos de los Parques Nacionales",
     "autor": [
       "APN"
@@ -3570,7 +3581,7 @@
     "url_drive": "https://drive.google.com/file/d/18l7MRjAnpjx7spi9OWecviOhsx_Hmxmu/view?usp=sharing"
   },
   {
-    "id": "00188",
+    "id": "00189",
     "titulo": "APN [ARG] Lámina Mamiferos de la región chaqueña 2011",
     "autor": [
       "APN"
@@ -3589,7 +3600,7 @@
     "url_drive": "https://drive.google.com/file/d/1DheFTL3VoSsAHpe-2G-g1hJvJ02C22NO/view?usp=sharing"
   },
   {
-    "id": "00189",
+    "id": "00190",
     "titulo": "AZARA [ARG] Guía Mamíferos marinos del Golfo San Matías",
     "autor": [
       "AZARA"
@@ -3608,7 +3619,7 @@
     "url_drive": "https://drive.google.com/file/d/1SmhimcRwyy93AWnFiQmuH8pgtHcl4oL6/view?usp=sharing"
   },
   {
-    "id": "00190",
+    "id": "00191",
     "titulo": "Barquez; Díaz; Ojeda libro Mamiferos de Argentina Sistematica y distribucion SAREM",
     "autor": [
       "Barquez",
@@ -3629,7 +3640,7 @@
     "url_drive": "https://drive.google.com/file/d/1H2yrBVfAFR8vxMrULzaIU4iPz5wisHwY/view?usp=sharing"
   },
   {
-    "id": "00191",
+    "id": "00192",
     "titulo": "Barquez; Diaz [ARG] Guia Nueva Guia de Murcielagos de Argentina",
     "autor": [
       "Barquez",
@@ -3649,7 +3660,7 @@
     "url_drive": "https://drive.google.com/file/d/1ybY6bb6MIUMDlGHtlXOxReoeS7sDf70D/view?usp=sharing"
   },
   {
-    "id": "00192",
+    "id": "00193",
     "titulo": "Canevari; Ibañez [LOC] Guia de huellas delos mamiferos dique Roggero",
     "autor": [
       "Canevari",
@@ -3669,7 +3680,7 @@
     "url_drive": "https://drive.google.com/file/d/1vTwF15_nHw1a4d9LMg1BePkrcftWysCs/view?usp=sharing"
   },
   {
-    "id": "00193",
+    "id": "00194",
     "titulo": "Coscarella; Riera; Dans; Lucchetti [ARG] Guia de cetaceos golfo san jorge",
     "autor": [
       "Coscarella",
@@ -3691,7 +3702,7 @@
     "url_drive": "https://drive.google.com/file/d/1O3QUmmZl9WZmfUmyunTk_MTKc5p3O0ED/view?usp=sharing"
   },
   {
-    "id": "00194",
+    "id": "00195",
     "titulo": "Forasiepi; Martinelli Blanco [SAM] Libro Bestiario fósil. Mamíferos del pleistoceno de la Argentina",
     "autor": [
       "Forasiepi",
@@ -3711,7 +3722,7 @@
     "url_drive": "https://drive.google.com/file/d/1LSb8F4puPBDozfPgCbvQc-kKQhTEyaxp/view?usp=sharing"
   },
   {
-    "id": "00195",
+    "id": "00196",
     "titulo": "Fundación PCMA [ARG] Guía Lámina Murciélagos de Buenos Aires",
     "autor": [
       "Fundación PCMA [ARG]"
@@ -3728,23 +3739,6 @@
     "extension": ".jpg",
     "ruta_local": "Mamiferos/Fundación PCMA [ARG] - Guía Lámina Murciélagos de Buenos Aires.jpg",
     "url_drive": "https://drive.google.com/file/d/1AowD4LpbEVBJwBEfn5ePCRR4cbGX8e33/view?usp=sharing"
-  },
-  {
-    "id": "00196",
-    "titulo": "FVSA [ARG] Guía Del Escritorio al campo 120 Micromamíferos de los agroecosistemas de la región Pampeana y Espinal",
-    "autor": [
-      "FVSA"
-    ],
-    "tema_principal": "mamíferos",
-    "tipo": "guía",
-    "etiquetas": [],
-    "coleccion": null,
-    "fuente": "local",
-    "acceso": "visor_drive",
-    "alcance_geografico": "ARG",
-    "extension": ".pdf",
-    "ruta_local": "Mamiferos/FVSA - [ARG] Guía Del Escritorio al campo 120 Micromamíferos de los agroecosistemas\nde la región Pampeana y Espinal.pdf",
-    "url_drive": "https://drive.google.com/file/d/1f1g-iKu7KUB1egHMc3N3j0uzI0-L1UPW/view?usp=sharing"
   },
   {
     "id": "00197",
@@ -4501,6 +4495,23 @@
   },
   {
     "id": "00236",
+    "titulo": "✨ Despret [MUN] Libro Habitar Como Un Pajaro",
+    "autor": [
+      "Despret"
+    ],
+    "tema_principal": "sin clasificar",
+    "tipo": "libro",
+    "etiquetas": [],
+    "coleccion": null,
+    "fuente": "local",
+    "acceso": "visor_drive",
+    "alcance_geografico": "MUN",
+    "extension": ".pdf",
+    "ruta_local": "Por clasificar/ Despret - [MUN] Libro Habitar Como Un Pajaro.pdf",
+    "url_drive": "https://drive.google.com/file/d/16_qYOrOPTFO63LnZrOq2h9q6imqAmGxK/view?usp=sharing"
+  },
+  {
+    "id": "00237",
     "titulo": "Aprile; Bertonatti [ARG] Manual sobre rehabilitacion de fauna",
     "autor": [
       "Aprile",
@@ -4518,7 +4529,7 @@
     "url_drive": "https://drive.google.com/file/d/1nLoM3HeHnobErJ7hTF-_wWfAdMSvO3eL/view?usp=sharing"
   },
   {
-    "id": "00237",
+    "id": "00238",
     "titulo": "AZARA [ARG] Libro Iconografía de moluscos continentales de la Argentina, primera parte",
     "autor": [
       "AZARA"
@@ -4535,7 +4546,7 @@
     "url_drive": "https://drive.google.com/file/d/1BhSxMLMnGjUfUbuCe9GLNpFiLQgnUyvR/view?usp=sharing"
   },
   {
-    "id": "00238",
+    "id": "00239",
     "titulo": "Bauni; Bertonatti; Giacchino Inventario Biologico Argentino",
     "autor": [
       "Bauni",
@@ -4554,7 +4565,7 @@
     "url_drive": "https://drive.google.com/file/d/14Nz5OFop5HWSp1avVgpmWWpceVIAoBnW/view?usp=sharing"
   },
   {
-    "id": "00239",
+    "id": "00240",
     "titulo": "Bebbington [SAM] Libro Minería, movimientos sociales y respuestas campesinas Una ecología política de transformaciones territoriales",
     "autor": [
       "Bebbington"
@@ -4571,7 +4582,7 @@
     "url_drive": "https://drive.google.com/file/d/1-SCflPUckHRRgXICl9avoUyY9oTLP1Er/view?usp=sharing"
   },
   {
-    "id": "00240",
+    "id": "00241",
     "titulo": "Bertonatti; AZARA [ARG] Libro La naturaleza de la patria. Valor y cuidado de la biodiversidad argentina",
     "autor": [
       "Bertonatti",
@@ -4589,7 +4600,7 @@
     "url_drive": "https://drive.google.com/file/d/17DTZFNQlN3t8q_Jxwvh_wT8Ix1fbv62x/view?usp=sharing"
   },
   {
-    "id": "00241",
+    "id": "00242",
     "titulo": "Caballero; Velasco [ARG] Guía de Especies de Comercio Ilegal 2024",
     "autor": [
       "Caballero",
@@ -4607,7 +4618,7 @@
     "url_drive": "https://drive.google.com/file/d/1cL3l1MdGuIfcyUjyAxBFt1_NuYfpcQ1j/view?usp=sharing"
   },
   {
-    "id": "00242",
+    "id": "00243",
     "titulo": "Caballero; Velasco [ARG] Guía de Especies de Curso Legal 2024",
     "autor": [
       "Caballero",
@@ -4625,7 +4636,7 @@
     "url_drive": "https://drive.google.com/file/d/1pz_bNw0VNdQ_BSZaqzZpChOiS70Hh4Md/view?usp=sharing"
   },
   {
-    "id": "00243",
+    "id": "00244",
     "titulo": "Campagna; Guevara [MUN] Libro Hablar de formas de vida El lenguaje de la conservación",
     "autor": [
       "Campagna",
@@ -4643,8 +4654,8 @@
     "url_drive": "https://drive.google.com/file/d/1Mo3SpcYrcx7sn0x6EL2QSDFMh2gnWVY-/view?usp=sharing"
   },
   {
-    "id": "00244",
-    "titulo": "✨ CEAMSE [LOC] Guia de Biodiversidad Corredor biológico Avellaneda Quilmes",
+    "id": "00245",
+    "titulo": "CEAMSE [LOC] Guia de Biodiversidad Corredor biológico Avellaneda Quilmes",
     "autor": [],
     "tema_principal": "sin clasificar",
     "tipo": "guía",
@@ -4658,7 +4669,7 @@
     "url_drive": "https://drive.google.com/file/d/15MNfir1D6UKASZt11Gy4-_QSfdUVNNn5/view?usp=sharing"
   },
   {
-    "id": "00245",
+    "id": "00246",
     "titulo": "Chebez; Rodriguez; AZARA [ARG] Libro La fauna gringa. Especies introducidas en la Argentina",
     "autor": [
       "Chebez",
@@ -4677,7 +4688,7 @@
     "url_drive": "https://drive.google.com/file/d/14AeP2X7ssP5GDuTvuCVN9KZ6OXFf5rOy/view?usp=sharing"
   },
   {
-    "id": "00246",
+    "id": "00247",
     "titulo": "Dalia; Bauni; Homberg; Giacchino [ARG] Libro Especies amenazadas de la Argentina",
     "autor": [
       "Dalia",
@@ -4697,7 +4708,7 @@
     "url_drive": "https://drive.google.com/file/d/1BVMJGGmluZdoPLDGDHHpYW7pCOjjbyRv/view?usp=sharing"
   },
   {
-    "id": "00247",
+    "id": "00248",
     "titulo": "Dirccion General de Escuela y Educacion PBA [BSAS] animales de la provincia",
     "autor": [
       "Dirccion General de Escuela y Educacion PBA"
@@ -4714,7 +4725,7 @@
     "url_drive": "https://drive.google.com/file/d/1A1pSqdt--Zcg18lju99_8pCTH1WIcoME/view?usp=sharing"
   },
   {
-    "id": "00248",
+    "id": "00249",
     "titulo": "Erize; FVSA [ARG] El Gran Libro de la Naturaleza Argentina",
     "autor": [
       "Erize",
@@ -4730,23 +4741,6 @@
     "extension": ".pdf",
     "ruta_local": "Por clasificar/Erize; FVSA - [ARG] El Gran Libro de la Naturaleza Argentina.pdf",
     "url_drive": "https://drive.google.com/file/d/1wv4ddldlG1buipP6AeclLv-6YmfuH53u/view?usp=sharing"
-  },
-  {
-    "id": "00249",
-    "titulo": "Fernández Balboa [ARG] Libro Zoológicos Acuarios y Oceanarios de Argentina en el Siglo XXI",
-    "autor": [
-      "Fernández Balboa"
-    ],
-    "tema_principal": "sin clasificar",
-    "tipo": "libro",
-    "etiquetas": [],
-    "coleccion": null,
-    "fuente": "local",
-    "acceso": "visor_drive",
-    "alcance_geografico": "ARG",
-    "extension": ".pdf",
-    "ruta_local": "Por clasificar/Fernández Balboa - [ARG] Libro Zoológicos Acuarios y Oceanarios de Argentina\nen el Siglo XXI.pdf",
-    "url_drive": "https://drive.google.com/file/d/1VthaMZVkJp64xVnBRL9KOoK7ACgFrq99/view?usp=sharing"
   },
   {
     "id": "00250",
