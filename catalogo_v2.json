@@ -2174,8 +2174,12 @@
   },
   {
     "id": "00115",
-    "titulo": "✨ Ciancio; Rodríguez; Soibelzon [SAM] Caminando hacia tierras nuevas. Cuando se unieron las Américas.",
-    "autor": [],
+    "titulo": "Ciancio; Rodríguez; Soibelzon [SAM] Caminando hacia tierras nuevas. Cuando se unieron las Américas",
+    "autor": [
+      "Ciancio",
+      "Rodríguez",
+      "Soibelzon"
+    ],
     "tema_principal": "sin clasificar",
     "tipo": "material didáctico",
     "etiquetas": [
@@ -2186,13 +2190,17 @@
     "acceso": "visor_drive",
     "alcance_geografico": "SAM",
     "extension": ".pdf",
-    "ruta_local": "Educación Ambiental - Material didáctico/Ciancio; Rodríguez; Soibelzon [SAM] Caminando hacia tierras nuevas. Cuando se unieron las Américas..pdf",
+    "ruta_local": "Educación Ambiental - Material didáctico/Ciancio; Rodríguez; Soibelzon - [SAM] Caminando hacia tierras nuevas. Cuando se unieron las Américas.pdf",
     "url_drive": "https://drive.google.com/file/d/1FogPF2B9lktZQwS21QlbgjuXQp593w2V/view?usp=sharing"
   },
   {
     "id": "00116",
     "titulo": "✨ Ciancio; Soibelzon; Francia [BSAS] Libro Caminando sobre gliptodontes y tigres dientes de sable",
-    "autor": [],
+    "autor": [
+      "Ciancio",
+      "Soibelzon",
+      "Francia"
+    ],
     "tema_principal": "sin clasificar",
     "tipo": "material didáctico",
     "etiquetas": [
@@ -2203,7 +2211,7 @@
     "acceso": "visor_drive",
     "alcance_geografico": "BSAS",
     "extension": ".pdf",
-    "ruta_local": "Educación Ambiental - Material didáctico/Ciancio; Soibelzon; Francia [BSAS] Libro Caminando sobre gliptodontes y tigres dientes de sable.pdf",
+    "ruta_local": "Educación Ambiental - Material didáctico/Ciancio; Soibelzon; Francia - [BSAS] Libro Caminando sobre gliptodontes y tigres dientes de sable.pdf",
     "url_drive": "https://drive.google.com/file/d/1SPrZEg8yQfdbd4SA7zA6ZyQTD4NGV23j/view?usp=sharing"
   },
   {
